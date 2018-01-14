@@ -1,0 +1,9 @@
+# vs-code files
+*workspace
+
+# Mac OS stuff
+*DS_STORE
+
+# Hugo
+themes
+public

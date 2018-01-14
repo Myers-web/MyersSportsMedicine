@@ -1,0 +1,18 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Myers Sports Medicine"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 2
