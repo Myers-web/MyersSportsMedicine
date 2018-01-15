@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "grantcooksey.github.io/MyersSportsMedicine"
 languageCode = "en-us"
 title = "Myers Sports Medicine"
 
@@ -6,13 +6,14 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 enableRobotsTXT = true
+relativeurls = true
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = ""
     weight = 1
 
 [[menu.main]]
     name = "About"
-    url = "/"
+    url = ""
     weight = 2
