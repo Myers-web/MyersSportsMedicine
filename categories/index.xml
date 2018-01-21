@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Myers Sports Medicine</title>
-    <link>grantcooksey.github.io/MyersSportsMedicine/categories/</link>
+    <link>https://grantcooksey.github.io/MyersSportsMedicine/categories/</link>
     <description>Recent content in Categories on Myers Sports Medicine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="grantcooksey.github.io/MyersSportsMedicine/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grantcooksey.github.io/MyersSportsMedicine/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
