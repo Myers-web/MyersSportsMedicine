@@ -1,0 +1,12 @@
+{{ $featured_image := .Site.Params.featuredImage | absURL }}
+<header style="background-image: url('{{ $featured_image }}');">
+    <div class="header-container">
+        {{ partial "nav" . }}
+        <div class="container-fluid">
+            <div class="jumbotron text-center">
+                <img src="{{ .Site.Params.logo | absURL }}">
+                <h1>{{ .Site.Params.homepageTitle }}</h1>
+            </div>
+        </div>
+    </div>
+</header>

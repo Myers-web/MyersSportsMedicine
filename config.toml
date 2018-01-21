@@ -1,4 +1,4 @@
-baseurl = "grantcooksey.github.io/MyersSportsMedicine"
+baseurl = "https://grantcooksey.github.io/MyersSportsMedicine"
 languageCode = "en-us"
 title = "Myers Sports Medicine"
 
@@ -17,3 +17,8 @@ relativeurls = true
     name = "About"
     url = ""
     weight = 2
+
+[Params]
+    featuredImage = "images/myers-operating.jpg"
+    logo = "images/logo.jpg"
+    homepageTitle = "Welcome to Myers Sports Medicine"
