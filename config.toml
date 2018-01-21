@@ -21,4 +21,3 @@ relativeurls = true
 [Params]
     featuredImage = "images/myers-operating.jpg"
     logo = "images/logo.jpg"
-    homepageTitle = "Welcome to Myers Sports Medicine"
