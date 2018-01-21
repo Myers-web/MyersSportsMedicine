@@ -2,7 +2,7 @@
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="{{ .Site.BaseURL | relURL }}">
+            <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
                 {{.Site.Title}}
             </a>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -31,7 +31,7 @@
                 </li>
                 {{ else }}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ .URL | relURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
+                    <a class="nav-link" href="{{ .URL | absURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
                     <span>{{ .Name }}</span>
                     </a>
                 </li>

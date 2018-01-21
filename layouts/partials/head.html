@@ -6,9 +6,9 @@
     <title>{{.Site.Title}}</title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
     <!-- CSS Files -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" />
-    <link href="css/bootstrap-theme.min.css" rel="stylesheet" />
-    <link href="css/main.css" rel="stylesheet" />
+    <link href="{{ "css/bootstrap.min.css" | absURL }}" rel="stylesheet" />
+    <link href="{{ "css/bootstrap-theme.min.css" | absURL }}" rel="stylesheet" />
+    <link href="{{ "css/main.css" | absURL }}" rel="stylesheet" />
     
   {{ range .Site.Params.custom_css -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
