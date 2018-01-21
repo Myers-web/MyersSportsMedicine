@@ -1,5 +1,26 @@
 body {
-    background-color: #022A41;
+    background-color: rgb(12, 33, 63);
+}
+
+.navbar {
+    opacity: .9;
+}
+
+header {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover!important;
+    display: block;
+}
+
+.header-container {
+    background-color: rgba(0, 0, 0, .4);
+}
+
+.jumbotron {
+    color: white;
+    background-color: transparent;
 }
 
 p, h1 {
