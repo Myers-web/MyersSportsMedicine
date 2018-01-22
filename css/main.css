@@ -1,6 +1,7 @@
 body {
     background-color: rgb(12, 33, 63);
     color: rgba(205, 203, 203, 0.982);
+    font-family: 'Arvo', serif;
 }
 
 .navbar {
@@ -20,7 +21,8 @@ header {
 }
 
 .main-section {
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     padding: 10px;
     border-radius: 10px;
     -webkit-border-radius: 10px;
