@@ -1,5 +1,6 @@
 body {
     background-color: rgb(12, 33, 63);
+    color: rgba(205, 203, 203, 0.982);
 }
 
 .navbar {
@@ -18,11 +19,27 @@ header {
     background-color: rgba(0, 0, 0, .4);
 }
 
-.jumbotron {
-    color: white;
-    background-color: transparent;
+.main-section {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
 }
 
-p, h1 {
-    color: rgba(205, 203, 203, 0.982);
+.main-row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.black {
+    background-color: rgb(40, 40, 40);
+}
+
+.blue {
+    background-color: rgb(39, 37, 77); 
+}
+
+.jumbotron {
+    background-color: transparent;
 }

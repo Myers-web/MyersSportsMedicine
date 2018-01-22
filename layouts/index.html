@@ -1,6 +1,14 @@
 {{ define "main" }}
-    <main aria-role="main">
-        <h1>{{ .Title }}</h1>
-        <p>{{ .Content }}</p>
+    <main class="container" aria-role="main">
+        <section class="main-section rounded black">
+            <div class="row main-row">
+                <div class="page-header col-xs-12 text-center">
+                    <h1>{{ .Title }}</h1>
+                </div>
+                <div class="col-xs-12">
+                    {{ .Content }}
+                </div>
+            </div>
+        </section>
     </main>
 {{ end }}
