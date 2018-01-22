@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://grantcooksey.github.io/MyersSportsMedicine/</loc>
+    <loc>https://grantcooksey.github.io/MyersSportsMedicine/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://grantcooksey.github.io/MyersSportsMedicine/tags/</loc>
-    <priority>0</priority>
+    <loc>https://grantcooksey.github.io/MyersSportsMedicine/</loc>
   </url>
   
 </urlset>
