@@ -13,11 +13,6 @@ relativeurls = true
     url = ""
     weight = 1
 
-[[menu.main]]
-    name = "About"
-    url = ""
-    weight = 2
-
 [Params]
     featuredImage = "images/myers-operating.jpg"
     logo = "images/logo.jpg"
