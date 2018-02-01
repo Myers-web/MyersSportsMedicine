@@ -3,6 +3,8 @@ title: "Molly Myers"
 description: ""
 ---
 
+![](/images/staff-bios/molly-myers.jpg)
+
 Molly Myers graduated from Virginia Tech in 1995 with a Bachelor of Science degree in 
 Chemistry.
 

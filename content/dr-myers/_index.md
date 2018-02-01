@@ -3,6 +3,8 @@ title: "Dr Myers"
 description: ""
 ---
 
+![](/images/dr-myers/myers-main.jpg)
+
 Dr. Thomas H. Myers is a board certified orthopaedic surgeon and sports medicine expert. 
 He moved to Atlanta to practice in 2003 after completing a year long fellowship with 
 world-renowned orthopaedic surgeon Dr. James Andrews.  While training with Dr. Andrews, 

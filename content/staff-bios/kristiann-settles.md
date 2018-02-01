@@ -3,6 +3,8 @@ title: "Kristiann Settles"
 description: ""
 ---
 
+![](/images/staff-bios/kristiann-settles.jpg)
+
 Kristiann Settles obtained her Bachelor of Science in Exercise & Health Science from 
 Kennesaw State University in 2014. Early in her studies, Kristiann conducted an analysis 
 in Biomechanics, which stimulated an interest in orthopaedic rehabilitation and 

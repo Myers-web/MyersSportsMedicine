@@ -3,6 +3,8 @@ title: "Tiffany Jackson"
 description: ""
 ---
 
+![](/images/staff-bios/tiffany-jackson.jpg)
+
 Born and raised in Atlanta, Tiffany Jackson attended Southside High School and went on 
 to obtain an Associates degree in Health Information Technology. Tiffany loves helping 
 others and spending time with family and friends. She has one daughter and is currently 

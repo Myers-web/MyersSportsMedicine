@@ -3,6 +3,8 @@ title: "Regilyn W. Fish, Practice Manager"
 description: ""
 ---
 
+![](/images/staff-bios/regilyn-fish.jpg)
+
 Regilyn graduated from The University of Alabama in 2002 with a Bachelor of Science 
 degree in Athletic Training and a minor in Nutrition.
 

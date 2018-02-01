@@ -3,6 +3,8 @@ title: "Key Information"
 description: ""
 ---
 
+![](/images/dr-myers/dr-thomas-myers.jpg)
+
 # Specialties
 Open & Arthroscopic Cartilage Replacement Procedures
 Knee and Shoulder Arthroscopy
