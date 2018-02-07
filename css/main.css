@@ -1,11 +1,25 @@
 body {
-    background-color: rgb(12, 33, 63);
     color: rgba(205, 203, 203, 0.982);
     font-family: 'Arvo', serif;
 }
 
 .navbar {
     opacity: .9;
+}
+
+.navbar .container-fluid {
+    background-color: rgb(15,59,84);
+}
+
+.nav-item {
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+
+.nav-item:hover {
+    background-color: rgb(10, 47, 66);
 }
 
 header {
@@ -17,7 +31,7 @@ header {
 }
 
 .header-container {
-    background-color: rgba(0, 0, 0, .4);
+    background-color: rgba(0, 0, 0, .2);
 }
 
 .main-section {
