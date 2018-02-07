@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Myers Sports Medicine & Orthopaedic Center"
+featuredImage: "images/myers-operating.jpg"
 ---
 Myers Sports Medicine & Orthopaedic Center (MSMOC) was 
 founded by Harvard educated Surgeon Thomas H. Myers. 

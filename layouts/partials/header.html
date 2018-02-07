@@ -1,4 +1,6 @@
-{{ $featured_image := .Site.Params.featuredImage | absURL }}
+{{ $featured_image := .Param "featuredimage" | default .Site.Params.defaultImage }}
+{{ $featured_image := $featured_image | absURL }}
+
 <header style="background-image: url('{{ $featured_image }}');">
     <div class="header-container">
         {{ partial "nav" . }}
