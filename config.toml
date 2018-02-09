@@ -14,5 +14,5 @@ relativeurls = true
     weight = 1
 
 [Params]
-    defaultImage = "images/myers-operating.jpg"
+    defaultImage = "images/featured-images/myers-operating.jpg"
     logo = "images/logo.jpg"
