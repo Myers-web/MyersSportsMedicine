@@ -11,15 +11,19 @@ body {
     color: rgba(205, 203, 203, 0.982);
 }
 
+.navbar span:hover {
+    color: white;
+}
+
 .navbar .container-fluid {
     background-color: rgb(15,59,84);
 }
 
 .nav-item {
-    -moz-transition: all .3s ease-in;
-    -o-transition: all .3s ease-in;
-    -webkit-transition: all .3s ease-in;
-    transition: all .3s ease-in;
+    -moz-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+    -webkit-transition: all .4s ease-in;
+    transition: all .4s ease-in;
 }
 
 .nav-item:hover {
