@@ -7,6 +7,10 @@ body {
     opacity: .9;
 }
 
+.navbar span {
+    color: rgba(205, 203, 203, 0.982);
+}
+
 .navbar .container-fluid {
     background-color: rgb(15,59,84);
 }
