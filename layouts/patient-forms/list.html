@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ partial "header" . }}
+<main class="container" aria-role="main">
+    <section class="main-section rounded black">
+        <div class="row main-row">
+            <div class="page-header col-xs-12 text-center">
+                <h1>{{ .Title }}</h1>
+            </div>
+            <div class="col-xs-12">
+                {{ .Content }}
+                <ul class="contents">
+                    <li><a href="{{ "documents/Patient_Acknowledgement_Form.pdf" | absURL }}">PATIENT ACKNOWLEDGEMENT FORM</a></li>
+                    <li><a href="{{ "documents/Patient_Info_Form.pdf" | absURL }}">PATIENT INFORMATION FORM</a></li>
+                    <li><a href="{{ "documents/2015-Patient-Insurance-Information.pdf" | absURL }}">RECEIPT OF OUR NOTICE OF PRIVACY PRACTICES</a></li>
+                    <li><a href="{{ "documents/Hippa_Form.pdf" | absURL }}">PATIENT INSURANCE INFORMATION</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</main>
+{{ end }}
