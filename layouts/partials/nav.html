@@ -16,18 +16,21 @@
                 {{ range .Site.Menus.main }}
                 {{ if .HasChildren }}
                 <li class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown">
-                    {{ .Pre }} <span>{{ .Name }}</span>
-                    <span class="caret"></span>
-                    </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                    {{ range .Children }}
-                    <a class="dropdown-item" href="{{ .URL | relURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
-                        {{ .Pre }}
+                    <a href="{{ "" | absURL }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        {{ .Pre }} 
                         <span>{{ .Name }}</span>
-                        </a>
-                    {{end}}
-                    </div>
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        {{ range .Children }}
+                        <li>
+                            <a href="{{ .URL | absURL }}">
+                                {{ .Pre }}
+                                <span>{{ .Name }}</span>
+                            </a>
+                        </li>
+                        {{end}}
+                    </ul>
                 </li>
                 {{ else }}
                 <li class="nav-item">
