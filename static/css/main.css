@@ -67,3 +67,21 @@ header {
 .jumbotron {
     background-color: transparent;
 }
+
+.footer-copyright {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: black; 
+}
+
+.footer-contact {
+    background-color: rgb(10, 47, 66);
+    padding-bottom: 30px;
+}
+
+@media only screen and (max-width: 630px)  {
+    .footer-contact iframe {
+        display: none;
+    }
+}
