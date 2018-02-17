@@ -1,6 +1,6 @@
 <!-- Navbar -->
 <nav class="navbar navbar-inverse">
-    <div class="container-fluid">
+    <div class="container-fluid blue2">
         <div class="navbar-header">
             <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
                 <span>{{.Site.Title}}</span>
@@ -21,10 +21,10 @@
                         <span>{{ .Name }}</span>
                         <span class="caret"></span>
                     </a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu blue4">
                         {{ range .Children }}
                         <li>
-                            <a href="{{ .URL | absURL }}">
+                            <a href="{{ .URL | absURL }}" class="">
                                 {{ .Pre }}
                                 <span>{{ .Name }}</span>
                             </a>
