@@ -1,9 +1,8 @@
 ---
 title: "Michael Mcgrane"
 description: ""
+pic: "images/staff-bios/michael-mcgrane.jpg"
 ---
-
-![](/images/staff-bios/michael-mcgrane.jpg)
 
 Michael McGrane served four years active duty in The U.S. Army.  During his service, he
 trained at The Academy of Health Science, FT Sam Huston, Texas and was assigned to 
