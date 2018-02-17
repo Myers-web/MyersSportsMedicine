@@ -1,25 +1,17 @@
 {{ define "main" }}
 {{ partial "header" . }}
-    <main class="container" aria-role="main">
-        <section class="main-section rounded black" style="background-image: url('{{ "images/backgrounds/spiration-dark.png" | absURL }}');">
-            <div class="row main-row">
-                <div class="page-header col-xs-12 text-center">
-                    <h1>{{ .Title }}</h1>
-                </div>
-                <div class="col-xs-12">
-                    {{ .Content }}
-                    <ul class="contents">
-                    {{ range .Paginator.Pages }}
-                        <li>
-                            <a href="{{ .URL | absURL }}">
-                                <span>{{.Title}}</span>
-                            </a>
-                            <!-- <div>{{/*partial "summary.html" . */}}</div> -->
-                        </li>
-                    {{ end }}
-                    </ul>
-                </div>
-            </div>
-        </section>
-    </main>
+{{ partial "main-top" . }}
+<div class="col-xs-12">
+    {{ .Content }}
+    <ul class="contents">
+    {{ range .Paginator.Pages }}
+        <li>
+            <a href="{{ .URL | absURL }}">
+                <span>{{.Title}}</span>
+            </a>
+        </li>
+    {{ end }}
+    </ul>
+</div>
+{{ partial "main-bottom" . }}
 {{ end }}
