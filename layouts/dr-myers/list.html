@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="row">
+    <div class="col-xs-12">
+        <img src="{{ .Param "pic" | absURL }}" class="pull-left margin-right">
+        {{ .Content }}
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <ul class="contents">
+        {{ range .Paginator.Pages }}
+            <li>
+                <a href="{{ .URL | absURL }}">
+                    <span>{{.Title}}</span>
+                </a>
+            </li>
+        {{ end }}
+        </ul>
+    </div>
+</div>
+{{ partial "main-bottom" . }}
+{{ end }}

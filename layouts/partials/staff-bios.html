@@ -1,0 +1,20 @@
+<div class="row">
+{{ range $index, $element := .Paginator.Pages }}
+    {{ if (eq $index 3) }}
+        </div>
+        <div class="row margin-top">
+    {{ end }}
+    
+    {{ if (eq $index 4) }}
+        <div class="col-xs-6 text-center">
+    {{ else if (eq $index 3) }}
+        <div class="col-xs-6 text-center">
+    {{ else }}
+        <div class="col-xs-4 text-center">
+    {{ end }}
+            <a href="{{ .URL | absURL }}">
+                <img src="{{ .Param "pic" | absURL }}">
+            </a>
+        </div>
+{{ end }}
+</div>

@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: ""
+featuredImage: "images/about/office.jpg"
 ---
 Our practice is a state of the art facility fully equipped with three exam suites, 
 digital imaging equipment, a complete imaging facility and a luxurious waiting room. A 

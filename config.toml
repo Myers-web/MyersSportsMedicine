@@ -38,16 +38,10 @@ relativeurls = true
     weight = 3
 
 [[menu.main]]
-    name = "Contact Us"
-    url = "about/contact-us/"
-    parent = "about"
-    weight = 4
-
-[[menu.main]]
     name = "Staff Bios"
     url = "staff-bios/"
     parent = "about"
-    weight = 5
+    weight = 4
 
 # Patient Info ----------------------
 
