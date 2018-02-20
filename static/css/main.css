@@ -80,6 +80,11 @@ header {
     -moz-border-radius: 10px;
 }
 
+.main-row .col-xs-12 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 a img {
     width: 180px;
     height: 250px;
