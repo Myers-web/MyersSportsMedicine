@@ -1,39 +1,29 @@
 <div class="row">
 {{ with .Site.GetPage "page" "staff-bios" "kristiann-settles.md" }}
     <div class="col-xs-4 text-center">
-        <a href="{{ .URL | absURL }}">
-            <img src="{{ .Param "pic" | absURL }}">
-        </a>
+        {{ partial "single-bio" . }}
     </div>
 {{ end }}
 {{ with .Site.GetPage "page" "staff-bios" "michael-mcgrane.md" }}
     <div class="col-xs-4 text-center">
-        <a href="{{ .URL | absURL }}">
-            <img src="{{ .Param "pic" | absURL }}">
-        </a>
+        {{ partial "single-bio" . }}
     </div>
 {{ end }}
 {{ with .Site.GetPage "page" "staff-bios" "molly-myers.md" }}
     <div class="col-xs-4 text-center">
-        <a href="{{ .URL | absURL }}">
-            <img src="{{ .Param "pic" | absURL }}">
-        </a>
+        {{ partial "single-bio" . }}
     </div>
 {{ end }}
 </div>
 <div class="row margin-top">
 {{ with .Site.GetPage "page" "staff-bios" "regilyn-fish.md" }}
     <div class="col-xs-6 text-center">
-        <a href="{{ .URL | absURL }}">
-            <img src="{{ .Param "pic" | absURL }}">
-        </a>
+        {{ partial "single-bio" . }}
     </div>
 {{ end }}
 {{ with .Site.GetPage "page" "staff-bios" "tiffany-jackson.md" }}
     <div class="col-xs-6 text-center">
-        <a href="{{ .URL | absURL }}">
-            <img src="{{ .Param "pic" | absURL }}">
-        </a>
+        {{ partial "single-bio" . }}
     </div>
 {{ end }}
 </div>
