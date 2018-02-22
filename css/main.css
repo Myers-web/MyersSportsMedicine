@@ -103,6 +103,32 @@ a img {
     margin-right: 0px;
 }
 
+.insurance-container {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.insurance-panel {
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(15, 59, 84);
+    background-color: white;
+    margin-bottom: 50px;
+    min-height: 350px;
+}
+
+.insurance-panel img {
+    margin-top: 5px;
+}
+
+.insurance-header:hover {
+    background-color: rgb(10, 47, 66);
+}
+
+.insurance-header h1:hover {
+    color: gray;
+}
+
 .jumbotron {
     background-color: transparent;
 }
