@@ -5,6 +5,7 @@ description: "CIGNA is a global health service company, dedicated to helping peo
 improve their health, well-being and security. We provide an integrated suite of health, 
 life, accident, disability and other wellness benefits to groups and individuals, 
 serving over 45 million people throughout the United States and around the world."
+pic: "images/insurance/cigna.jpg"
 ---
 
 CIGNA is a global health service company, dedicated to helping people improve their 

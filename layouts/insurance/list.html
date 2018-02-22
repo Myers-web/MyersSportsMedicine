@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="col-xs-12 text-center">
+    {{ .Content }}
+    <div class="row">
+    {{ range $index, $element := .Paginator.Pages }}
+        {{ if (eq $index 2) }}
+    </div>
+    <div class="row">
+        {{ end }}
+        <div class="col-md-6">
+            <div class="insurance-container">
+                <a href="{{ .URL | absURL }}">
+                    <div class="row insurance-header blue2">
+                        <h1>{{ .Title }}</h1>
+                    </div>
+                </a>
+                <div class="row insurance-panel">
+                    <div class="col-xs-12">
+                        <div class="row">
+                            <img src="{{ .Param "pic" | absURL }}">
+                        </div>
+                        <div class="row">
+                            {{ .Description }}
+                        </div>  
+                    </div>            
+                </div>
+            </div>
+        </div>
+    {{ end }}
+    </div>
+</div>
+{{ partial "main-bottom" . }}
+{{ end }}

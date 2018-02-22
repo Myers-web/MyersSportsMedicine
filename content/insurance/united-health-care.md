@@ -3,6 +3,7 @@ title: "United Health Care"
 date: 2018-02-08T23:57:17-05:00
 description: "UnitedHealthcare is an operating division of UnitedHealth Group, the 
 largest single health carrier in the United States."
+pic: "images/insurance/uhc.jpg"
 ---
 
 UnitedHealthcare is an operating division of UnitedHealth Group, the largest single 
