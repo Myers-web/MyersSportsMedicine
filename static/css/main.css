@@ -32,6 +32,15 @@ h1, h2 {
     font-family: 'Roboto', sans-serif;
 }
 
+strong {
+    color: white;
+}
+
+.page-header h1 {
+    color: rgb(35, 126, 179);
+    font-size: 50px;
+}
+
 .navbar {
     opacity: .9;
 }
