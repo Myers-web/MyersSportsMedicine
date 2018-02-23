@@ -51,7 +51,7 @@ relativeurls = true
     weight = 3
 
 [[menu.main]]
-    name = "Patient Info"
+    name = "Patient Forms"
     url = "patient-info/"
     parent = "info"
     weight = 1
@@ -61,12 +61,6 @@ relativeurls = true
     url = "insurance/"
     parent = "info"
     weight = 2
-
-[[menu.main]]
-    name = "Patient Forms"
-    url = "patient-forms/"
-    parent = "info"
-    weight = 3
 
 [[menu.main]]
     name = "Concierge Service"

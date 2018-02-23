@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="col-xs-12">
+    {{ .Content }}
+    <ul class="contents">
+        <li><a href="{{ "documents/forms/Patient_Acknowledgement_Form.pdf" | absURL }}">PATIENT ACKNOWLEDGEMENT FORM</a></li>
+        <li><a href="{{ "documents/forms/Patient_Info_Form.pdf" | absURL }}">PATIENT INFORMATION FORM</a></li>
+        <li><a href="{{ "documents/forms/2015-Patient-Insurance-Information.pdf" | absURL }}">RECEIPT OF OUR NOTICE OF PRIVACY PRACTICES</a></li>
+        <li><a href="{{ "documents/forms/Hippa_Form.pdf" | absURL }}">PATIENT INSURANCE INFORMATION</a></li>
+    </ul>
+</div>
+{{ partial "main-bottom" . }}
+{{ end }}
