@@ -155,6 +155,12 @@ a .bio-pic {
     list-style: none;
 }
 
+@media only screen and (max-width: 530px)  {
+    .sm-pic {
+        display: none;
+    }
+}
+
 .jumbotron {
     background-color: transparent;
 }
