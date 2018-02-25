@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="col-sm-7">
+    {{ .Content }}
+</div>
+<div class="col-sm-5 edu-container">
+    <div class="row edu-header text-center">
+        <h2>Education Center</h2>
+        <hr>
+    </div>
+    <ul>
+        {{ range .Site.Taxonomies.tags.edu }}
+        <li>
+            <a href="{{ .Page.URL | absURL }}">{{ .Page.Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ partial "main-bottom" . }}
+{{ end }}

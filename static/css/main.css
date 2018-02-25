@@ -146,6 +146,15 @@ a .bio-pic {
     }
 }
 
+.edu-container {
+    border-left-style: dashed;
+    border-width: 1px;
+}
+
+.edu-container ul {
+    list-style: none;
+}
+
 .jumbotron {
     background-color: transparent;
 }

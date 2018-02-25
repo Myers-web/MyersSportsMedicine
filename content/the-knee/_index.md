@@ -2,6 +2,7 @@
 title: "The Knee"
 date: 2018-02-11T14:41:18-05:00
 description: ""
+tags: ["edu"]
 ---
 
 In human anatomy, the knee is the lower extremity joint connecting the femur and the tibia. 

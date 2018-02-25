@@ -2,6 +2,7 @@
 title: "The Shoulder"
 date: 2018-02-11T14:56:16-05:00
 description: ""
+tags: ["edu"]
 ---
 
 Many patients come into our office complaining of Rotator Cuff Tears, when in fact very few 
