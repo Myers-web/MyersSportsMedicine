@@ -1,5 +1,5 @@
 ---
-title: "Symptoms of an Acl Tear"
+title: "Symptoms of an ACL Tear"
 date: 2018-02-11T14:52:43-05:00
 description: ""
 ---
