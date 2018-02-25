@@ -89,9 +89,11 @@ header {
     -moz-border-radius: 10px;
 }
 
-.main-row .col-xs-12 {
-    padding-left: 50px;
-    padding-right: 50px;
+@media only screen and (min-width: 430px)  {
+    .main-row .col-xs-12 {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
 }
 
 a .bio-pic {
@@ -138,6 +140,12 @@ a .bio-pic {
     color: gray;
 }
 
+@media only screen and (max-width: 320px)  {
+    .ins-pic {
+        display: none;
+    }
+}
+
 .jumbotron {
     background-color: transparent;
 }
@@ -152,6 +160,10 @@ a .bio-pic {
 .footer-contact {
     background-color: rgb(10, 47, 66);
     padding-bottom: 30px;
+}
+
+.google-map {
+    margin-top: 20px;
 }
 
 @media only screen and (max-width: 430px)  {
