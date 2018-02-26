@@ -43,6 +43,11 @@ h1, h2 {
     font-size: 50px;
 }
 
+.page-header {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
 .navbar {
     opacity: .9;
 }
@@ -91,7 +96,7 @@ header {
     -moz-border-radius: 10px;
 }
 
-@media only screen and (min-width: 430px)  {
+@media only screen and (min-width: 650px)  {
     .main-row .col-xs-12 {
         padding-left: 50px;
         padding-right: 50px;
