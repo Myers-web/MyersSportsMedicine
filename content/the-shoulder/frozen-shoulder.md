@@ -9,6 +9,8 @@ is restricted. The cause of frozen shoulders isn’t well understood, and it usu
 randomly for no known reason. A frozen will cause the capsule around the shoulder joint to 
 contract, which forms scar tissue.
 
+{{% image-right "Frozen Shoulder" "images/the-shoulder/frozen-shoulder.jpg" %}}
+
 ## Causes of a Frozen Shoulder
 Generally, a frozen shoulder will occur without an associated injury or cause. It’s possible 
 for a patient to develop a frozen shoulder after some sort of injury, but that is usually 

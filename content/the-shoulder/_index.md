@@ -5,15 +5,21 @@ description: ""
 tags: ["edu"]
 ---
 
+{{% image-left "Shoulder" "images/the-shoulder/shoulder.jpg" %}}
+
 Many patients come into our office complaining of Rotator Cuff Tears, when in fact very few 
 actually have a tear. There are several etiologies to shoulder pain; Adhesive Capsulitis 
 (frozen shoulder), Subacromial Bursitis, Supraspinatus Tendonitis, Glenohumeral Instability, 
 Chondrocalcinosis, Osteoarthritis, Gout, Lyme Arthritis, Bicipital Tendonitis, Ganglion Cyst 
 are but a few possible causes of shoulder pain. It is best to think of cause of injury/pain 
-and age in making generalizations for diagnosing shoulder pain.
+and age in making generalizations for diagnosing shoulder pain.  
+
+<hr>
 
 ## Cause of Injury/Pain
 
+{{% row %}}
+{{% column %}}
 ### Overuse
 * Subacromial bursitis
 * Supraspinatus tendonitis
@@ -31,7 +37,10 @@ and age in making generalizations for diagnosing shoulder pain.
 * Adhesive capsulitis
 * Ganglion cyst
 * Tumor
-* Age
+{{% /column %}}
+
+{{% column %}}
+### Age
 * Glenohumeral instability
 * Subacromial bursitis
 * Supraspinatus tendonitis
@@ -44,6 +53,8 @@ and age in making generalizations for diagnosing shoulder pain.
 * Gout
 * Rotator cuff tear
 * Osteoarthritis
+{{% /column %}}
+{{% /row %}}
 
 ## Diagnosing Shoulder Problems
 The art of diagnosing shoulder problems is to relate the two above with a good history from 

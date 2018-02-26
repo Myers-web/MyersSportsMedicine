@@ -9,6 +9,8 @@ shoulder joint’s socket is very shallow though, which inherently makes the sho
 unstable. This means that extra support in the shoulder is needed as the shoulder bones 
 aren’t held in place adequately.shoulder-labrum-tear
 
+{{% image-center "Shoulder Labrum Tear" "images/the-shoulder/shoulder-labrum-tear.gif" %}}
+
 The labrum is what compensates for the shallow socket the shoulder joint has. The labrum is 
 a cuff of cartilage that forms a cup for the end of the arm bone (the humerus) to move 
 around in. The labrum circles the shallow shoulder socket (the glenoid) to make the socket 
@@ -26,6 +28,8 @@ Labral tear symptoms depend on where the tear is located, but could include:
 * An aching sensation in the shoulder joint
 * Catching of the shoulder with no movement
 * Some types of labral tears can increase the potential for shoulder dislocations, such as a Bankart lesion.
+
+{{% image-right "Slap Lesion Bankart Tear" "images/the-shoulder/slap-lesion-bankart-tear.gif" %}}
 
 ## Common Types of Labral Tears
 

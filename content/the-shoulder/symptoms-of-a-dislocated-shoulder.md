@@ -10,6 +10,8 @@ forced forwards when the arm is turned outwards and being held out to the side. 
 dislocation, known as an anterior dislocation, makes up approximately 95% of all shoulder 
 dislocations.
 
+{{% image-center "Dislocated Shoulder" "images/the-shoulder/dislocated-shoulder.jpg" %}}
+
 The other 5% of dislocations, posterior dislocations, inferior dislocations, superior 
 dislocations, or intra thoracic dislocations, are rarer. These can also cause a large amount 
 of complications and damage to surrounding structures such as muscles, tendons, or nerves. 

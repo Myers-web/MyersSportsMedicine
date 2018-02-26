@@ -11,6 +11,8 @@ shoulder more stable by forming a cup that the end of the humerus can move aroun
 
 The SLAP tear stands for Superior Labrum from Anterior to Posterior. 
 
+{{% image-center "Slap Tear" "images/the-shoulder/slap-tear.jpg" %}}
+
 ## How do SLAP Tears Occur?
 A SLAP tear commonly occurs from lifting heavy objects, falling onto an outstretched hand, 
 or large amounts of a repetitive overhead action, such as throwing a football.

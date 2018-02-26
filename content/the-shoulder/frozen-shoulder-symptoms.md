@@ -10,7 +10,9 @@ similar symptoms as a frozen shoulder, such as a rotator cuff tear, so always ha
 medical problem diagnosed properly by a doctor. There are different causes of frozen 
 shoulders.
 
-## Common frozen shoulder symptoms:
+{{% image-right "Frozen Shoulder Treatments" "images/the-shoulder/frozen-shoulder-treatments.gif" %}}
+
+## Common Frozen Shoulder Symptoms:
 * Limited and restricted movement of the shoulder
 * Shoulder pain. This is usually a dull aching pain that constantly is there
 * Trouble sleeping on the shoulder due to pain
@@ -26,6 +28,8 @@ shoulder can take up to weeks and even months.
 **Cortisone Injections** – Commonly used to reduce inflammation in the shoulder area. Also provides pain relief, which allows for an easier time performing the stretching and exercises.
 
 **Anti-inflammatory Medication** – Not required in the healing process, but can help greatly in pain reduction.
+
+{{% image-left "Frozen Shoulder Stretching" "images/the-shoulder/frozen-shoulder-stretching.gif" %}}
 
 ## Frozen Shoulder Surgery
 Surgery for a frozen shoulder is usually not required, as most frozen shoulders can 

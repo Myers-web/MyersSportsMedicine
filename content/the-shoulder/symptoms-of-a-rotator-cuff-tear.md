@@ -4,6 +4,8 @@ date: 2018-02-11T15:00:17-05:00
 description: ""
 ---
 
+{{% image-right "Rotator Cuff Tear" "images/the-shoulder/rotator-cuff-tear.jpg" %}}
+
 The rotator cuff is a group of muscles which work together and are responsible for the 
 shoulder (Glenohumeral) joint’s stability while it moves and rotates. The rotator cuff 
 muscles include Supraspinatus, Infraspinatus, Teres Minor, and the Subscapularis.
