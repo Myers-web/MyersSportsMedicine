@@ -2,7 +2,15 @@
 {{ partial "header" . }}
 {{ partial "main-top" . }}
 <div class="col-xs-12">
-    {{ .Content }}
+    <div class="row">
+        <div class="col-xs-12">
+                {{ .Content }}
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        {{ partial "about-myers" . }}
+    </div>
 </div>
 {{ partial "main-bottom" . }}
 {{ end }}

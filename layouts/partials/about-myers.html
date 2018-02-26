@@ -1,0 +1,16 @@
+{{ with .Site.GetPage "section" "dr-myers" }}
+<div class="col-xs-12">
+    <div class="row">
+        <div class="col-xs-12 text-center">
+            <h1>{{ .Title }}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <img src="{{ .Param "pic" | absURL }}" class="pull-left margin-right">
+            {{ .Description }}
+            <p><a href="{{ .URL | absURL }}">Read More</a></p>
+        </div>
+    </div>
+</div>
+{{ end }}
