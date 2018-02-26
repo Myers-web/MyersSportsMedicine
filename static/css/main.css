@@ -161,6 +161,16 @@ a .bio-pic {
     }
 }
 
+.md-img-right {
+    float: right;
+    margin-left: 15px;
+}
+
+.md-img-left {
+    float: left;
+    margin-right: 15px;
+}
+
 .jumbotron {
     background-color: transparent;
 }

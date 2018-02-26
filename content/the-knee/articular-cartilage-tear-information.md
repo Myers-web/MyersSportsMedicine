@@ -4,7 +4,9 @@ date: 2018-02-11T14:44:03-05:00
 description: ""
 ---
 
-##What is articular cartilage?
+{{% image-right "Articular Cartilage Tear" "images/the-knee/knee-articular-cartilage.gif" %}}
+
+## What is articular cartilage?
 
 Articular cartilage, also known as hyaline cartilage, is a very smooth yet hard material 
 made up of the protein collagen. The cartilage is located on a bone’s articulating surfaces 

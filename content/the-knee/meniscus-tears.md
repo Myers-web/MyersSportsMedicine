@@ -14,6 +14,8 @@ knee is bearing weight, which results in the piece of cartilage being torn. If t
 firmly planted and an athlete quickly twists or rotates the upper leg, a partial or total 
 tear of the meniscus could occur. This is common in sports such as soccer or football.
 
+{{% image-center "Meniscus Tear" "images/the-knee/meniscus-tear.gif" %}}
+
 ## Meniscus Tear Symptoms
 When a meniscus is injured or torn, mild to severe pain (especially when the knee is 
 straightened) is caused depending on how big the tear is. When a torn meniscus fragment 

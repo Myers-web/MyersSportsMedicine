@@ -5,6 +5,8 @@ description: ""
 tags: ["edu"]
 ---
 
+{{% image-right "The Knee" "images/the-knee/knee.jpg" %}}
+
 In human anatomy, the knee is the lower extremity joint connecting the femur and the tibia. 
 Since in humans the knee supports nearly the entire weight of the body, it is vulnerable 
 both to acute injury and to the development of osteoarthritis.
