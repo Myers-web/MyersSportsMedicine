@@ -23,17 +23,19 @@
 }
 
 body {
-    color: rgba(205, 203, 203, 0.982);
+    color: black;
     font-family: 'Arvo', serif;
 }
 
-h1, h2 {
-    color: white;
-    font-family: 'Roboto', sans-serif;
+hr {
+    background-color: black;
+    border-color: black;
+    color: black;
 }
 
-strong {
-    color: white;
+h1, h2 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
 }
 
 .page-header h1 {
@@ -173,6 +175,18 @@ a .bio-pic {
 
 .jumbotron {
     background-color: transparent;
+}
+
+.page-footer {
+    color: rgba(205, 203, 203, 0.982);
+}
+
+.page-footer h1 {
+    color: white;
+}
+
+.page-footer h2 {
+    color: white;
 }
 
 .footer-copyright {
