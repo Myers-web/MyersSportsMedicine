@@ -146,6 +146,31 @@ a .bio-pic {
     }
 }
 
+.edu-container {
+    border-left-style: dashed;
+    border-width: 1px;
+}
+
+.edu-container ul {
+    list-style: none;
+}
+
+@media only screen and (max-width: 530px)  {
+    .sm-pic {
+        display: none;
+    }
+}
+
+.md-img-right {
+    float: right;
+    margin-left: 15px;
+}
+
+.md-img-left {
+    float: left;
+    margin-right: 15px;
+}
+
 .jumbotron {
     background-color: transparent;
 }
