@@ -19,7 +19,7 @@ and age in making generalizations for diagnosing shoulder pain.
 ## Cause of Injury/Pain
 
 {{% row %}}
-{{% column %}}
+{{% column xs 6 %}}
 ### Overuse
 * Subacromial bursitis
 * Supraspinatus tendonitis
@@ -39,7 +39,7 @@ and age in making generalizations for diagnosing shoulder pain.
 * Tumor
 {{% /column %}}
 
-{{% column %}}
+{{% column xs 6 %}}
 ### Age
 * Glenohumeral instability
 * Subacromial bursitis
