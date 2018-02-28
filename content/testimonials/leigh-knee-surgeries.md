@@ -1,7 +1,7 @@
 ---
 title: "Leigh - Knee Surgeries"
 date: 2018-02-26T00:00:19-05:00
-description: ""
+description: "repairs were perfect and I have no pain whatsoever in my knee...he got me right back up . . ."
 pic: "images/testimonials/7.jpg"
 ---
 
