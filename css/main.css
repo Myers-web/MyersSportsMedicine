@@ -25,6 +25,7 @@
 body {
     color: black;
     font-family: 'Arvo', serif;
+    font-size: 16px;
 }
 
 hr {
@@ -143,6 +144,10 @@ a .bio-pic {
     background-color: rgb(10, 47, 66);
 }
 
+.insurance-header h1 {
+    color: white;
+}
+
 .insurance-header h1:hover {
     color: gray;
 }
@@ -160,6 +165,12 @@ a .bio-pic {
 
 .edu-container ul {
     list-style: none;
+}
+
+.edu-img {
+    max-width: 100%;
+    height: auto;
+    /*width: auto\9; /* ie8 */
 }
 
 @media only screen and (max-width: 530px)  {
