@@ -33,5 +33,7 @@ Atlanta, GA 30327
 
 {{% facebook %}}
 
+<a href="https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=9890" class="btn btn-primary">Pay My Bill</a>
+
 {{% /column %}}
 {{% /row %}}
