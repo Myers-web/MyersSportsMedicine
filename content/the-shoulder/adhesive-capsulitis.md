@@ -5,7 +5,7 @@ description: ""
 ---
 
 Adhesive capsulitis is when a person loses the ability to move their shoulder around in 
-all directions without pain. This problem is commonly referred to as a frozen shoulder, 
+all directions without pain. This problem is commonly referred to as a [frozen shoulder]({{< ref "frozen-shoulder.md" >}}), 
 as the shoulder usually becomes stiff and will be hard to move at all. The causes of 
 ashesive capsulitis are somewhat unknown and tend to happen randomly.
 

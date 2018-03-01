@@ -7,9 +7,9 @@ tags: ["edu"]
 
 {{% image-left "Shoulder" "images/the-shoulder/shoulder.jpg" %}}
 
-Many patients come into our office complaining of Rotator Cuff Tears, when in fact very few 
+Many patients come into our office complaining of [Rotator Cuff Tears]({{< ref "symptoms-of-a-rotator-cuff-tear.md" >}}), when in fact very few 
 actually have a tear. There are several etiologies to shoulder pain; Adhesive Capsulitis 
-(frozen shoulder), Subacromial Bursitis, Supraspinatus Tendonitis, Glenohumeral Instability, 
+([frozen shoulder]({{< ref "frozen-shoulder.md" >}})), Subacromial Bursitis, Supraspinatus Tendonitis, Glenohumeral Instability, 
 Chondrocalcinosis, Osteoarthritis, Gout, Lyme Arthritis, Bicipital Tendonitis, Ganglion Cyst 
 are but a few possible causes of shoulder pain. It is best to think of cause of injury/pain 
 and age in making generalizations for diagnosing shoulder pain.  
@@ -28,9 +28,9 @@ and age in making generalizations for diagnosing shoulder pain.
 
 ### Forceful Trauma
 * Glenhumeral instability
-* Adhesive capsulitis
+* [Adhesive capsulitis]({{< ref "adhesive-capsulitis.md" >}})
 * Fracture
-* Rotator cuff tear
+* [Rotator cuff tear]({{< ref "symptoms-of-a-rotator-cuff-tear.md" >}})
 
 ### Insidious Onset
 * Lyme Arthritis
@@ -48,10 +48,10 @@ and age in making generalizations for diagnosing shoulder pain.
 * Impingement syndrome
 * Ganglion cyst
 * Lyme Arthritis
-* Adhesive capsulitis
+* [Adhesive capsulitis]({{< ref "adhesive-capsulitis.md" >}})
 * Chrondrocalcinosis
 * Gout
-* Rotator cuff tear
+* [Rotator cuff tear]({{< ref "symptoms-of-a-rotator-cuff-tear.md" >}})
 * Osteoarthritis
 {{% /column %}}
 {{% /row %}}

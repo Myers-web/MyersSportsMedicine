@@ -15,7 +15,7 @@ both to acute injury and to the development of osteoarthritis.
 The knee functions as a living, self-maintaining, biologic transmission, the purpose of 
 which is to accept and transfer biomechanical loads between the femur, tibia, patella, and 
 fibula. In this analogy the ligaments represent non-rigid adaptable sensate linkages within 
-the biologic transmission. The articular cartilages act as bearing surfaces, and the menisci 
+the biologic transmission. The [articular cartilages]({{< ref "articular-cartilage-tear-information.md" >}}) act as bearing surfaces, and the menisci 
 as mobile bearings. The muscles function as living cellular engines that in concentric 
 contraction provide motive forces across the joint, and in eccentric contraction act as 
 brakes and dampening systems, absorbing loads.

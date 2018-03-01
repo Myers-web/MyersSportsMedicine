@@ -33,8 +33,8 @@ Labral tear symptoms depend on where the tear is located, but could include:
 
 ## Common Types of Labral Tears
 
-* **Posterior Labral Tears** - Posterior labral tears are less common, but are sometimes seen in athletes in a condition called internal impingement. This syndrome causes the rotator cuff and labrum to be pinched together in the back of the shoulder.
-* **SLAP Tears** - A SLAP tear is most commonly seen in athletes that play overhead throwing sports, such as baseball or tennis. In a SLAP tear, the labrum tears at the top of the shoulder socket where the bicep tendon attaches to the shoulder.
+* **Posterior Labral Tears** - Posterior labral tears are less common, but are sometimes seen in athletes in a condition called internal impingement. This syndrome causes the [rotator cuff]({{< ref "symptoms-of-a-rotator-cuff-tear.md" >}}) and labrum to be pinched together in the back of the shoulder.
+* **[SLAP Tears]({{< ref "slap-tears.md" >}})** - A SLAP tear is most commonly seen in athletes that play overhead throwing sports, such as baseball or tennis. In a SLAP tear, the labrum tears at the top of the shoulder socket where the bicep tendon attaches to the shoulder.
 * **Bankart Lesions** - A Bankart lesion occurs when a shoulder dislocates. The labrum is torn when the shoulder out of the joint, and makes the shoulder more susceptible to future dislocations.
 
 ## Labral Tear Treatment

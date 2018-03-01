@@ -4,8 +4,8 @@ date: 2018-02-11T15:06:09-05:00
 description: ""
 ---
 
-A frozen shoulder, also known as adhesive capsulitis, is when motion of the shoulder joint 
-is restricted. The cause of frozen shoulders isn’t well understood, and it usually happens 
+A frozen shoulder, also known as [adhesive capsulitis]({{< ref "adhesive-capsulitis.md" >}}), is when motion of the shoulder joint 
+is restricted. The cause of [frozen shoulders]({{< ref "frozen-shoulder-symptoms.md" >}}) isn’t well understood, and it usually happens 
 randomly for no known reason. A frozen will cause the capsule around the shoulder joint to 
 contract, which forms scar tissue.
 

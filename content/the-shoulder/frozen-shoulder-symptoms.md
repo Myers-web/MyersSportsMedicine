@@ -7,8 +7,7 @@ description: ""
 A frozen shoulder causes symptoms easily recognizable by a doctor. The most noticeable 
 symptom is restricted movement in the shoulder. It is possible for other conditions to have 
 similar symptoms as a frozen shoulder, such as a rotator cuff tear, so always have your 
-medical problem diagnosed properly by a doctor. There are different causes of frozen 
-shoulders.
+medical problem diagnosed properly by a doctor. There are different causes of [frozen shoulders]({{< ref "frozen-shoulder.md" >}}).
 
 {{% image-right "Frozen Shoulder Treatments" "images/the-shoulder/frozen-shoulder-treatments.gif" %}}
 

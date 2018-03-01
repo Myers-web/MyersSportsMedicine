@@ -17,7 +17,7 @@ The SLAP tear stands for Superior Labrum from Anterior to Posterior.
 A SLAP tear commonly occurs from lifting heavy objects, falling onto an outstretched hand, 
 or large amounts of a repetitive overhead action, such as throwing a football.
 
-The part of the labrum where a superior labral tear occurs has very few blood vessels, so it 
+The part of the labrum where a superior [labral tear]({{< ref "labral-tears.md" >}}) occurs has very few blood vessels, so it 
 is more prone to injury and slower healing. Other parts of the labrum have the ability to 
 heal easier because there is more of a blood supply in the area.
 
