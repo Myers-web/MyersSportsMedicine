@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="col-sm-8">
+    {{ .Content }}
+    <ul class="contents">
+    {{ range .Paginator.Pages }}
+        <li>
+            <a href="{{ .URL | absURL }}">
+                <span>{{.Title}}</span>
+            </a>
+        </li>
+    {{ end }}
+    </ul>
+</div>
+{{ partial "orthoillustrated-shoulder" . }}
+{{ partial "main-bottom" . }}
+{{ end }}
