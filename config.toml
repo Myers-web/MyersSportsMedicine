@@ -99,12 +99,6 @@ relativeurls = true
     parent = "edu"
     weight = 4
 
-[[menu.main]]
-    name = "MAKOplasty Procedure"
-    url = "makoplasty/"
-    parent = "edu"
-    weight = 5
-
 # Testimonials ------------------
 
 [[menu.main]]
