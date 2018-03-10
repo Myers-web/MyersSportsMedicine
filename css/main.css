@@ -173,6 +173,14 @@ a .bio-pic {
     /*width: auto\9; /* ie8 */
 }
 
+.glyphicon-link {
+    margin-right: 5px;
+}
+
+.video-list {
+    padding-left: 0px;
+}
+
 @media only screen and (max-width: 530px)  {
     .sm-pic {
         display: none;
