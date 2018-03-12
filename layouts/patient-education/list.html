@@ -9,7 +9,7 @@
         <h2>Education Center</h2>
         <hr>
     </div>
-    <ul class="list-group">
+    <ul class="list-group link-list">
         {{ range .Site.Taxonomies.tags.edu }}
         <li>
             <a class="list-group-item" href="{{ .Page.URL | absURL }}">{{ .Page.Title }}</a>
@@ -20,7 +20,7 @@
         <h2>Educational PDFs</h2>
         <hr>
     </div>
-    <ul class="list-group">
+    <ul class="list-group link-list">
         <li><a class="list-group-item" href="{{ "documents/patient-education/Common_Tennis_Injuries.pdf" | absURL }}">
             <span class="glyphicon glyphicon-link"></span>Common Tennis Injuries</a></li>
         <li><a class="list-group-item" href="{{ "documents/patient-education/Managing_ACL_Injuries.pdf" | absURL }}">
