@@ -9,10 +9,10 @@
         <h2>Education Center</h2>
         <hr>
     </div>
-    <ul>
+    <ul class="list-group">
         {{ range .Site.Taxonomies.tags.edu }}
         <li>
-            <a href="{{ .Page.URL | absURL }}">{{ .Page.Title }}</a>
+            <a class="list-group-item" href="{{ .Page.URL | absURL }}">{{ .Page.Title }}</a>
         </li>
         {{ end }}
     </ul>
@@ -20,12 +20,12 @@
         <h2>Educational PDFs</h2>
         <hr>
     </div>
-    <ul>
-        <li><a href="{{ "documents/patient-education/Common_Tennis_Injuries.pdf" | absURL }}">
+    <ul class="list-group">
+        <li><a class="list-group-item" href="{{ "documents/patient-education/Common_Tennis_Injuries.pdf" | absURL }}">
             <span class="glyphicon glyphicon-link"></span>Common Tennis Injuries</a></li>
-        <li><a href="{{ "documents/patient-education/Managing_ACL_Injuries.pdf" | absURL }}">
+        <li><a class="list-group-item" href="{{ "documents/patient-education/Managing_ACL_Injuries.pdf" | absURL }}">
             <span class="glyphicon glyphicon-link"></span>Managing ACL Injuries</a></li>
-        <li><a href="{{ "documents/patient-education/Total_Knee_Replacements.pdf" | absURL }}">
+        <li><a class="list-group-item" href="{{ "documents/patient-education/Total_Knee_Replacements.pdf" | absURL }}">
             <span class="glyphicon glyphicon-link"></span>Knee Replacements</a></li>
     </ul>
 </div>

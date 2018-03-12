@@ -1,8 +1,9 @@
 ---
 title: "FAQs about Makoplasty"
-date: 2018-03-10T13:02:49-05:00
+date: 2018-03-09T13:02:49-05:00
 description: ""
 pic: ""
+tags: ["mako"]
 ---
 
 # What is MAKOplasty&reg;?

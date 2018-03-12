@@ -1,23 +1,9 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-<div class="col-sm-7">
+<div class="col-sm-8">
     {{ .Content }}
 </div>
-<div class="col-sm-5 edu-container">
-    <div class="row edu-header text-center">
-        <h2>About MAKOplasty&reg;</h2>
-        <hr>
-    </div>
-    <ul>
-        {{ range .Paginator.Pages }}
-        <li>
-            <a href="{{ .URL | absURL }}">
-                <span>{{.Title}}</span>
-            </a>
-        </li>
-        {{ end }}
-    </ul>
-</div>
+{{ partial "mako-links" . }}
 {{ partial "main-bottom" . }}
 {{ end }}

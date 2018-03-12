@@ -1,0 +1,15 @@
+<div class="col-sm-4 edu-container">
+    <div class="row edu-header text-center">
+        <h2>About MAKOplasty&reg;</h2>
+        <hr>
+    </div>
+    <ul class="list-group">
+        {{ range .Site.Taxonomies.tags.mako }}
+        <li>
+            <a class="list-group-item" href="{{ .URL | absURL }}">
+                <span>{{.Title}}</span>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</div>

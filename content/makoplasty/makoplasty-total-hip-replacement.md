@@ -1,8 +1,9 @@
 ---
 title: "Makoplasty Total Hip Replacement"
-date: 2018-03-10T12:44:24-05:00
+date: 2018-03-07T12:44:24-05:00
 description: ""
 pic: ""
+tags: ["mako"]
 ---
 
 MAKOplasty&reg; Total Hip Replacement is powered by the RIO&reg; Robotic Arm Interactive Orthopedic System. It is indicated for adults who suffer from non-inflammatory or inflammatory degenerative joint disease. The RIO&reg; robotic arm advanced technology allows surgeons to achieve a new level of accuracy.

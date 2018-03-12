@@ -1,8 +1,9 @@
 ---
 title: "Makoplasty Partial Knee Resurfacing"
-date: 2018-03-10T12:48:14-05:00
+date: 2018-03-08T12:48:14-05:00
 description: ""
 pic: ""
+tags: ["mako"]
 ---
 
 Partial knee replacement is a treatment option for people with early to mid-stage osteoarthritis (OA) that has not yet impacted their entire knee. Only the diseased portion of the knee is replaced, sparing healthy bone and the ligaments known as the ACL (anterior cruciate ligament) and PCL (posterior cruciate ligament).

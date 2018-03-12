@@ -39,6 +39,10 @@ h1, h2 {
     font-family: 'Roboto', sans-serif;
 }
 
+ul {
+    list-style: none;
+}
+
 .page-header h1 {
     color: rgb(35, 126, 179);
     font-size: 50px;
@@ -161,10 +165,6 @@ a .bio-pic {
 .edu-container {
     border-left-style: dashed;
     border-width: 1px;
-}
-
-.edu-container ul {
-    list-style: none;
 }
 
 .edu-img {
