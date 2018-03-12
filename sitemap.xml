@@ -3,23 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://grantcooksey.github.io/MyersSportsMedicine/makoplasty/</loc>
+    <lastmod>2018-03-11T22:40:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grantcooksey.github.io/MyersSportsMedicine/prp-injections/</loc>
+    <lastmod>2018-03-11T23:11:56-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/makoplasty/faqs-about-makoplasty/</loc>
-    <lastmod>2018-03-10T13:02:49-05:00</lastmod>
+    <lastmod>2018-03-09T13:02:49-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/makoplasty/makoplasty-partial-knee-resurfacing/</loc>
-    <lastmod>2018-03-10T12:48:14-05:00</lastmod>
+    <lastmod>2018-03-08T12:48:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/makoplasty/makoplasty-total-hip-replacement/</loc>
-    <lastmod>2018-03-10T12:44:24-05:00</lastmod>
+    <lastmod>2018-03-07T12:44:24-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/makoplasty/robotic-arm-interactive-orthopedic-system-rio/</loc>
-    <lastmod>2018-03-10T12:37:49-05:00</lastmod>
+    <lastmod>2018-03-06T12:37:49-05:00</lastmod>
   </url>
   
   <url>
@@ -60,11 +70,6 @@
   <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/testimonials/paula-partial-knee-replacement/</loc>
     <lastmod>2018-02-25T23:32:28-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://grantcooksey.github.io/MyersSportsMedicine/makoplasty/</loc>
-    <lastmod>2018-02-11T22:40:28-05:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +210,12 @@
   </url>
   
   <url>
+    <loc>https://grantcooksey.github.io/MyersSportsMedicine/tags/mako/</loc>
+    <lastmod>2018-03-11T22:40:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/dr-myers/</loc>
   </url>
   
@@ -214,6 +225,12 @@
   
   <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/staff-bios/molly-myers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://grantcooksey.github.io/MyersSportsMedicine/tags/newtech/</loc>
+    <lastmod>2018-03-11T22:40:28-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -240,7 +257,7 @@
   
   <url>
     <loc>https://grantcooksey.github.io/MyersSportsMedicine/</loc>
-    <lastmod>2018-03-10T13:02:49-05:00</lastmod>
+    <lastmod>2018-03-09T13:02:49-05:00</lastmod>
   </url>
   
 </urlset>
