@@ -6,7 +6,7 @@ pic: ""
 tags: ["mako"]
 ---
 
-MAKOplasty&reg; Total Hip Replacement is powered by the RIO&reg; Robotic Arm Interactive Orthopedic System. It is indicated for adults who suffer from non-inflammatory or inflammatory degenerative joint disease. The RIO&reg; robotic arm advanced technology allows surgeons to achieve a new level of accuracy.
+MAKOplasty&reg; [Total Hip Replacement](https://patients.stryker.com/hip-replacement/procedures/mako-robotic-arm-assisted) is powered by the RIO&reg; Robotic Arm Interactive Orthopedic System. It is indicated for adults who suffer from non-inflammatory or inflammatory degenerative joint disease. The RIO&reg; robotic arm advanced technology allows surgeons to achieve a new level of accuracy.
 
 # Who is a Candidate for MAKOplasty&reg;?
 If your symptoms aren’t responding to non-surgical solutions, or your pain can no longer be controlled by medication, you may be a candidate for MAKOplasty&reg; Total Hip Replacement.

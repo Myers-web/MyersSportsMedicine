@@ -7,7 +7,7 @@ tags: ["mako"]
 ---
 
 # What is MAKOplasty&reg;?
-MAKOplasty&reg; Partial Knee Resurfacing is an innovative treatment option for adults living with early to midstage OA in the medial (inner), patellofemoral (top), or lateral (outer) compartments of the knee. It is powered by the RIO&reg; Robotic Arm Interactive Orthopedic System, which allows for consistently reproducible precision in performing partial knee resurfacing.
+MAKOplasty&reg; [Partial Knee Resurfacing](https://patients.stryker.com/knee-replacement/procedures/mako-robotic-arm-assisted) is an innovative treatment option for adults living with early to midstage OA in the medial (inner), patellofemoral (top), or lateral (outer) compartments of the [knee]({{< secref "the-knee">}}). It is powered by the RIO&reg; Robotic Arm Interactive Orthopedic System, which allows for consistently reproducible precision in performing partial knee resurfacing.
 
 During the procedure, the diseased portion of the knee is resurfaced, sparing the patient’s healthy bone and surrounding tissue. An implant is then secured in the joint to allow the knee to move smoothly again. MAKOplasty&reg; Partial Knee Resurfacing can:
 

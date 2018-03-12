@@ -12,7 +12,7 @@ enabled by the surgeon controlled RIO® robotic arm system, offering increased a
 optimize surgical results.
 
 ## MAKOplasty&reg; Partial Knee Resurfacing
-Partial Knee Replacement is a treatment option for adults living with early-to mid-stage 
+[Partial Knee Replacement](https://patients.stryker.com/knee-replacement/procedures/mako-robotic-arm-assisted) is a treatment option for adults living with early-to mid-stage 
 osteoarthritis (OA) that has not progressed to all three compartments of the knee. 
 MAKOplasty&reg; Partial Knee Resurfacing is an advanced treatment option. It is powered 
 by the RIO® Robotic Arm Interactive Orthopedic System, which allows the surgeon to 
@@ -29,7 +29,7 @@ knee while sparing the healthy bone and ligaments surrounding it.
 
 ## MAKOplasty&reg; Total Hip Replacement
 MAKOplasty&reg; Total Hip Replacement is a breakthrough solution for adults suffering 
-from painful degenerative joint disease of the hip who need a total hip replacement. It 
+from painful degenerative joint disease of the hip who need a [total hip replacement](https://patients.stryker.com/hip-replacement/procedures/mako-robotic-arm-assisted). It 
 is powered by the surgeon-controlled RIO® Robotic Arm System, which enables more accurate 
 implant placement, which may reduce complications, such as implant wear and dislocation.
 

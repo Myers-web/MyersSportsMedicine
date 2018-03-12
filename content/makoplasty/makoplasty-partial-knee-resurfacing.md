@@ -6,7 +6,7 @@ pic: ""
 tags: ["mako"]
 ---
 
-Partial knee replacement is a treatment option for people with early to mid-stage osteoarthritis (OA) that has not yet impacted their entire knee. Only the diseased portion of the knee is replaced, sparing healthy bone and the ligaments known as the ACL (anterior cruciate ligament) and PCL (posterior cruciate ligament).
+[Partial knee replacement](https://patients.stryker.com/knee-replacement/procedures/mako-robotic-arm-assisted) is a treatment option for people with early to mid-stage osteoarthritis (OA) that has not yet impacted their entire knee. Only the diseased portion of the knee is replaced, sparing healthy bone and the ligaments known as the ACL (anterior cruciate ligament) and PCL (posterior cruciate ligament).
 
 MAKOplasty Partial Knee Resurfacing is an advanced partial knee surgery performed with the RIO&reg; Robotic Arm Interactive Orthopedic System. It can be performed as a unicompartmental procedure to address OA in any of the three compartments of the knee: the medial (inner), patellofemoral (top), or lateral (outer) compartments. There is also a bicompartmental option for OA in both the medial and patellofemoral compartments.
 
