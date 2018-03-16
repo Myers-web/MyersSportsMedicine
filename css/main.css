@@ -55,6 +55,8 @@ h1, h2 {
 
 .navbar {
     opacity: .9;
+    margin-bottom: 0px;
+    border-bottom-width: 2px;
 }
 
 .navbar span {
@@ -80,7 +82,9 @@ h1, h2 {
     background-color: rgb(10, 47, 66);
 }
 
-header {
+header, footer {
+    background-attachment: fixed;
+    background-position: center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -90,6 +94,28 @@ header {
 
 .header-container {
     background-color: rgba(0, 0, 0, .2);
+}
+
+.logo {
+    margin-bottom: 200px;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(2, 42, 65) 40%, rgb(2, 42, 65) 60%, rgba(0, 0, 0, 0));
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.logo-fade {
+    height:127px;
+    width:30%;
+}
+
+.logo-left {
+    
+    float: left;
+}
+
+.logo-right {
+    background: linear-gradient(to left, rgba(0, 0, 0, 0) , rgb(2, 42, 65));
+    float: right;
 }
 
 .main-section {
@@ -221,7 +247,7 @@ a .bio-pic {
 }
 
 .footer-contact {
-    background-color: rgb(10, 47, 66);
+    background-color: rgba(0, 0, 0, .4);
     padding-bottom: 30px;
 }
 
