@@ -109,3 +109,4 @@ relativeurls = true
 [Params]
     defaultImage = "images/featured-images/myers-operating.jpg"
     logo = "images/logo.jpg"
+    contactImg = "images/about/office.jpg"

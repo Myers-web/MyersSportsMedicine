@@ -80,7 +80,9 @@ h1, h2 {
     background-color: rgb(10, 47, 66);
 }
 
-header {
+header, footer {
+    background-attachment: fixed;
+    background-position: center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -221,7 +223,7 @@ a .bio-pic {
 }
 
 .footer-contact {
-    background-color: rgb(10, 47, 66);
+    background-color: rgba(0, 0, 0, .4);
     padding-bottom: 30px;
 }
 
