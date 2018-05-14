@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-	<meta name="generator" content="Hugo 0.29" />
+	<meta name="generator" content="Hugo 0.40.1" />
     <meta charset="utf-8" />
     <link rel="apple-touch-icon" sizes="76x76" href="https://grantcooksey.github.io/MyersSportsMedicine/images/apple-icon.png">
     <link rel="icon" type="image/png" href="https://grantcooksey.github.io/MyersSportsMedicine/images/favicon.png">
@@ -13,20 +13,18 @@
     <link href="https://grantcooksey.github.io/MyersSportsMedicine/css/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="https://grantcooksey.github.io/MyersSportsMedicine/css/main.css" rel="stylesheet" />
     
-    <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:600,800" rel="stylesheet">
     
   
 </head>
 
-	<body style="background-image: url('https://grantcooksey.github.io/MyersSportsMedicine/images/backgrounds/dark_wood.png');">
+    <body>
     
 
 
-
-<header style="background-image: url('https://grantcooksey.github.io/MyersSportsMedicine/images/featured-images/myers-surgery.jpg');">
-    <div class="header-container">
-        
+<header style="background-image: url('images/featured-images/myers-surgery.jpg');">
+    
 <nav class="navbar navbar-inverse">
     <div class="container-fluid blue2">
         <div class="navbar-header">
@@ -173,9 +171,32 @@
 </nav>
 
 
-        <div class="container-fluid">
-            <div class="logo text-center">
-                <img src="https://grantcooksey.github.io/MyersSportsMedicine/images/logo.jpg">
+    <div class="header-container">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-7"></div>
+            <div class="col-sm-5">
+                <div class="appointment-form">
+    <h1 class="form-title white-text">MAKE AN APPOINTMENT</h1>
+    <form action="https://formspree.io/"
+    method="POST">
+        <div class="form-group">
+            <input type="text" class="form-control" placeholder="* Name" name="name">
+        </div>
+        <div class="form-group">
+            <input type="email" class="form-control" placeholder="* Email" name="email">
+        </div>
+        <div class="form-group">
+            <input type="number" class="form-control" placeholder="Phone" name="phone">
+        </div>
+        <div class="form-group">
+            <textarea class="form-control" rows="3" placeholder="* Your Comment" name="comment"></textarea>
+        </div>
+        <input type="hidden" name="_next" value="https://grantcooksey.github.io/MyersSportsMedicine" />
+        <button type="submit" class="blue4 btn-reg appointment-form-btn">Submit</button>
+    </form>
+</div>
+
             </div>
         </div>
     </div>
@@ -292,7 +313,7 @@ Atlanta, GA 30327</p>
     </div>
 </footer>
 
-  </body>
+    </body>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
 <script src="https://grantcooksey.github.io/MyersSportsMedicine/js/bootstrap.min.js" type="text/javascript"></script>
