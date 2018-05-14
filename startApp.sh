@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hugo server  -w #-t hugo-now-ui #gohugo-theme-ananke
+env EMAIL=$MYERS_EMAIL hugo server  -w #-t hugo-now-ui #gohugo-theme-ananke
