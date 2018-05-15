@@ -68,6 +68,10 @@
     padding-bottom: 50px;
 }
 
+.grid-6-bottom {
+    margin-bottom: 150px;
+}
+
 .no-padding-right {
     padding-right: 0px;
 }
@@ -164,6 +168,8 @@ h1, h2 {
 .navbar {
     opacity: .9;
     margin-bottom: 0px;
+    position: relative;
+    z-index: 999;
 }
 
 .navbar span {
@@ -171,7 +177,11 @@ h1, h2 {
 }
 
 .navbar span:hover {
-    color: white;
+    color: black;
+}
+
+.navbar .dropdown-item:hover {
+    color: black;
 }
 
 .navbar-brand span {

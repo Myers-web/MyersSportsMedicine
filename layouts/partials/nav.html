@@ -21,10 +21,10 @@
                         <span>{{ .Name }}</span>
                         <span class="caret"></span>
                     </a>
-                    <ul class="dropdown-menu blue4">
+                    <ul class="dropdown-menu blue2">
                         {{ range .Children }}
-                        <li>
-                            <a href="{{ .URL | absURL }}" class="">
+                        <li class="dropdown-item">
+                            <a href="{{ .URL | absURL }}">
                                 {{ .Pre }}
                                 <span>{{ .Name }}</span>
                             </a>

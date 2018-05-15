@@ -1,11 +1,11 @@
 {{ define "main" }}
 {{ partial "homepage-header" . }}
-{{ partial "main-top" . }}
+{{ partial "main-top-base" . }}
 <div class="text-center">
     {{ .Content }}
 </div>
 <div class="grid-4-top grid-4-bottom">
     {{ partial "about-myers" . }}
 </div>
-{{ partial "main-bottom" . }}
+{{ partial "main-bottom-base" . }}
 {{ end }}
