@@ -16,6 +16,10 @@
     color: white;
 }
 
+.white {
+    background-color: white;
+}
+
 .blue {
     background-color: rgb(10, 47, 66);
 }
@@ -32,10 +36,70 @@
     background-color: rgb(35, 126, 179);
 }
 
+.grid-4-top {
+    margin-top: 100px;
+}
+
+.grid-4-bottom {
+    margin-bottom: 100px;
+}
+
+.grid-2-top {
+    margin-top: 50px;
+}
+
+.grid-2-bottom {
+    margin-bottom: 50px;
+}
+
+.grid-4-top-p {
+    padding-top: 100px;
+}
+
+.grid-4-bottom-p {
+    padding-bottom: 100px;
+}
+
+.grid-2-top-p {
+    padding-top: 50px;
+}
+
+.grid-2-bottom-p {
+    padding-bottom: 50px;
+}
+
+.no-padding-right {
+    padding-right: 0px;
+}
+
+.no-padding-left {
+    padding-left: 0px;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+.white-border {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.no-border {
+    border-width: 0px;
+}
+
 body {
     color: black;
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 hr {
@@ -45,37 +109,56 @@ hr {
 }
 
 .btn-reg {
-    background-color: rgb(25, 90, 130);
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     color: white;
-    border-radius: 4px;
-    border-width: 0px;
+    border-radius: 10px;
+    padding: 4px;
 }
 
 .btn-reg:hover {
     opacity: 0.7;
 }
 
+.btn-a {
+    padding: 9px 40px;
+}
+
+.btn-a:hover {
+    text-decoration: none;
+    color: inherit;
+}
 
 h1, h2 {
     color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
+    margin-top: 0px;
+    font-size: 35px;
+}
+
+.strong-center {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.weak-center {
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+@media only screen and (max-width: 700px)  {
+    h1, h2 {
+        font-size: 25px;
+    }
+
+    .title {
+        padding: 0px;
+    }
 }
 
 .link-list {
     list-style: none;
-}
-
-.page-header h1 {
-    color: rgb(35, 126, 179);
-    font-size: 50px;
-}
-
-.page-header {
-    padding-right: 0px;
-    padding-left: 0px;
 }
 
 .navbar {
@@ -131,7 +214,6 @@ header, footer {
 
 .form-title {
     font-size: 17px;
-    margin-top: 0px;
     margin-bottom: 50px;
 }
 
@@ -166,13 +248,6 @@ header, footer {
     -moz-border-radius: 10px;
 }
 
-@media only screen and (min-width: 650px)  {
-    .main-row .col-xs-12 {
-        padding-left: 50px;
-        padding-right: 50px;
-    }
-}
-
 a .bio-pic {
     width: 180px;
     height: 250px;
@@ -184,11 +259,6 @@ a .bio-pic {
 
 .margin-top {
     margin-top: 30px;
-}
-
-.main-row {
-    margin-left: 0px;
-    margin-right: 0px;
 }
 
 .insurance-container {
@@ -298,4 +368,20 @@ a .bio-pic {
     .footer-contact iframe {
         display: none;
     }
+}
+
+#myers-headshot {
+    height: 540px;
+    background-position: center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover!important;
+    display: block;
+    overflow: hidden;
+    position: relative;
+}
+
+#myers-description {
+    height: 540px;
 }
