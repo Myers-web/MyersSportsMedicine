@@ -1,17 +1,20 @@
 {{ with .Site.GetPage "section" "dr-myers" }}
-<div class="col-sm-12">
-    <div class="row">
-        <div class="col-xs-12 text-center">
-            <h1>{{ .Title }}</h1>
-        </div>
+<div class="row">
+    <div class="col-sm-6 blue1 no-padding-left no-padding-right" id="myers-headshot" style="background-image: url('{{ .Param "pic" | absURL }}');">
+        <!-- <img class="image-full" src="{{ .Param "pic" | absURL }}"> -->
     </div>
-    <div class="row">
-        <div class="col-sm-4 text-center">
-            <img src="{{ .Param "pic" | absURL }}">
-        </div>
-        <div class="col-sm-8">
-            {{ .Description }}
-            <p><a href="{{ .URL | absURL }}">Read More</a></p>
+    <div class="col-sm-6 blue2">
+        <div class="weak-center white-text grid-4-top-p grid-2-bottom-p" id="myers-description">
+            <h1 class="open-sans white-text grid-2-bottom">{{ .Title }}</h1>
+            <div class="grid-2-bottom oswald">
+                {{ .Description }}
+            </div>
+            <div class="text-center">
+                <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
+                    Read More
+                    <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
+                </a>
+            </div>
         </div>
     </div>
 </div>

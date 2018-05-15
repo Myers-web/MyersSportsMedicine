@@ -4,10 +4,7 @@ description: "Dr. Thomas H. Myers is a board certified orthopaedic surgeon and s
 He moved to Atlanta to practice in 2003 after completing a year long fellowship with 
 world-renowned orthopaedic surgeon Dr. James Andrews.  While training with Dr. Andrews, 
 Dr. Myers assisted in the care of marquis athletes from all areas of professional and 
-college sports.  He served as an associate team physician for the Washington Redskins 
-NFL football team as well as NCAA Division I athletic teams from Alabama.  He 
-participated in spring training coverage for the Tampa Bay Devil Rays and the 
-Cincinnati Reds of major league baseball."
+college sports."
 pic: "images/dr-myers/myers-main.jpg"
 ---
 
