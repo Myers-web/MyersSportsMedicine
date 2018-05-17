@@ -395,3 +395,7 @@ a .bio-pic {
 #myers-description {
     height: 540px;
 }
+
+#staff-photo {
+    max-width: 200px;
+}
