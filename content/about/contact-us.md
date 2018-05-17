@@ -24,7 +24,6 @@ Our office hours are as listed:
 
 Call Us: (404) 352-8156  
 Fax Us: (404) 350-9405  
-<a title="Dr. Thomas Myers" href="mailto:ksettlesmsmoc@gmail.com">Email Dr. Myers</a>
 
 ## Location
 
