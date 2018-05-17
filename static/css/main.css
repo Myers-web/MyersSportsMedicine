@@ -20,6 +20,10 @@
     background-color: white;
 }
 
+.grey {
+    background-color: rgb(235, 235, 235);
+}
+
 .blue {
     background-color: rgb(10, 47, 66);
 }
