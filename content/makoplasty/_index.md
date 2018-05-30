@@ -2,7 +2,7 @@
 title: "The MAKOplasty Procedure"
 date: 2018-03-11T22:40:28-05:00
 description: "MAKOplasty&reg; Partial Knee Resurfacing is an innovative treatment option for adults living with early to midstage osteoarthritis"
-pic: ""
+pic: "images/makoplasty/makoplasty-system.jpg"
 tags: ["mako", "newTech"]
 ---
 

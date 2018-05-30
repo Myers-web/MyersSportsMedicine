@@ -1,4 +1,21 @@
-<div class="strong-center text-center">
-    <h1>Featured Procedures</h1>
-</div>
-    
+<div class="grey grid-4-top-p grid-4-bottom-p">
+    <div class="grid-4-bottom-p strong-center text-center">
+        <h1>Featured Procedures</h1>
+    </div>
+    <div class="container-fluid no-gutters">
+        <div class="row no-gutters">
+            {{/* with .Site.GetPage "page" "procedures" "acl-animation.md" }}
+                {{ partial "featured-procedure" . }}
+            {{ end */}}
+            {{ with .Site.GetPage "page" "procedures" "shoulder-sling.md" }}
+                {{ partial "featured-procedure" . }}
+            {{ end }}  
+            {{ with .Site.GetPage "section" "prp-injections" }}
+                {{ partial "featured-procedure" . }}
+            {{ end }}
+            {{ with .Site.GetPage "section" "makoplasty" }}
+                {{ partial "featured-procedure" . }}
+            {{ end }}
+        </div>
+    </div>
+</div>    

@@ -76,6 +76,13 @@
     margin-bottom: 150px;
 }
 
+.no-gutters {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
 .no-padding-right {
     padding-right: 0px;
 }
@@ -382,6 +389,11 @@ a .bio-pic {
     .footer-contact iframe {
         display: none;
     }
+}
+
+.procedure-img {
+    height: 400px;
+    width: 100%;
 }
 
 #myers-headshot {
