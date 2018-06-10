@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="text-center grid-2-bottom videowrapper">
+    <iframe src="https://www.youtube.com/embed/bWgLbvYlJlU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="col-xs-12">
+    {{ .Content }}
+</div>
+{{ partial "main-bottom" . }}
+{{ end }}
