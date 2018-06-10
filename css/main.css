@@ -427,6 +427,14 @@ a .bio-pic {
     visibility: hidden;
 }
 
+/* HACK: Always show for mobile devices */
+@media only screen and (max-width: 480px)  {
+    .procedure-content .procedure-content-hover {
+        visibility: visible;
+    }
+}
+
+
 .procedure-content:hover .procedure-content-hover {
     visibility: visible;
 }
