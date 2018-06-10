@@ -162,6 +162,23 @@ h1, h2 {
     padding-right: 7%;
 }
 
+.flush-ul {
+  display: table;
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.flush-li {
+  display: table-row;
+}
+
+.flush-li::before {
+    content: "•";
+    display: table-cell;
+    padding-right: 0.4em;
+}
+
 @media only screen and (max-width: 700px)  {
     h1, h2 {
         font-size: 25px;

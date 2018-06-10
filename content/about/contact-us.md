@@ -12,11 +12,13 @@ description: ""
 
 Our office hours are as listed:
 
-* Monday 8AM–12:30PM, 2–5PM
-* Tuesday 8AM–12:30PM, 2–5PM
-* Wednesday 8AM–12:30PM, 2–5PM
-* Thursday 8AM–12:30PM, 2–5PM
-* Friday 8AM–12:30PM, 2–5PM
+<ul class="flush-ul">
+    <li class="flush-li">Monday 8AM–12PM, 1:30PM–5PM</li>
+    <li class="flush-li">Tuesday 8AM–12PM, 1:30PM–5PM</li>
+    <li class="flush-li">Wednesday 8AM–12PM, 1:30PM–5PM</li>
+    <li class="flush-li">Thursday 8AM–12PM, 1:30PM–5PM</li>
+    <li class="flush-li">Friday 8AM–12PM, 1:30PM–5PM</li>
+</ul>
 {{% /column %}}
 
 {{% column md 3 %}}
