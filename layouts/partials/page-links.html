@@ -1,0 +1,10 @@
+<div class="contents">
+{{ range .Paginator.Pages }}
+        <div class="btn-reg btn-a">
+        <a href="{{ .URL | absURL }}">
+            {{.Title}}
+            <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
+        </a>
+    </div>
+{{ end }}
+</div>
