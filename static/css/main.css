@@ -411,6 +411,32 @@ a .bio-pic {
 .procedure-img {
     height: 400px;
     width: 100%;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.procedure-content {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.procedure-content .procedure-content-hover {
+    background-color: rgba(0, 0, 0, .6);
+    height: 400px;
+    visibility: hidden;
+}
+
+/* HACK: Always show for mobile devices */
+@media only screen and (max-width: 480px)  {
+    .procedure-content .procedure-content-hover {
+        visibility: visible;
+    }
+}
+
+
+.procedure-content:hover .procedure-content-hover {
+    visibility: visible;
 }
 
 #myers-headshot {

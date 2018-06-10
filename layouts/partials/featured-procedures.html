@@ -4,16 +4,13 @@
     </div>
     <div class="container-fluid no-gutters">
         <div class="row no-gutters">
-            {{/* with .Site.GetPage "page" "procedures" "acl-animation.md" }}
+            {{ with .Site.GetPage "page" "procedures" "acl-animation.md" }}
                 {{ partial "featured-procedure" . }}
-            {{ end */}}
+            {{ end }}
             {{ with .Site.GetPage "page" "procedures" "shoulder-sling.md" }}
                 {{ partial "featured-procedure" . }}
             {{ end }}  
             {{ with .Site.GetPage "section" "prp-injections" }}
-                {{ partial "featured-procedure" . }}
-            {{ end }}
-            {{ with .Site.GetPage "section" "makoplasty" }}
                 {{ partial "featured-procedure" . }}
             {{ end }}
         </div>
