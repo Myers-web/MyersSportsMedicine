@@ -419,6 +419,10 @@ a .bio-pic {
     height: 100%;
 }
 
+.video-popup:focus {
+    outline-style: none;
+}
+
 @media only screen and (max-width: 430px)  {
     .footer-contact iframe {
         display: none;
