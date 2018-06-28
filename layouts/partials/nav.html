@@ -34,12 +34,17 @@
                 </li>
                 {{ else }}
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ .URL | absURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
+                    <a href="{{ .URL | absURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
                     <span>{{ .Name }}</span>
                     </a>
                 </li>
                 {{ end }}
                 {{ end }}
+                <li class="nav-item">
+                    <a href="https://www.medfusion.net/secure/portal/index.cfm?fuseaction=home.login&dest=welcome&gid=9890" class="nav-link btn">
+                        <span>Pay My Bill</span>
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
