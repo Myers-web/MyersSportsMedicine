@@ -5,6 +5,7 @@ description: ""
 
 # Benefits
 
+{{% highlight-text %}}
 **No wait time.** 
 After patient check in and verification of insurance the patient is immediately placed in 
 the doctor’s examination room and evaluated as soon as possible.
@@ -20,6 +21,7 @@ forms (if not completed online).
 immediately emailed to patient’s phone prior to discharge from the office.
 
 **Parking validation.**
+{{% /highlight-text %}}
 
 <hr>
 

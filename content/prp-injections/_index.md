@@ -7,6 +7,7 @@ tags: ["newTech"]
 ---
 
 # Dr. Thomas Myers is now offering PRP injections in the office
+
 Platelet Rich Plasma injections are a new technology that uses natural healing factors to treat chronic injuries.
 
 PRP injections are most commonly used for tendonitis or chronic injuries such as:
