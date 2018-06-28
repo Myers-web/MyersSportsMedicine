@@ -227,6 +227,12 @@ h1, h2 {
     background-color: rgb(10, 47, 66);
 }
 
+.btn-nav {
+    padding: 4px !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 header, footer {
     background-attachment: fixed;
     background-position: center; 
