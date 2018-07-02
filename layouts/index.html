@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ partial "homepage-header" . }}
+{{ partial "header" . }}
 {{ partial "main-top-base" . }}
 <div class="text-center">
     {{ .Content }}
@@ -9,4 +9,5 @@
 </div>
 {{ partial "main-bottom-base" . }}
 {{ partial "featured-procedures" . }}
+{{ partial "appointment" . }}
 {{ end }}
