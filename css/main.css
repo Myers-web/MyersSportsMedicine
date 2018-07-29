@@ -478,6 +478,11 @@ a .bio-pic {
     position: relative;
 }
 
+#jenna-book {
+    width: 65%;
+    height: auto;
+}
+
 #myers-description {
     height: 540px;
 }
