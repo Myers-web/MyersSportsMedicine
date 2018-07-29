@@ -10,7 +10,8 @@ UnitedHealthcare is an operating division of UnitedHealth Group, the largest sin
 health carrier in the United States.
 
 As a recognized leader in the health and well-being industry, United Health Care strives 
-to:
+to:  
+
 * Improve the quality and effectiveness of health care for all Americans
 * Enhance access to health benefits
 * Create products and services that make health care more affordable
