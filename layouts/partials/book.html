@@ -1,0 +1,13 @@
+{{ with .Site.GetPage "section" "book" }}
+    <div class="text-center grid-2-bottom">
+        <img src="{{ .Param "pic" | absURL }}" alt="Jenna's book cover" id="jenna-book">
+    </div>
+    <h1 class="text-center open-sans grid-2-bottom">{{ .Title }}</h1>
+    <div class="text-center grid-2-bottom oswald">
+        {{ .Description }}
+    </div>
+    <div class="grid-2-bottom-p">
+        {{ .Content }}
+    </div>
+{{ end }}
+
