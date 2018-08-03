@@ -18,6 +18,11 @@
     <!-- Add fancyBox -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 
+    <!-- Featured Photos -->
+    <style>
+      {{ print (partial "css.html" .) | safeCSS }}
+    </style>
+
     {{ range .Site.Params.custom_css -}}
       <link rel="stylesheet" href="{{ . | absURL }}">
     {{- end }}

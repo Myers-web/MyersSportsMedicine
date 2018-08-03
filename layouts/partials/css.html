@@ -1,0 +1,19 @@
+ /* HACK: need to render the featured image using params from config
+ and a media query.  Unfortunately media queries cannot be used inline
+and hugo doesn't render anything in the static dierectory so a we load in 
+a partial and render it as css. ugh */
+
+{{ $featured_image_large := default .Site.Params.defaultImageLarge }}
+{{ $featured_image_small := default .Site.Params.defaultImageSmall }}
+{{ $featured_image_large := $featured_image_large | absURL }}
+{{ $featured_image_small := $featured_image_small | absURL }}
+
+header {
+    background-image: url('{{ $featured_image_large }}');
+}
+
+@media only screen and (max-width: 700px)  {
+    header {
+        background-image: url('{{ $featured_image_small }}') !important;
+    }
+}
