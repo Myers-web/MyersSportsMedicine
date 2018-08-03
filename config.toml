@@ -113,7 +113,7 @@ relativeurls = true
     weight = 5
 
 [Params]
-    defaultImageLarge = "images/featured-images/workout.jpg"
-    defaultImageSmall = "images/featured-images/operating.jpg"
+    defaultImageLarge = "images/featured-images/workout-min.jpg"
+    defaultImageSmall = "images/featured-images/operating-min.jpg"
     logo = "images/logo.jpg"
     contactImg = "images/about/office.jpg"
