@@ -22,14 +22,37 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 
     
+    <style>
+       /* HACK: need to render the featured image using params from config
+ and a media query.  Unfortunately media queries cannot be used inline
+and hugo doesn't render anything in the static dierectory so a we load in 
+a partial and render it as css. ugh */
+
+
+
+
+
+
+header {
+    background-image: url('https://grantcooksey.github.io/MyersSportsMedicine/images/featured-images/workout.jpg');
+}
+
+@media only screen and (max-width: 700px)  {
+    header {
+        background-image: url('https://grantcooksey.github.io/MyersSportsMedicine/images/featured-images/operating.jpg') !important;
+    }
+}
+
+    </style>
+
+    
 </head>
 
     <body>
     
 
 
-
-<header style="background-image: url('https://grantcooksey.github.io/MyersSportsMedicine/images/featured-images/myers-surgery.jpg');">
+<header >
     
 <nav class="navbar navbar-inverse">
     <div class="container-fluid blue2">
