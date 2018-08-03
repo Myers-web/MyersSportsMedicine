@@ -6,6 +6,7 @@ world-renowned orthopaedic surgeon Dr. James Andrews.  While training with Dr. A
 Dr. Myers assisted in the care of marquis athletes from all areas of professional and 
 college sports."
 pic: "images/dr-myers/myers-main.jpg"
+featuredImage: "images/featured-images/sports-min.jpg"
 ---
 
 Dr. Thomas H. Myers is a board certified orthopaedic surgeon and sports medicine expert. 

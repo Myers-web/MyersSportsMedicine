@@ -1,6 +1,7 @@
 ---
 title: "Contact Us"
 description: ""
+featuredImage: "images/featured-images/sports-min.jpg"
 ---
 {{% row %}}
 <div class="col-md-6 text-center">

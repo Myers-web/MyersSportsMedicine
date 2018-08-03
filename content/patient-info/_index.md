@@ -2,6 +2,7 @@
 title: "Patient Forms"
 date: 2018-01-31T22:43:08-05:00
 description: ""
+featuredImage: "images/featured-images/knee-min.jpg"
 ---
 
 The following forms must be filled out by all patients. Download them, print 

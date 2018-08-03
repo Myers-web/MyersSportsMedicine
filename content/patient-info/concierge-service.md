@@ -1,6 +1,7 @@
 ---
 title: "Patient Concierge Service"
 description: ""
+featuredImage: "images/featured-images/knee-min.jpg"
 ---
 
 # Benefits

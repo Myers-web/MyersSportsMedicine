@@ -2,6 +2,7 @@
 title: "Dr. Myers Key Information"
 description: ""
 pic: "images/dr-myers/dr-thomas-myers.jpg"
+featuredImage: "images/featured-images/sports-min.jpg"
 ---
 
 # Specialties

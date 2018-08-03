@@ -7,18 +7,6 @@
         {{ .Content }}
     </div>
 </div>
-<div class="row">
-    <div class="col-xs-12">
-        <ul class="contents">
-        {{ range .Paginator.Pages }}
-            <li>
-                <a href="{{ .URL | absURL }}">
-                    <span>{{.Title}}</span>
-                </a>
-            </li>
-        {{ end }}
-        </ul>
-    </div>
-</div>
+{{ partial "page-links.html" . }}
 {{ partial "main-bottom" . }}
 {{ end }}

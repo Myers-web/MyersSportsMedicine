@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: ""
-featuredImage: "images/about/office.jpg"
+featuredImage: "images/featured-images/sports-min.jpg"
 ---
 Our practice is a state of the art facility fully equipped with three exam suites, a complete physical therapy facility and a luxurious waiting room. A 
 media center is available so that you may experience educational videos and thoroughly 

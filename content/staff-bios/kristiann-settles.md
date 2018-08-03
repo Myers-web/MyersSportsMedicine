@@ -2,6 +2,7 @@
 title: "Kristiann Settles"
 description: ""
 pic: "images/staff-bios/kristiann-settles.jpg"
+featuredImage: "images/featured-images/sports-min.jpg"
 ---
 
 Kristiann Settles obtained her Bachelor of Science in Exercise & Health Science from 

@@ -2,6 +2,7 @@
 title: "The Five Most Common Sports Injuries"
 date: 2018-02-11T14:29:44-05:00
 description: ""
+featuredImage: "images/featured-images/baseball.jpg"
 ---
 
 Many people play sports in some way or another, whether they are playing for fun in their 
