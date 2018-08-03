@@ -1,10 +1,7 @@
 {{ $featured_image := .Param "featuredimage" }}
 
-<header {{ if $featured_image }}style="background-image: url('{{ $featured_image | absURL }}')"{{ end }}>
+<header class="featured-image" {{ if $featured_image }}style="background-image: url('{{ $featured_image | absURL }}')"{{ end }}>
     {{ partial "nav" . }}
     <div class="container-fluid">
-        <div class="logo text-center">
-            <img src="{{ .Site.Params.logo | absURL }}">
-        </div>
     </div>
 </header>

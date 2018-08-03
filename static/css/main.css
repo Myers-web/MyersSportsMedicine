@@ -261,11 +261,18 @@ header, footer {
     margin-bottom: 50px;
 }
 
+.featured-image {
+    height: 500px;
+}
+
 .logo {
-    margin-bottom: 200px;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(2, 42, 65) 40%, rgb(2, 42, 65) 60%, rgba(0, 0, 0, 0));
-    padding-bottom: 10px;
-    padding-top: 5px;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(2, 42, 65) 30%, rgb(2, 42, 65) 70%, rgba(0, 0, 0, 0));
+}
+
+@media only screen and (min-width: 850px)  {
+    .featured-image {
+        height: 420px;
+    }
 }
 
 .logo-fade {
