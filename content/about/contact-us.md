@@ -30,8 +30,8 @@ Fax Us: (404) 350-9405
 
 ## Location
 
-3200 Downwood Cir NW #340  
-Atlanta, GA 30327
+[3200 Downwood Cir NW #340  
+Atlanta, GA 30327](https://goo.gl/maps/twBriga4J2y)
 
 {{% facebook %}}
 
