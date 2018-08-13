@@ -2,6 +2,7 @@
 title: "DonJoy UltraSling Quadrant"
 date: 2018-05-29T23:44:06-04:00
 description: ""
+featuredImage: "images/featured-images/running-min-2.jpg"
 pic: "images/procedures/donjoy-ultrasling.jpg"
 ---
 

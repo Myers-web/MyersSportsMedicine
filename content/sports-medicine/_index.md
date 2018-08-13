@@ -3,7 +3,7 @@ title: "Sports Medicine"
 date: 2018-02-11T14:28:34-05:00
 description: ""
 tags: ["edu"]
-featuredImage: "images/featured-images/baseball.jpg"
+featuredImage: "images/featured-images/running-min-2.jpg"
 pic: "images/sports-medicine/pt.jpg"
 ---
 

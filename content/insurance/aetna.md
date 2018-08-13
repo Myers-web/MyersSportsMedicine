@@ -5,7 +5,7 @@ description: "Offers a broad range of traditional and consumer-directed health i
 products and related services including medical, pharmacy, dental, behavioral health, 
 group life, long-term care, and others."
 pic: "images/insurance/aetna.jpg"
-featuredImage: "images/featured-images/knee-min.jpg"
+featuredImage: "images/featured-images/running-min-2.jpg"
 ---
 
 Dr. Myers accepts Aetna as a form of health insurance.

@@ -5,7 +5,7 @@ description: "One of the most trusted names in health coverage, Blue Cross and B
 Shield of Georgia has been providing quality health benefits to state residents for over 
 70 years."
 pic: "images/insurance/bcbs.jpg"
-featuredImage: "images/featured-images/knee-min.jpg"
+featuredImage: "images/featured-images/running-min-2.jpg"
 ---
 
 One of the most trusted names in health coverage, Blue Cross and Blue Shield of Georgia 

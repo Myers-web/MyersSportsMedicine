@@ -3,6 +3,7 @@ title: "PRP Injections"
 date: 2018-03-11T23:11:56-04:00
 description: "Platelet Rich Plasma injections are a new technology that uses natural healing factors to treat chronic injuries"
 pic: "images/prp/DRAW.jpeg"
+featuredImage: "images/featured-images/running-min-2.jpg"
 tags: ["newTech"]
 ---
 
