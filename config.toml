@@ -117,3 +117,4 @@ relativeurls = true
     defaultImageSmall = "images/featured-images/operating-min.jpg"
     logo = "images/logo.jpg"
     contactImg = "images/featured-images/connectwork.png"
+    patientPortal = "https://www.pbomd.com/pboppv6/login.asp"
