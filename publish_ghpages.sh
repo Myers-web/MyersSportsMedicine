@@ -1,5 +1,7 @@
 #!/bin/sh
 
+env EMAIL=$MYERS_EMAIL
+
 echo "Deleting old publication"
 rm -rf public
 mkdir public
