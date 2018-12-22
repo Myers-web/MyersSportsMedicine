@@ -1,9 +1,29 @@
 ---
-title: "Dr. Ross Brakeville PT, DPT, STC, TPI-L3"
+title: "Dr. Ross Brakeville PT, DPT, STC, TPI-CFI"
 date: 2018-05-16T23:23:02-04:00
 description: ""
 pic: "images/staff-bios/ross.jpeg"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---
 
-Ross Brakeville, DPT, is the owner of Georgia Sports Medicine Specialists, LLC, and is a recognized expert in sports medicine and orthopedics. Dr. Brakeville received his undergraduate degrees in science and physical therapy from Maryville University, St. Louis, going on to earn his Doctor of physical therapy with a specialty in sports physical therapy from the University of St. Augustine in Florida.  While he has a passion for and expertise in Golf, he is a certified level 3 Golf Medical Professional and published two books on golf. He is a committee member of the Georgia State Golf Associations Adaptive Golf Initiative, and the Founder of PJGA, a golf program paring kids with their parents. Dr. Brakeville is the chairman of the American Physical Therapy Association's Golf Special Interest Group, as well as the chairman for the Cobb County Chamber of Commerce Health and Wellness Committee. Additionally, Dr. Brakeville has further training in orthopedic evaluation methods under the guidance of Thomas Myers, MD, and adolescent orthopedics with David Marshall, MD. He is the medical coordinator the Cherokee Impact Soccer Organization in Georgia, and an adjunct instructor at Kennesaw State University in Kennesaw, GA, where he teaches the orthopedic module for the nurse practitioner program. Dr. Brakeville is the developer and instructor for “**A Fluid Motion**”, _Biomechanics and Pathomechanics of Rotational Athletics_. This program is presented around the country to sports medicine professionals. He also presents on Golf mechanics and teaching strategies, has published several articles and resources, and was a host on the weekly segment, _The Golf Show_.
+**Dr. Ross Brakeville, PT, DPT, STC, TPI-CFI** is the owner of Georgia Sports Medicine 
+Specialists.  Dr. Brakeville graduated from Maryville College in 1987 with degrees in Science 
+and Physical Therapy.  He went on to earn a Doctor of Physical Therapy and Specialty 
+Certification in Sports Physical Therapy from the University of St. Augustine in 2007.  Dr. 
+Brakeville has continued his pursuit of orthopaedic and sports medicine education with clinical 
+internships in pediatric and adult orthopedic programs facilitated by recognized physicians in 
+Athens, Macon and Atlanta Georgia.
+
+Dr. Brakeville’s involvement in education includes a residency site for Emory University’s 
+Physical Therapy’s orthopaedic residency program.  He is an adjunct instructor for KSU’s Nurse 
+Practitioner program teaching *Orthopaedic Evaluation Methods* and a guest lecturer for several 
+Physical Therapy programs teaching *Evaluation and Management of The Adolescent Athlete*.  He has 
+presented throughout the Southeast on sports medicine topics to such groups as Family Practice 
+Physicians, Physical Therapists, GATA, PGA, PTA, and Coaches.
+
+In addition to his teaching schedule, Dr. Brakeville has written two books on golf biomechanics, 
+writes a regular column for local magazines and has hosted a weekly segment on The Golf Show.
+
+His sports medicine programs include Cherokee County’s high school system World of 
+Gymnastics/Cheer, Reinhardt University, Impact Soccer Association, Old Town Tennis and PGA Tour 
+Superstore in Kennesaw.  
