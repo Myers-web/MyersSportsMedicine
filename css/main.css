@@ -161,6 +161,32 @@ hr {
     color: inherit;
 }
 
+.btn-center {
+    width: 90%;
+    margin-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn-resize-parent {
+    border-radius: 10px;
+}
+
+.btn-resize-parent:hover {
+    opacity: 0.7;
+}
+
+.btn-resize-a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: white;
+}
+
+.btn-resize-a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1, h2 {
     color: black;
     font-family: 'Montserrat', sans-serif;
@@ -329,6 +355,10 @@ a .bio-pic {
 
 .margin-right {
     margin-right: 10px;
+}
+
+.sm-margin-top {
+    margin-top: 15px;
 }
 
 .margin-top {
