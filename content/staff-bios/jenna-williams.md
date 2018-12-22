@@ -1,5 +1,5 @@
 ---
-title: "Jenna Williams, MS, LAT, ATC, OTC"
+title: "Jenna Williams, MS, LAT, ATC, OTC, Practice Manager"
 date: 2018-05-16T23:28:06-04:00
 description: ""
 pic: "images/staff-bios/jenna.jpeg"
