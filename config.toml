@@ -43,6 +43,12 @@ relativeurls = true
     parent = "about"
     weight = 4
 
+[[menu.main]]
+    name = "Physical Therapy"
+    url = "physical-therapy"
+    parent = "about"
+    weight = 5
+
 # Patient Info ----------------------
 
 [[menu.main]]

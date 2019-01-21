@@ -17,7 +17,7 @@ To be a top destination site for sports medicine and orthopaedic care.
 Key components to a destination site include: 
 - Expert practitioners driven to be the best in their field
 - Extraordinary staff, dedicated to service of each other and our patients
-- Exceptional facilities (wow factor)
+- Exceptional facilities
 - Environment of fun, energetic, education with a sense of urgency for needs of others
 
 <br>
