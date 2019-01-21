@@ -32,3 +32,10 @@
     </div>
 {{ end }}
 </div>
+<div class="row margin-top">
+{{ with .Site.GetPage "page" "staff-bios" "ryan-ingraffia.md" }}
+    <div class="col-sm-12 text-center">
+        {{ partial "single-bio" . }}
+    </div>
+{{ end }}
+</div>

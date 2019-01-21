@@ -10,4 +10,4 @@ Ryan graduated from Kennesaw State University in 2013 with a bachelor’s degree
 Health Science with an interest in Physical Therapy. She then went on to Lanier Technical 
 College to complete the PT Assistant program and graduated in May 2016. Ryan has orthopedic 
 experience specializing interest in sports medicine, aquatic therapy, and balance retraining. 
-Ryan is now PT Assistant to Dr. Ross Brakeville. 
+Ryan is now PT Assistant to Dr. Ross Brakeville.

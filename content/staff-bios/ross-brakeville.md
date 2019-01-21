@@ -2,7 +2,7 @@
 title: "Dr. Ross Brakeville PT, DPT, STC, TPI-CFI"
 date: 2018-05-16T23:23:02-04:00
 description: ""
-pic: "images/staff-bios/ross.jpeg"
+pic: "images/staff-bios/ross.jpg"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---
 
