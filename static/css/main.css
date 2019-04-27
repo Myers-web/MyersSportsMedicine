@@ -318,6 +318,12 @@ header, footer {
     }
 }
 
+@media only screen and (max-width: 850px)  {
+    header {
+        background-attachment: scroll;
+    }
+}
+
 @media only screen and (min-width: 1350px)  {
     .featured-image {
         height: 650px;
