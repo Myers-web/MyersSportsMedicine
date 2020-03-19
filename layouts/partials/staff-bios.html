@@ -4,37 +4,25 @@
         {{ partial "single-bio" . }}
     </div>
 {{ end }}
-{{ with .Site.GetPage "page" "staff-bios" "kristiann-settles.md" }}
-    <div class="col-sm-4 text-center">
-        {{ partial "single-bio" . }}
-    </div>
-{{ end }}
 {{ with .Site.GetPage "page" "staff-bios" "michael-mcgrane.md" }}
     <div class="col-sm-4 text-center">
         {{ partial "single-bio" . }}
     </div>
 {{ end }}
-</div>
-<div class="row margin-top">
 {{ with .Site.GetPage "page" "staff-bios" "molly-myers.md" }}
     <div class="col-sm-4 text-center">
         {{ partial "single-bio" . }}
     </div>
 {{ end }}
-{{ with .Site.GetPage "page" "staff-bios" "tiffany-jackson.md" }}
-    <div class="col-sm-4 text-center">
-        {{ partial "single-bio" . }}
-    </div>
-{{ end }}
-{{ with .Site.GetPage "page" "staff-bios" "ross-brakeville.md" }}
-    <div class="col-sm-4 text-center">
-        {{ partial "single-bio" . }}
-    </div>
-{{ end }}
 </div>
 <div class="row margin-top">
+{{ with .Site.GetPage "page" "staff-bios" "ross-brakeville.md" }}
+    <div class="col-sm-6 text-center">
+        {{ partial "single-bio" . }}
+    </div>
+{{ end }}
 {{ with .Site.GetPage "page" "staff-bios" "ryan-ingraffia.md" }}
-    <div class="col-sm-12 text-center">
+    <div class="col-sm-6 text-center">
         {{ partial "single-bio" . }}
     </div>
 {{ end }}
