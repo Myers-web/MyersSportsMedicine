@@ -1,6 +1,6 @@
 ---
 title: "Patient Concierge Service"
-description: ""
+description: "Myers Sports Medicine Concierge Service at West Paces Office in Atlanta, Georgia"
 featuredImage: "images/featured-images/knee-min.jpg"
 ---
 
