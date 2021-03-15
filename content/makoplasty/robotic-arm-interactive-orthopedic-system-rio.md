@@ -1,7 +1,7 @@
 ---
 title: "Robotic Arm Interactive Orthopedic System Rio"
 date: 2018-03-06T12:37:49-05:00
-description: ""
+description: "The Robotic Arm Interactive Orthopedic System is a robot-assisted tool used by orthopaedic surgeons. This robot-assisted procedure allows surgeons to operate more precisely and effectivly, improving patient outcomes."
 pic: ""
 tags: ["mako"]
 ---
