@@ -1,9 +1,7 @@
 ---
 title: "Aetna"
 date: 2018-02-06T20:17:56-05:00
-description: "Offers a broad range of traditional and consumer-directed health insurance 
-products and related services including medical, pharmacy, dental, behavioral health, 
-group life, long-term care, and others."
+description: "Dr. Myers accepts Aetna health insurance."
 pic: "images/insurance/aetna.jpg"
 featuredImage: "images/featured-images/running-min-2.jpg"
 ---
