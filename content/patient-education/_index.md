@@ -1,7 +1,7 @@
 ---
 title: "Patient Education"
 date: 2018-02-11T14:15:51-05:00
-description: "Patient Education: Orthopaedic Mediicne deals with treatment and care of conditions/injuries related to the bones, ligaments, joins, tendons, and nerves. Common injuries include ACL and meniscus tears in the knee, and rotator cuff or labral tears in the shoulder."
+description: "Patient Education: Orthopaedic Medicine deals with treatment and care of conditions/injuries related to the bones, ligaments, joins, tendons, and nerves. Common injuries include ACL and meniscus tears in the knee, and rotator cuff or labral tears in the shoulder."
 ---
 
 Orthopaedic medicine deals with treatment and care of conditions and injuries to bones, 
