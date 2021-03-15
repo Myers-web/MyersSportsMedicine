@@ -1,7 +1,7 @@
 ---
 title: "Makoplasty Total Hip Replacement"
 date: 2018-03-07T12:44:24-05:00
-description: ""
+description: "MAKOplasty may be used in Hip replacement surgery."
 pic: ""
 tags: ["mako"]
 ---
