@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-description: ""
+description: "Dr. Myers is an Atlanta-Base Orthopaedic Surgeon specializing in Sports Medicine."
 pic: ""
 ---

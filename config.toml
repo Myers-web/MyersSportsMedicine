@@ -1,4 +1,4 @@
-baseurl = "https://www.myerssportsmedicine.com"
+baseurl = "http://localhost:1313"
 languageCode = "en-us"
 title = "Myers Sports Medicine & Orthopaedic Center"
 
@@ -49,13 +49,45 @@ relativeurls = true
     name = "Physical Therapy"
     url = "physical-therapy"
     weight = 3
+    
+# Featured Procedures----------------
 
+[[menu.main]]
+    name = "Featured Procedures"
+    identifier = "featured"
+    weight = 4
+
+[[menu.main]]
+    name = "Makoplasty"
+    url = "makoplasty/"
+    parent = "featured"
+    weight = 1
+    
+[[menu.main]]
+    name = "DonJoy UltraSling Quadrant"
+    url = "/procedures/shoulder-sling/"
+    parent = "featured"
+    weight = 2
+    
+[[menu.main]]
+    name = "PRP"
+    url = "prp-injections/"
+    parent = "featured"
+    weight = 3
+    
+ [[menu.main]]
+    name = "ACL Repair"
+    url = "acl-repair/"
+    parent = "featured"
+    weight = 4   
+  
+    
 # Patient Info ----------------------
 
 [[menu.main]]
     name = "Patient Info"
     identifier = "info"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Patient Forms"
@@ -80,7 +112,7 @@ relativeurls = true
 [[menu.main]]
     name = "Patient Education"
     identifier = "edu"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Patient Education"
@@ -117,7 +149,7 @@ relativeurls = true
 [[menu.main]]
     name = "Testimonials"
     url = "testimonials/"
-    weight = 6
+    weight = 7
 
 [Params]
     defaultImageLarge = "images/featured-images/workout-min.jpg"

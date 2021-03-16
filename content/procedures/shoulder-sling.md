@@ -1,7 +1,7 @@
 ---
 title: "DonJoy UltraSling Quadrant"
 date: 2018-05-29T23:44:06-04:00
-description: "The DonJoy UltraSling Quadrant is a revolutionary shoulder brace designed by Dr. Myers. This shoulder brace allows patients more flexilibty in their post-operative recovery, allowing use of the elbow so patients can drive, work, and maintain everyday function while their shoulder heals."
+description: "The DonJoy UltraSling Quadrant is a revolutionary shoulder brace that allows allows patients to maintain everyday function during their postoperative recovery."
 featuredImage: "images/featured-images/running-min-2.jpg"
 pic: "images/procedures/donjoy-ultrasling.jpg"
 ---
