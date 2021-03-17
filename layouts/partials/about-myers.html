@@ -1,9 +1,9 @@
 {{ with .Site.GetPage "section" "dr-myers" }}
 <div class="row">
-    <div class="col-sm-6 blue1 no-padding-left no-padding-right" id="myers-headshot" style="background-image: url('{{ .Param "pic" | absURL }}');">
-        <!-- <img class="image-full" src="{{ .Param "pic" | absURL }}"> -->
+    <div class="col-sm-6 blue2" id="myers-headshot" style= "border-radius: 10px 0 0 10px;">
+        <img class="img-center" id="myers-about-headshot" src="{{ .Param "pic" | absURL }}">
     </div>
-    <div class="col-sm-6 blue2">
+    <div class="col-sm-6 blue2" style="border-radius: 0 10px 10px 0";>
         <div class="weak-center white-text grid-4-top-p grid-2-bottom-p" id="myers-description">
             <h1 class="open-sans white-text grid-2-bottom">{{ .Title }}</h1>
             <div class="grid-2-bottom oswald">

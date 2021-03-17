@@ -537,17 +537,36 @@ a .bio-pic {
     visibility: visible;
 }
 
+.img-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
 #myers-headshot {
     height: 540px;
-    background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover!important;
     display: block;
     overflow: hidden;
+
+}
+
+#myers-about-headshot {
+    height: 400px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover!important;
+    overflow: hidden;
     position: relative;
 }
+
 
 #jenna-book {
     width: 65%;
