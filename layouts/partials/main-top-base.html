@@ -1,10 +1,10 @@
-<main class="container" aria-role="main">
+<main class="container-fluid" aria-role="main">
     <div class="grid-4-bottom">
-        <div class="strong-center text-center">
+        <div class="strong-center text-center heading-format">
             {{ if .IsHome }}
             <div class="logo">
                 <img src="{{ .Site.Params.logo | absURL }}">
             </div>
             {{ end }}
-            <h1 class="grid-4-top grid-2-bottom">{{ .Title }}</h1>
+            <h1 class="grid-2-top grid-1-bottom" >{{ .Title }}</h1>
         </div>

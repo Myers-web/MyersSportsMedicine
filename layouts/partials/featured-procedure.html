@@ -1,14 +1,15 @@
-<div class="col-sm-6 col-md-3 col-lg-3 no-gutters">
+<div class="col-sm-6 col-md-6 col-lg-6 no-gutters">
     <div>
-        <div class="procedure-img" style="background-image: url('{{ .Param "pic" | absURL }}');"></div>
+        <div class="procedure-img" style="background-image: url('{{ .Param "pic" | absURL }}');">
         <div class="procedure-content text-center">
             <div class="procedure-content-hover">
-                <h1 class="open-sans white-text grid-4-top-p grid-2-bottom-p">{{ .Title }}</h1>
-                <p class="grid-2-bottom-p white-text weak-center">{{ .Description }}</p>
+                <h1 class="open-sans white-text grid-2-top-p grid-1-bottom-p">{{ .Title }}</h1>
+                <p class="grid-2-bottom white-text weak-center">{{ .Description }}</p>
                 <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
                     Read More
                     <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
                 </a>
+                </div>
             </div>
         </div>
     </div> 

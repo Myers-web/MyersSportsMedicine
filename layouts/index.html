@@ -1,17 +1,17 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top-base" . }}
-<div class="text-center">
+<div class="text-center heading-format">
     {{ .Content }}
 </div>
-<div class="grid-4-top grid-4-bottom">
+<div class="grid-2-top grid-4-bottom">
     {{ partial "about-myers" . }}
 </div>
 {{ partial "main-bottom-base" . }}
 {{ partial "featured-procedures" . }}
 <div class="container" aria-role="main">
-    <div class="grid-4-top grid-4-bottom">
-        <div class="grid-2-bottom-p strong-center text-center">
+    <div class="grid-2-top grid-3-bottom">
+        <div class="grid-1-bottom strong-center text-center">
             <h1>Testimonials</h1>
         </div>
         {{ partial "book" . }}
