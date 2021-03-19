@@ -1,12 +1,15 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-<div class="col-sm-7">
+<div class="col-sm-7"> 
+    <div class= "container-fluid no-gutters body-format">
     {{ .Content }}
-</div>
+    </div>
+    </div>
 <div class="col-sm-5 edu-container">
-    <div class="row edu-header text-center">
-        <h2> PRP Research PDFs</h2>
+    <div class = "container-fluid no-gutters body-format-col-r">
+    <div class="row-fluid edu-header text-center">
+        <h2> PRP Research</h2>
         <hr>
     </div>
     <u1 class ="list-group link-list">
@@ -26,7 +29,7 @@
             <span class="glyphicon glyphicon-link"></span> PRP vs Hyaluronic Acid Randomized Study</a></li>
         <li><a class="list-group-item" href="{{ "documents/PRPFolder/PRP vs. HA.pdf" | absURL }}">
             <span class="glyphicon glyphicon-link"></span> PRP vs Hyaluronic Acid for Osteoarthritis</a></li>
-        
+        </div>    
     </u1>
 </div>
 {{ partial "main-bottom" . }}

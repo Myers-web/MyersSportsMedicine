@@ -13,6 +13,8 @@ made up of the protein collagen. The cartilage is located on a bone’s articula
 (surfaces of a bone that come in contact with other bones). It allows for the smooth 
 interaction between two bones in a joint.
 
+<br>
+
 ## How does articular cartilage get injured?
 Damage can result in the articular cartilage as an isolated incident or occur due to another 
 knee injury. ACL (articular cartilage ligament) injuries are commonly associated with damage 
@@ -22,6 +24,8 @@ ACL is torn during a twisting movement, the articulating surfaces of the femur a
 become damaged.
 
 Many injuries come from a forceful impact on the knee joint such as a football tackle.
+
+<br>
 
 ## Articular Cartilage Regeneration and Repair
 Articular cartilage cannot be regenerated currently, but repairing the damaged area is 

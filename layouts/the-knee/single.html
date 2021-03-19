@@ -1,9 +1,11 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
+<div class ="container-fluid heading-format">
 <div class="col-sm-8">
     {{ .Content }}
 </div>
 {{ partial "orthoillustrated-knee" . }}
+</div>
 {{ partial "main-bottom" . }}
 {{ end }}

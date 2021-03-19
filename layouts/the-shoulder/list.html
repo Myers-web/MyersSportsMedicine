@@ -1,10 +1,12 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
+<div class = "container-fluid heading-format">
 <div class="col-sm-8">
     {{ .Content }}
     {{ partial "page-links.html" . }}
 </div>
 {{ partial "orthoillustrated-shoulder" . }}
+</div>
 {{ partial "main-bottom" . }}
 {{ end }}

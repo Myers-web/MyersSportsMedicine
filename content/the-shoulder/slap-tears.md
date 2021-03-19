@@ -13,6 +13,8 @@ The SLAP tear stands for Superior Labrum from Anterior to Posterior.
 
 {{% image-center "Slap Tear" "images/the-shoulder/slap-tear.jpg" %}}
 
+<br>
+
 ## How do SLAP Tears Occur?
 A SLAP tear commonly occurs from lifting heavy objects, falling onto an outstretched hand, 
 or large amounts of a repetitive overhead action, such as throwing a football.
@@ -21,10 +23,14 @@ The part of the labrum where a superior [labral tear]({{< ref "labral-tears.md" 
 is more prone to injury and slower healing. Other parts of the labrum have the ability to 
 heal easier because there is more of a blood supply in the area.
 
+<br>
+
 ## Symptoms of a Superior Labral (SLAP) Tear
 Symptoms of a SLAP tear include a painful ‘catching’ sensation when moving the shoulder, 
 usually more-so with overhead movements such as throwing. A pain that is deep within the 
 shoulder or in the back of the shoulder joint is often commonly reported.
+
+<br>
 
 ## Diagnosing a SLAP Tear
 A regular shoulder physical examination will include the tests needed to be performed to 

@@ -56,6 +56,8 @@ and age in making generalizations for diagnosing shoulder pain.
 {{% /column %}}
 {{% /row %}}
 
+<br>
+
 ## Diagnosing Shoulder Problems
 The art of diagnosing shoulder problems is to relate the two above with a good history from 
 the patient and a comprehensive shoulder exam. Believe it or not, there are over 50 shoulder 
@@ -71,5 +73,7 @@ occasion. If an operation is needed, most of these conditions can be treated by 
 Initiating early treatment for shoulder problems is often the best curative course. If you 
 recognize these symptoms, you should make a prompt appointment to have it evaluated further 
 by your primary care physician or an orthopedic surgeon.
+
+<br>
 
 ## Shoulder Related Articles

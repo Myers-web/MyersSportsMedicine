@@ -9,6 +9,8 @@ symptom is restricted movement in the shoulder. It is possible for other conditi
 similar symptoms as a frozen shoulder, such as a rotator cuff tear, so always have your 
 medical problem diagnosed properly by a doctor. There are different causes of [frozen shoulders]({{< ref "frozen-shoulder.md" >}}).
 
+<br>
+
 {{% image-right "Frozen Shoulder Treatments" "images/the-shoulder/frozen-shoulder-treatments.gif" %}}
 
 ## Common Frozen Shoulder Symptoms:
@@ -16,6 +18,8 @@ medical problem diagnosed properly by a doctor. There are different causes of [f
 * Shoulder pain. This is usually a dull aching pain that constantly is there
 * Trouble sleeping on the shoulder due to pain
 * Difficulty doing simple tasks such as tying a shoe or brushing your hair
+
+<br>
 
 ## Frozen Shoulder Treatments
 Most treatments for a frozen shoulder consist of physical therapy and relief for the pain. 
@@ -28,7 +32,9 @@ shoulder can take up to weeks and even months.
 
 **Anti-inflammatory Medication** – Not required in the healing process, but can help greatly in pain reduction.
 
+<br>
 {{% image-left "Frozen Shoulder Stretching" "images/the-shoulder/frozen-shoulder-stretching.gif" %}}
+
 
 ## Frozen Shoulder Surgery
 Surgery for a frozen shoulder is usually not required, as most frozen shoulders can 
@@ -36,6 +42,8 @@ successfully be treated using the methods mentions above. However if the above m
 not work, the surgeon may choose to perform manipulation under anesthesia. This is when the 
 surgeon moves the arm to break adhesions caused by the shoulder. No actual surgery is 
 performed.
+
+<br>
 
 ## Does a Shoulder ever Fully Recover?
 Generally a patient will have slight limitations in shoulder movement, which can occur even 

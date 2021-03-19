@@ -8,6 +8,8 @@ The meniscus is a small, “c” shaped piece of cartilage that acts as a cushio
 joint. They sit between the shin bone (tibia) and the thigh bone (femur), with one being on 
 the outside and one being on the inside of the knee.
 
+<br>
+
 ## What Is a Meniscus Tear?
 A meniscus tear usually occurs during movements that forcefully rotate the knee while the 
 knee is bearing weight, which results in the piece of cartilage being torn. If the foot is 
@@ -15,6 +17,8 @@ firmly planted and an athlete quickly twists or rotates the upper leg, a partial
 tear of the meniscus could occur. This is common in sports such as soccer or football.
 
 {{% image-center "Meniscus Tear" "images/the-knee/meniscus-tear.gif" %}}
+
+<br>
 
 ## Meniscus Tear Symptoms
 When a meniscus is injured or torn, mild to severe pain (especially when the knee is 
@@ -24,6 +28,8 @@ time of injury, but may appear hours later as the joint tissue becomes inflamed.
 click or pop is frequently heard when the meniscus is injured. The knee may also lock, or 
 feel weak. Smaller meniscus tears may heal over time with no surgery required, although some 
 meniscus injuries benefit from surgical repair.
+
+<br>
 
 ## Diagnosis and Treatment of Meniscus Tears
 When a meniscus tear is diagnosed, the physician takes a complete history and performs a 

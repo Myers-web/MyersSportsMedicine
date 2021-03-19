@@ -19,6 +19,8 @@ Sports that involve more physical contact than others, such as football or socce
 prone to causing ACL tears. ACL tears can also be received from non-contact sports related 
 injuries, like landing from a jump, running, pivoting, or overextending the knee joint.
 
+<br>
+
 ## ACL Tear Symptoms
 Symptoms of an ACL tear will vary based on how severe the tear is, and whether or not more 
 injuries were received as a result of the original injury.

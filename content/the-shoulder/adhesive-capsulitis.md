@@ -9,6 +9,9 @@ all directions without pain. This problem is commonly referred to as a [frozen s
 as the shoulder usually becomes stiff and will be hard to move at all. The causes of 
 ashesive capsulitis are somewhat unknown and tend to happen randomly.
 
+<br>
+
+
 ## What are the Symptoms of Adhesive Capsulitis?
 
 A shoulder should be able to move in all directions without any stiffness or pain. If you 
@@ -25,6 +28,8 @@ doctor may be able to diagnose you just by watching you move and listening to yo
 symptoms. The doctor may apply pressure to areas of your should to see what exactly is 
 causing pain. Xray scans or magnetic resonance imaging (MRI) scans of your shoulder may 
 be required to further check the problems.
+
+<br>
 
 ## What are the Causes of Adhesive Capsulitis?
 

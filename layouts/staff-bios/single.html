@@ -1,11 +1,11 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-<div class="col-sm-3 text-center">
-    <img id="staff-photo" src="{{ .Param "pic" | absURL }}">
-</div>
-<div class="col-sm-8">
-    {{ .Content }}
-</div>
+    <div class="col-sm-3 text-center>
+        <img id="staff-photo  src="{{ .Param "pic" | absURL }}">
+    </div>
+    <div class="col-sm-8">
+        {{ .Content }}
+    </div>
 {{ partial "main-bottom" . }}
 {{ end }}

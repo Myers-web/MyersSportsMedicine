@@ -237,6 +237,11 @@ h1, h2 {
     padding-right: 7%;
 }
 
+.col-center {
+    margin:auto;
+    margin:auto;
+}
+
 .flush-ul {
   display: table;
   margin-left: 0;
@@ -386,10 +391,34 @@ header, footer {
     -moz-border-radius: 10px;
 }
 
-a .bio-pic {
+.bio-pic {
     width: 180px;
     height: 250px;
+    margin-bottom:5px;
 }
+
+.bio-card {
+    width: 184px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.drop-shadow {
+    width:auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) inset;
+}
+    
+.drop-shadow-l {
+    width:auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.drop-shadow-r {
+    width:auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
 
 .margin-right {
     margin-right: 10px;
@@ -590,7 +619,23 @@ a .bio-pic {
 }
 
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 1500px) {
+    .heading-format {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .heading-format {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+}
+
+@media only screen and (max-width: 900px) {
     .heading-format {
         padding-left: 0px;
         padding-right: 0px;
@@ -598,8 +643,104 @@ a .bio-pic {
 
 }
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 800px) {
     .heading-format {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+}
+
+.body-format {
+    padding-left: 30%;
+    padding-right: 2%;
+}
+
+@media only screen and (max-width: 480px) {
+    .body-format {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+}
+
+@media only screen and (max-width: 1500px) {
+    .body-format {
+        padding-left: 20%;
+        padding-right: 2%;
+    }
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .body-format {
+        padding-left: 10%;
+        padding-right: 2%;
+    }
+
+}
+
+@media only screen and (max-width: 900px) {
+    .body-format {
+        padding-left: 3%;
+        padding-right: 2%;
+    }
+
+}
+
+.body-format-col-r {
+    padding-left: 2%;
+    padding-right: 40%;
+}
+
+@media only screen and (max-width: 480px) {
+    .body-format-col-r {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+}
+
+@media only screen and (max-width: 1500px) {
+    .body-format-col-r {
+        padding-left: 2%;
+        padding-right: 30%;
+    }
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .body-format-col-r {
+        padding-left: 2%;
+        padding-right: 20%;
+    }
+
+}
+
+@media only screen and (max-width: 900px) {
+    .body-format-col-r {
+        padding-left: 2%;
+        padding-right: 15%;
+    }
+
+}
+
+.procedure-format {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+
+@media only screen and (max-width: 480px) {
+    .procedure-format {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+}
+
+@media only screen and (max-width: 1500px) {
+    .procedure-format {
         padding-left: 10%;
         padding-right: 10%;
     }
@@ -607,7 +748,7 @@ a .bio-pic {
 }
 
 @media only screen and (max-width: 1200px) {
-    .heading-format {
+    .procedure-format {
         padding-left: 10%;
         padding-right: 10%;
     }
@@ -615,7 +756,7 @@ a .bio-pic {
 }
 
 @media only screen and (max-width: 900px) {
-    .heading-format {
+    .procedure-format {
         padding-left: 3%;
         padding-right: 3%;
     }
@@ -634,7 +775,7 @@ a .bio-pic {
 }
 
 #myers-about-headshot {
-    height: 420px;
+    height: 500px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: contain;

@@ -17,10 +17,14 @@ around in. The labrum circles the shallow shoulder socket (the glenoid) to make 
 deeper. This cuff of cartilage allows the shoulder to have a wide range of movements, while 
 at the same time being more stable.
 
+<br>
+
 ## What is a labral tear?
 The labrum is a thick tissue and can be injured by trauma to the shoulder joint. As a person 
 ages, the labrum becomes more brittle and the aging process can cause fraying or tears. When 
 someone has an injured shoulder, it’s possible it is a labral tear.
+
+<br>
 
 ## Labral Tear Symptoms
 Labral tear symptoms depend on where the tear is located, but could include:
@@ -28,6 +32,8 @@ Labral tear symptoms depend on where the tear is located, but could include:
 * An aching sensation in the shoulder joint
 * Catching of the shoulder with no movement
 * Some types of labral tears can increase the potential for shoulder dislocations, such as a Bankart lesion.
+
+<br>
 
 {{% image-right "Slap Lesion Bankart Tear" "images/the-shoulder/slap-lesion-bankart-tear.gif" %}}
 
