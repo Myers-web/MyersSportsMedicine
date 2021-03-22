@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
+<div class = "container-fluid heading-format">
 {{ partial "book" . }}
 <hr>
 <div class="col-xs-12">
@@ -20,6 +21,7 @@
         </div>
     {{ end }}
     </div>
+</div>
 </div>
 {{ partial "main-bottom" . }}
 {{ end }}

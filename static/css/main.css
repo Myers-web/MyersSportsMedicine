@@ -394,13 +394,14 @@ header, footer {
 .bio-pic {
     width: 180px;
     height: 250px;
-    margin-bottom:5px;
+    margin-bottom:10px;
 }
 
 .bio-card {
     width: 184px;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
 }
 
 .drop-shadow {
@@ -553,7 +554,7 @@ header, footer {
 }
 
 .video-popup:focus {
-    outline-style: none;
+    outline: none;
 }
 
 @media only screen and (max-width: 430px)  {
@@ -629,21 +630,13 @@ header, footer {
 
 @media only screen and (max-width: 1200px) {
     .heading-format {
-        padding-left: 5%;
-        padding-right: 5%;
+        padding-left: 3%;
+        padding-right: 3%;
     }
 
 }
 
-@media only screen and (max-width: 900px) {
-    .heading-format {
-        padding-left: 0px;
-        padding-right: 0px;
-    }
-
-}
-
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1000px) {
     .heading-format {
         padding-left: 0px;
         padding-right: 0px;
@@ -775,12 +768,8 @@ header, footer {
 }
 
 #myers-about-headshot {
-    height: 500px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: contain;
-    background-size: cover!important;
-    position: relative;
+    height: 470px;
+    position: relative; 
 }
 
 
