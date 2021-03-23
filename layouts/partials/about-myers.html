@@ -1,23 +1,25 @@
 {{ with .Site.GetPage "section" "dr-myers" }}
-<div class="row heading-format no-gutters">
-    <div class="col-sm-6 blue2 no-gutters" id="myers-headshot">
-        <img class="img-center drop-shadow" style="border: 3px solid white;
-        border-radius: 5px;" id="myers-about-headshot" src="{{ .Param "pic" | absURL }}">
-    </div>
-    <div class="col-sm-6 blue2 no-gutters">
+<div class = "container-fluid heading-format">
+    <div class="row">
+        <div class="col-sm-6 blue2" id="myers-headshot">
+         <img class="img-center drop-shadow" style="border: 3px solid white;
+            border-radius: 5px;" id="myers-about-headshot" src="{{ .Param "pic" | absURL }}">
+        </div>
+    <div class="col-sm-6 blue2">
         <div class="weak-center white-text grid-4-top-p grid-1-bottom-p" id="myers-description">
             <h1 class="open-sans white-text grid-1-bottom">{{ .Title }}</h1>
             <div class="grid-2-bottom oswald">
                 {{ .Description }}
             </div>
             <div class="text-center">
-                <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
-                    Read More
-                    <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                </a>
+             <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
+                 Read More
+                <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
+             </a>
             </div>
         </div>
     </div>
+    </div>
 </div>
-{{ end }}
+{{ end }} 
  

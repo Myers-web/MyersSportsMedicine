@@ -1,9 +1,10 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-<div class="col-xs-12 heading-format">
+<div class="col-xs-12">
     {{ .Content }}
     {{ partial "page-links.html" . }}
+</div>
 </div>
 {{ partial "main-bottom" . }}
 {{ end }}
