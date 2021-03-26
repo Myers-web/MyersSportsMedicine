@@ -24,24 +24,23 @@ PRP injections are most commonly used for tendonitis or chronic injuries such as
 Platelet Rich Plasma is a concentration of platelets and growth factors created from a small amount of your own blood. Increased levels of growth factors improve signaling and recruitment of cells to an injury site and optimize the environment of healing.
 <br>
 
-{{% image-center "Draw" "images/prp/DRAW.jpeg" %}}
-
-<br>
-  <div class="row">
-    <div class="col-sm-6">
-      {{% image-center "Centrifuge" "images/prp/centrifuge.jpg" %}}
-    </div>
-    <div class="col-sm-6">
-      {{% image-center "Plasma" "images/prp/plasma.jpg" %}}
-    </div>
-  </div>
-
-<br>
-
 # How does the PRP process work?  
 Dr. Myers can perform this procedure in the office with minimal to no side effects. After a small amount of blood is recovered from the patient’s arm using a small needle and syringe, the blood will go through a rapid spinning process that separates and concentrates the platelets and other beneficial growth factors from the blood. The plasma containing these platelets and growth factors are then applied to the treatment area via an injection. This process is usually performed in 20-30 minutes.
 
-{{% image-center "Injection" "images/prp/PRP-Knee-treatment.jpg" %}}
+<br>
+
+{{% image-card "Dr. Myers starts the procedure by first drawing blood" "images/prp/DRAW.jpeg" %}}
+
+  <div class="row">
+    <div class="col-sm-6">
+      {{% image-card "The blood is centrifuged to separate its components and concentrate the plasma" "images/prp/centrifuge.jpg" %}}
+    </div>
+    <div class="col-sm-6">
+      {{% image-card "The platelet-rich plasma is collected, and other blood components are discarded" "images/prp/plasma.jpg" %}}
+    </div>
+  </div>
+
+{{% image-card "The concentrated PRP is injected at the injury site with ultrasound guidance" "images/prp/PRP-Knee-treatment.jpg" %}}
 
 <br>
 

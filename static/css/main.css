@@ -442,6 +442,30 @@ header, footer {
     margin-bottom: 20px;
 }
 
+.image-card {
+    background-color: white;
+    max-width: 404px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+}
+
+.image-card-md {
+    background-color: white;
+    max-width: 404px;
+    width:60%;
+    height:auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+}
+
+.image-card-lg {
+    background-color: white;
+    max-width: 404px;
+    width:100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+}
+
 .drop-shadow {
     width:auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) inset;
@@ -519,13 +543,36 @@ header, footer {
     border-width: 1px;
 }
 
-.edu-img {
+.edu-img-sm {
     max-width: 400px;
     height: auto;
     margin-bottom:5px;
     /*width: auto\9; /* ie8 */
 }
 
+.edu-img-sm {
+    max-width: 400px;
+    width: 40%;
+    height: auto;
+    margin-bottom:5px;
+    /*width: auto\9; /* ie8 */
+}
+
+.edu-img-md {
+    max-width: 400px;
+    width: 60%;
+    height: auto;
+    margin-bottom:5px;
+    /*width: auto\9; /* ie8 */
+}
+
+.edu-img-lg {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    margin-bottom:5px;
+    /*width: auto\9; /* ie8 */
+}
 .glyphicon-link {
     margin-right: 5px;
 }
