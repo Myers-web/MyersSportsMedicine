@@ -273,43 +273,6 @@ h1, h2 {
     list-style: none;
 }
 
-@media (max-width: 930px) {
-    .navbar-header {
-        float: none;
-    }
-    .navbar-toggle {
-        display: block;
-    }
-    .navbar-collapse {
-        border-top: 1px solid transparent;
-        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
-    }
-    .navbar-collapse.collapse {
-        display: none!important;
-    }
-    .navbar-nav {
-        float: none!important;
-        margin: 7.5px -15px;
-    }
-    .navbar-nav>li {
-        float: none;
-    }
-    .navbar-nav>li>a {
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    .navbar-text {
-        float: none;
-        margin: 15px 0;
-    }
-    /* since 3.1.0 */
-    .navbar-collapse.collapse.in { 
-        display: block!important;
-    }
-    .collapsing {
-        overflow: hidden!important;
-    }
-}
 
 .navbar {
     opacity: .9;
@@ -380,16 +343,16 @@ header, footer {
 }
 
 .featured-image {
-    height: 300px;
+    height: 250px;
 }
 
 .logo {
     background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(2, 42, 65) 30%, rgb(2, 42, 65) 70%, rgba(0, 0, 0, 0));
 }
 
-@media only screen and (min-width: 850px)  {
+@media only screen and (min-width: 768px)  {
     .featured-image {
-        height: 420px;
+        height: 400px;
     }
 }
 
@@ -401,7 +364,7 @@ header, footer {
 
 @media only screen and (min-width: 1350px)  {
     .featured-image {
-        height: 500px;
+        height: 450px;
     }
 }
 
@@ -449,7 +412,7 @@ header, footer {
     margin-bottom: 20px;
 }
 
-.image-card-md {
+.image-card-md { 
     background-color: white;
     max-width: 404px;
     width:60%;
@@ -543,7 +506,7 @@ header, footer {
     border-width: 1px;
 }
 
-.edu-img-sm {
+.edu-img {
     max-width: 400px;
     height: auto;
     margin-bottom:5px;
@@ -552,7 +515,7 @@ header, footer {
 
 .edu-img-sm {
     max-width: 400px;
-    width: 40%;
+    width: 30%;
     height: auto;
     margin-bottom:5px;
     /*width: auto\9; /* ie8 */
@@ -590,14 +553,20 @@ header, footer {
 .md-img-right {
     float: right;
     margin-left: 15px;
-    margin-right:10%;
+    margin-right:2%;
 }
 
 .md-img-left {
     float: left;
     margin-right: 15px;
-    margin-left: 10%;
+    margin-left: 2%;
 }
+
+.md-img-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 .jumbotron {
     background-color: transparent;
@@ -659,11 +628,11 @@ header, footer {
 }
 
 .procedure-img {
-    height: 400px;
+    height: 320px;
     background-size: 100% 100%;
     position: relative;
     display:block;
-    max-width: 480px;
+    max-width: 430px;
     margin-left:auto;
     margin-right:auto;
     border: 5px solid rgb(235,235,235);
@@ -672,19 +641,19 @@ header, footer {
 .procedure-content {
     position: absolute;
     height:auto;
-    max-height: 390px;
-    max-width: 480px;
+    max-height: 310px;
+    max-width: 430px;
 
 }
 
 .procedure-content .procedure-content-hover {
     background-color: rgba(0, 0, 0, .6);
-    height:390px;
+    height:310px;
     visibility: hidden;
 }
 
 /* HACK: Always show for mobile devices */
-@media only screen and (max-width: 480px)  {
+@media only screen and (max-width: 430px)  {
     .procedure-content .procedure-content-hover {
         visibility: visible;
     }

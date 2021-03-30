@@ -4,7 +4,7 @@ date: 2018-02-11T14:44:03-05:00
 description: ""
 ---
 
-{{% image-right "Articular Cartilage Tear" "images/the-knee/knee-articular-cartilage.gif" %}}
+
 
 ## What is articular cartilage?
 
@@ -12,6 +12,8 @@ Articular cartilage, also known as hyaline cartilage, is a very smooth yet hard 
 made up of the protein collagen. The cartilage is located on a bone’s articulating surfaces 
 (surfaces of a bone that come in contact with other bones). It allows for the smooth 
 interaction between two bones in a joint.
+
+{{% image-center "Articular Cartilage Tear" "images/the-knee/knee-articular-cartilage.gif" %}}
 
 <br>
 

@@ -148,8 +148,21 @@ relativeurls = true
 
 [[menu.main]]
     name = "Testimonials"
-    url = "testimonials/"
+    identifier = "testimonials"
     weight = 7
+
+[[menu.main]]
+    name = "Testimonials"
+    parent = "testimonials"
+    url = "testimonials/"
+    weight = 1    
+
+[[menu.main]]    
+    name = "Leave a Review"
+    url = "https://search.google.com/local/writereview?placeid=ChIJ7ykyXVoF9YgR1KaqEz1qJeU"
+    parent = "testimonials"
+    weight = 2
+
 
 [Params]
     defaultImageLarge = "images/featured-images/workout-min.jpg"

@@ -3,7 +3,6 @@ title: "Slap Tears"
 date: 2018-02-11T15:15:08-05:00
 description: ""
 ---
-
 A SLAP tear, also known as a superior labral tear, is when part of the shoulder joint known 
 as the labrum is torn. The shoulder is similar to the hip as they are both ball and socket 
 joints, but the shoulder joint is very shallow, so it is unstable. The labrum helps make the 
@@ -11,7 +10,7 @@ shoulder more stable by forming a cup that the end of the humerus can move aroun
 
 The SLAP tear stands for Superior Labrum from Anterior to Posterior. 
 
-{{% image-center "Slap Tear" "images/the-shoulder/slap-tear.jpg" %}}
+{{% image-center-fix "Slap Tear" "images/the-shoulder/slap-tear.jpg" %}}
 
 <br>
 

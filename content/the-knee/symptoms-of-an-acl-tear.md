@@ -12,7 +12,11 @@ ligament. A number of different things can cause a town ACL, such as a twisting 
 applied to the knee while the foot is firmly placed on the ground, or a direct blow to the 
 knee upon a landing.
 
+<br>
+
 {{% image-center "ACL Tear" "images/the-knee/acl-tear.gif" %}}
+
+<br>
 
 ACL tears are one of the most common types of sports injuries, and can be mild to severe. 
 Sports that involve more physical contact than others, such as football or soccer are more 

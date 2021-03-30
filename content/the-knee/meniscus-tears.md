@@ -17,7 +17,6 @@ firmly planted and an athlete quickly twists or rotates the upper leg, a partial
 tear of the meniscus could occur. This is common in sports such as soccer or football.
 
 {{% image-center "Meniscus Tear" "images/the-knee/meniscus-tear.gif" %}}
-
 <br>
 
 ## Meniscus Tear Symptoms

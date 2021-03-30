@@ -51,7 +51,7 @@ occur with an acute fracture. Most are classified as emergencies, and may even n
 surgery to completely repair. A stress fracture occurs most of the time in the legs or 
 feet from sports that cause repetitive impact, such a running or jumping sport.
 
-{{% image-center "Types of Fractures" "images/sports-medicine/types-of-fractures.gif" %}}
+{{% image-center-fix "Types of Fractures" "images/sports-medicine/types-of-fractures.gif" %}}
 
 **Dislocations** - These occur when force pushes the bones in a joint out of alignment. 
 Dislocations are also known as a luxation. Contact sports such as football or an activity 

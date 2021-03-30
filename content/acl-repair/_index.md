@@ -12,7 +12,7 @@ ACL Repair is a revolutionary technique that allows patients to return to functi
 <br>
 
 # What is an ACL? <br> What happens when it is injured?  
-The anterior cruciate ligament (ACL) is a piece of elastic tissue within your knee joint that provides stability to your knee, especially during back-and-forth and rotational movements (Picture 1). Damage to the ACL is one of the most common injuries in sports medicine, especially in athletes that participate in fast-paced sports like soccer, football, and basketball (Picture 2). Patients typically describe the moment of injury as a “popping” sensation within their knee, or a sudden sensation of instability in their injured knee. When the damaged ACL goes untreated, the knee may experience decreased stability and a feeling of “giving out” during certain movements.  Injury to the ACL, depending on the severity, may require surgical intervention to fix. 
+The anterior cruciate ligament (ACL) is a piece of elastic tissue within your knee joint that provides stability to your knee, especially during back-and-forth and rotational movements. Damage to the ACL is one of the most common injuries in sports medicine, especially in athletes that participate in fast-paced sports like soccer, football, and basketball (Picture 2). Patients typically describe the moment of injury as a “popping” sensation within their knee, or a sudden sensation of instability in their injured knee. When the damaged ACL goes untreated, the knee may experience decreased stability and a feeling of “giving out” during certain movements.  Injury to the ACL, depending on the severity, may require surgical intervention to fix. 
 
 <br>
 {{% image-card "ACL tear" "images/acl-repair/ACL_Tear.gif" %}}
@@ -29,7 +29,15 @@ An ACL repair retains the original ligament and does not require tissue from ano
 <br>
 
 # What is a synthetic graft augment? How does it help my ACL heal?  
-Once repaired, the ACL needs time to heal and re-attach itself to the bone. To reduce the risk of injury during this critical healing period, a synthetic augment device, also called a synthetic graft augment, may be used to protect the ligament (Picture 3). When repairing an ACL, Dr, Myers uses a synthetic graft augment developed by the Marietta, Georgia-based company Artelon (pictured below). The graft augment is similar to the ACL in terms of strength but is made of a special plastic-like material that is well-tolerated by the body and has elastic properties similar to a regular, healthy ACL. As the repaired ACL is healing, the augment protects the ACL and allows your knee to function from day one. Whenever you put weight on your knee during regular activity, that weight is shared between your repaired ACL and the synthetic graft augment. This reduces the chance of your ACL becoming damaged but still allows it to receive enough use to heal and become stronger. As your repaired ACL grows into place, the synthetic graft slowly degrades until your healed ACL is strong enough to take its place entirely.
+Once repaired, the ACL needs time to heal and re-attach itself to the bone. To reduce the risk of injury during this critical healing period, a synthetic augment device, also called a synthetic graft augment, may be used to protect the ligament. When repairing an ACL, Dr, Myers uses a synthetic graft augment developed by the Marietta, Georgia-based company [Artelon](https://www.artelon.com). The graft augment is similar to the ACL in terms of strength but is made of a special plastic-like material that is well-tolerated by the body and has elastic properties similar to a regular, healthy ACL. As the repaired ACL is healing, the augment protects the ACL and allows your knee to function from day one. Whenever you put weight on your knee during regular activity, that weight is shared between your repaired ACL and the synthetic graft augment. This reduces the chance of your ACL becoming damaged but still allows it to receive enough use to heal and become stronger. As your repaired ACL grows into place, the synthetic graft slowly degrades until your healed ACL is strong enough to take its place entirely.
 
 <br>
-{{% image-card "Artelon Graft" "images/acl-repair/Artelon_Flexband_Graft.jpg" %}}
+
+<div class="row">
+    <div class="col-sm-6">
+        {{% image-card "Artelon Flexband Graft" "images/acl-repair/Artelon_Flexband_Graft.jpg" %}}
+    </div>
+    <div class="col-sm-6">
+      {{% image-card "The Artelon Flexband Graft (red arrow) is used to strengthen and protect the ACL (blue arrow)" "images/acl-repair/artelon_graft_op.png" %}}
+    </div>
+</div>

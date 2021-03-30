@@ -10,8 +10,8 @@ similar symptoms as a frozen shoulder, such as a rotator cuff tear, so always ha
 medical problem diagnosed properly by a doctor. There are different causes of [frozen shoulders]({{< ref "frozen-shoulder.md" >}}).
 
 <br>
-
-{{% image-right "Frozen Shoulder Treatments" "images/the-shoulder/frozen-shoulder-treatments.gif" %}}
+{{% image-center "Frozen Shoulder Treatments" "images/the-shoulder/frozen-shoulder-treatments.gif" %}}
+<br>
 
 ## Common Frozen Shoulder Symptoms:
 * Limited and restricted movement of the shoulder

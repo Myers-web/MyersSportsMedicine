@@ -9,7 +9,9 @@ shoulder joint’s socket is very shallow though, which inherently makes the sho
 unstable. This means that extra support in the shoulder is needed as the shoulder bones 
 aren’t held in place adequately.shoulder-labrum-tear
 
-{{% image-center "Shoulder Labrum Tear" "images/the-shoulder/shoulder-labrum-tear.gif" %}}
+{{% image-center-fix "Shoulder Labrum Tear" "images/the-shoulder/shoulder-labrum-tear.gif" %}}
+
+<br>
 
 The labrum is what compensates for the shallow socket the shoulder joint has. The labrum is 
 a cuff of cartilage that forms a cup for the end of the arm bone (the humerus) to move 
@@ -36,6 +38,7 @@ Labral tear symptoms depend on where the tear is located, but could include:
 <br>
 
 {{% image-right "Slap Lesion Bankart Tear" "images/the-shoulder/slap-lesion-bankart-tear.gif" %}}
+
 
 ## Common Types of Labral Tears
 
