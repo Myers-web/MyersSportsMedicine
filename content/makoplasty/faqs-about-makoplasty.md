@@ -18,23 +18,31 @@ During the procedure, the diseased portion of the knee is resurfaced, sparing th
 
 As a knee arthroplasty procedure, MAKOplasty&reg; is typically covered by most Medicare-approved and private health insurers.
 
-{{% image-right "Makoplasty System" "images/makoplasty/makoplasty-system.jpg" %}}
-
-# How may MAKOplasty&reg; benefit me?
-The MAKOplasty&reg; Partial Knee Resurfacing procedure is designed to relieve the pain caused by joint degeneration and potentially offers the following benefits:
-
-* Improved surgical outcomes
-* Less implant wear and loosening
-* Joint resurfacing
-* Bone sparing
-* Smaller incision
-* Less scarring
-* Reduced blood loss
-* Minimal hospitalization
-* Rapid recovery
+<br>
 
 # How does MAKOplasty&reg; work?
 The RIO&reg; Robotic Arm Interactive Orthopedic System features three dimensional pre-surgical planning. During surgery, the RIO&reg; provides the surgeon with real-time visual, tactile and auditory feedback to facilitate optimal joint resurfacing and implant positioning. It is this optimal placement that can result in more natural knee motion following surgery.
+
+<div class="row">
+    <div class="col-sm-8">
+    <h1> How may MAKOplasty&reg; benefit me? </h1>
+        The MAKOplasty&reg; Partial Knee Resurfacing procedure is designed to relieve the pain caused by joint degeneration and potentially offers the following benefits:
+        <li> Improved surgical outcomes </li>
+        <li> Less implant wear and loosening </li>
+        <li> Joint resurfacing </li>
+        <li>Bone sparing </li>
+        <li>Smaller incision </li>
+        <li>Less scarring </li>
+        <li>Reduced blood loss </li>
+        <li>Minimal hospitalization </li>
+        <li>Rapid recovery </li>
+   </div>
+    <div class="col-sm-4 no-gutters">
+         {{% image-card-h "The Rio® Robot Arm Interactive System" "images/makoplasty/makoplasty-system.jpg" %}}
+    </div>
+  </div>
+
+<br>
 
 # Who would be a good candidate for the MAKOplasty&reg; procedure?
 Typically, MAKOplasty&reg; patients share the following characteristics:

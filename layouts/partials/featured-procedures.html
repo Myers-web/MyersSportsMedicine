@@ -1,15 +1,18 @@
-<div class="grey grid-2-top-p grid-2-bottom-p procedure-format">
-    <div class="grid-1-bottom-p strong-center text-center">
+<div class="grey grid-2-top-p grid-2-bottom-p ">
+    <div class="grid-1-bottom-p text-center">
         <h1>Featured Procedures</h1>
     </div>
-    <div class="container-fluid">
-        <div class="row-fluid">
+    <div class="container">
+        <div class = "col-xs-12">
+        <div class="row">
                 {{ with .Site.GetPage "page" "procedures" "acl-animation.md" }}
                     {{ partial "featured-procedure" . }}
                 {{ end }}
                 {{ with .Site.GetPage "page" "procedures" "shoulder-sling.md" }}
                     {{ partial "featured-procedure" . }}
                 {{ end }}  
+        </div>
+        <div class="row">    
                 {{ with .Site.GetPage "section" "prp-injections" }}
                     {{ partial "featured-procedure" . }}
                 {{ end }}
@@ -18,4 +21,5 @@
                 {{ end }}
         </div>
     </div>
+</div>
 </div>    

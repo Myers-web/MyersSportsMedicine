@@ -18,7 +18,16 @@ MAKOplasty&reg; Partial Knee Resurfacing is an advanced treatment option. It is 
 by the RIO® Robotic Arm Interactive Orthopedic System, which allows the surgeon to 
 perform surgery accurately through a smaller incision as compared to manual procedures. 
 By selectively targeting the part of the knee damaged by OA, surgeons can resurface the 
-knee while sparing the healthy bone and ligaments surrounding it.
+knee while sparing the healthy bone and ligaments surrounding it. Partial knee resurfacing may be done unicompartmentally (when only one area of the joint needs resurfacing) or bicompartmentally (when two areas of the joint need to be resurfaced). Both options maintain the surrounding healthy bone and ligaments, unlike total knee replacements.
+
+ <div class="row">
+    <div class="col-sm-6">
+      {{% image-card "A unicompartmental partial knee replacement may be used when only one compartment area of the joint is damaged" "images/makoplasty/uni-knee.png" %}}
+    </div>
+    <div class="col-sm-6">
+      {{% image-card "It is also possible to perform a bicompartmental partial knee replacement if two areas are damaged" "images/makoplasty/bicom-knee.png" %}}
+    </div>
+  </div>
 
 ### MAKOplasty&reg; Partial Knee Resurfacing Benefits May Include:
 * Preservation of healthy tissue and bone — only diseased portions are removed

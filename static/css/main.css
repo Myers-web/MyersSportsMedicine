@@ -412,11 +412,18 @@ header, footer {
     margin-bottom: 20px;
 }
 
+.image-card-h {
+    background-color: white;
+    max-height: 400px;
+    width:auto;
+    max-width: 154px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .image-card-md { 
     background-color: white;
     max-width: 404px;
     width:60%;
-    height:auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 20px;
 }
@@ -513,6 +520,13 @@ header, footer {
     /*width: auto\9; /* ie8 */
 }
 
+.edu-img-h {
+    max-height: 300px;
+    max-width: 150px;
+    width:auto;
+    margin-bottom:5px;
+}
+
 .edu-img-sm {
     max-width: 400px;
     width: 30%;
@@ -531,6 +545,7 @@ header, footer {
 
 .edu-img-lg {
     max-width: 400px;
+    max-height: 400px;
     width: 100%;
     height: auto;
     margin-bottom:5px;
@@ -783,39 +798,23 @@ header, footer {
 }
 
 .procedure-format {
-    padding-left: 25%;
-    padding-right: 25%;
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
-
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) and (min-width: 426px) {
     .procedure-format {
-        padding-left: 0px;
-        padding-right: 0px;
+        padding-left: 5%;
+        padding-right: 5%;
     }
 
 }
 
-@media only screen and (max-width: 1500px) {
+
+@media only screen and (min-width: 1025px) {
     .procedure-format {
-        padding-left: 10%;
-        padding-right: 10%;
-    }
-
-}
-
-@media only screen and (max-width: 1200px) {
-    .procedure-format {
-        padding-left: 10%;
-        padding-right: 10%;
-    }
-
-}
-
-@media only screen and (max-width: 900px) {
-    .procedure-format {
-        padding-left: 3%;
-        padding-right: 3%;
+        padding-left: 15%;
+        padding-right: 15%;
     }
 
 }
