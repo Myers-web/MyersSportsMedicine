@@ -1,6 +1,6 @@
 ---
 title: "Molly Myers"
-description: ""
+description: "Molly Myers is the financial manager at at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/molly-myers.jpg"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---

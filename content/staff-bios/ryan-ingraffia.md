@@ -1,7 +1,7 @@
 ---
 title: "Ryan Ingraffia"
 date: 2018-12-22T08:07:04-06:00
-description: ""
+description: "Ryan Ingraffia is a Physical Therapy Assistant at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/ryan-ingraffia.jpg"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---

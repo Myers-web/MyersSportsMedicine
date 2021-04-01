@@ -1,5 +1,5 @@
 ---
 title: "Staff Bios"
-description: ""
+description: "Meet the staff of Myers Sports Medicine and Orthoapedic Center"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---

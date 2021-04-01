@@ -6,4 +6,6 @@ featuredImage: "images/featured-images/running-min-2.jpg"
 pic: "images/procedures/acl-animation.jpg"
 ---
 
+The video below demonstrates the ACL reconstruction surgical process in the knee. 
+
 {{% video "https://www.youtube.com/embed/xda39K69zjs" %}}

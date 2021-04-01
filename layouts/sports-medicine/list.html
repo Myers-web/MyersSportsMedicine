@@ -1,13 +1,13 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-    <div class="row-fluid">
-        <div class="col-md-6">
-            <div class="image-full strong-center" style="margin-bottom:15px">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="image-full text-center" style="margin-bottom:15px">
                 <img src="{{ .Param "pic" | absURL }}">
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-sm-6">
             {{ .Content }}
             {{ partial "page-links.html" . }}
         </div>

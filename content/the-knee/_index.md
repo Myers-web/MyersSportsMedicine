@@ -1,7 +1,7 @@
 ---
 title: "The Knee"
 date: 2018-02-11T14:41:18-05:00
-description: ""
+description: "Dr. Myers commonly treats injuries of the knee. This page provides information on the knee and some of its common injuries"
 tags: ["edu"]
 ---
 
@@ -11,7 +11,7 @@ In human anatomy, the knee is the lower extremity joint connecting the femur and
 Since in humans the knee supports nearly the entire weight of the body, it is vulnerable 
 both to acute injury and to the development of osteoarthritis.
 
-{{% image-center-fix "The Knee" "images/the-knee/knee.jpg" %}}
+{{% image-center-md "The Knee" "images/the-knee/knee.jpg" %}}
 <br>
  
 ## Function Of The Knee

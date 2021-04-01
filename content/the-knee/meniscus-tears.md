@@ -1,7 +1,7 @@
 ---
 title: "Meniscus Tears"
 date: 2018-02-11T14:47:24-05:00
-description: ""
+description: "The menisus is a piece of cartilage in the knee that cushions the joint. When the meniscus is torn, it may cause sensations of popping or clicking in the knee."
 ---
 
 The meniscus is a small, “c” shaped piece of cartilage that acts as a cushion for the knee 
@@ -16,7 +16,7 @@ knee is bearing weight, which results in the piece of cartilage being torn. If t
 firmly planted and an athlete quickly twists or rotates the upper leg, a partial or total 
 tear of the meniscus could occur. This is common in sports such as soccer or football.
 
-{{% image-center "Meniscus Tear" "images/the-knee/meniscus-tear.gif" %}}
+{{% image-center-fix "Meniscus Tear" "images/the-knee/meniscus-tear.gif" %}}
 <br>
 
 ## Meniscus Tear Symptoms

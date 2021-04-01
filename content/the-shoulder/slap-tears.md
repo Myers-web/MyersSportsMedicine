@@ -10,7 +10,7 @@ shoulder more stable by forming a cup that the end of the humerus can move aroun
 
 The SLAP tear stands for Superior Labrum from Anterior to Posterior. 
 
-{{% image-center-fix "Slap Tear" "images/the-shoulder/slap-tear.jpg" %}}
+{{% image-center "Slap Tear" "images/the-shoulder/slap-tear.jpg" %}}
 
 <br>
 

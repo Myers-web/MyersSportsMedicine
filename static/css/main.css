@@ -170,6 +170,7 @@ hr {
     background-color: black;
     border-color: black;
     color: black;
+    margin-top:-5px;
 }
 
 .btn-reg {
@@ -393,21 +394,21 @@ header, footer {
 }
 
 .bio-pic {
-    width: 180px;
-    height: 250px;
-    margin-bottom:10px;
+    width: 170px;
+    height: 240px;
 }
 
 .bio-card {
-    width: 184px;
+    width: 174px;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .image-card {
     background-color: white;
     max-width: 404px;
+    height:auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 20px;
 }
@@ -423,7 +424,7 @@ header, footer {
 .image-card-md { 
     background-color: white;
     max-width: 404px;
-    width:60%;
+    width:80%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 20px;
 }
@@ -517,7 +518,6 @@ header, footer {
     max-width: 400px;
     height: auto;
     margin-bottom:5px;
-    /*width: auto\9; /* ie8 */
 }
 
 .edu-img-h {
@@ -528,8 +528,8 @@ header, footer {
 }
 
 .edu-img-sm {
-    max-width: 400px;
-    width: 30%;
+    max-width: 300px;
+    width: 100%;
     height: auto;
     margin-bottom:5px;
     /*width: auto\9; /* ie8 */
@@ -537,7 +537,7 @@ header, footer {
 
 .edu-img-md {
     max-width: 400px;
-    width: 60%;
+    width: 100%;
     height: auto;
     margin-bottom:5px;
     /*width: auto\9; /* ie8 */
@@ -679,6 +679,13 @@ header, footer {
     visibility: visible;
 }
 
+.img-full {
+    max-width: 700px;
+    width:100%;
+    height: auto;
+    margin-bottom:5px;
+}
+
 .img-center {
     margin: 0;
     position: absolute;
@@ -798,23 +805,15 @@ header, footer {
 }
 
 .procedure-format {
-    margin-left: 2px;
-    margin-right: 2px;
-}
-
-@media only screen and (max-width: 768px) and (min-width: 426px) {
-    .procedure-format {
-        padding-left: 5%;
-        padding-right: 5%;
-    }
-
+    padding-left: 2px;
+    padding-right: 2px;
 }
 
 
 @media only screen and (min-width: 1025px) {
     .procedure-format {
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: 8%;
+        padding-right: 8%;
     }
 
 }

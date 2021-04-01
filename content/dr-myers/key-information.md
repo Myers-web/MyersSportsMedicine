@@ -1,53 +1,66 @@
 ---
 title: "Dr. Myers Key Information"
-description: ""
+description: "Dr. Thomas H. Myers is an Atlanta-based board certified orthopaedic surgeon and sports medicine expert. 
+He specializes in knee and shoulder procedures including robot-assisted knee replacement surgery, ACL repair, and repairs of rotator cuff and SLAP tears. Dr. Myers believes in taking the time to properly diagnose patients and ensure they understand their condition and all of the treatment options available to them."
 pic: "images/dr-myers/dr-thomas-myers.jpg"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---
+<br>
 
 # Specialties
+<hr>
 Open & Arthroscopic Cartilage Replacement Procedures
 Knee and Shoulder Arthroscopy
 Sports Injuries – ACL Reconstruction
 
-<hr>
+<br>
 
 # Board Certification
+<hr>
 American Board of Orthopaedic Surgery
 
 ABOS Subspecialty Certification in Sports Medicine
 
-<hr>
+<br>
 
 # Hospital Affiliations
+<hr>
 St. Joseph’s Hospital
 Atlanta Outpatient Surgery Center
 Piedmont West Outpatient Surgery Center  
 
-<hr>
+<br>
 
 # Fellowships
+<hr>
 
-## Sports Medicine
+### Sports Medicine
 American Sports Medicine Institute
 Birmingham, Alabama
 
-## Orthopaedic Trauma
+### Orthopaedic Trauma
 Harvard School of Medicine
 Boston, MA  
 
-<hr>
+<br>
 
 # Postgraduate Training
+<hr>
 
-## Orthopaedic Residency
+### Orthopaedic Residency
 Harvard School of Medicine
 Boston, MA
 
-## Medical School
+<br>
+
+# Medical School
+<hr>
 The John’s Hopkins University School of Medicine
 Baltimore, Maryland
 
+<br>
+
 # Undergraduate Education
+<hr>
 University of South Dakota
 Vermillion, South Dakota

@@ -1,7 +1,7 @@
 ---
 title: "Symptoms of an ACL Tear"
 date: 2018-02-11T14:52:43-05:00
-description: ""
+description: "The ACL is a ligament that gives stability to the knee. When the ACL is injured, it may make the knee feel unstable or like it is going to give out"
 ---
 
 The anterior cruciate ligament, also known as the ACL, is one of the major cruciate 

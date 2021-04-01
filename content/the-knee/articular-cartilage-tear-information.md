@@ -1,7 +1,7 @@
 ---
 title: "Articular Cartilage Tear Information"
 date: 2018-02-11T14:44:03-05:00
-description: ""
+description: "Articular Cartilage allows for smooth interaction between bones in a joint. When cartilage is damaged, it can cause osteoarthritis"
 ---
 
 
@@ -13,7 +13,7 @@ made up of the protein collagen. The cartilage is located on a bone’s articula
 (surfaces of a bone that come in contact with other bones). It allows for the smooth 
 interaction between two bones in a joint.
 
-{{% image-center "Articular Cartilage Tear" "images/the-knee/knee-articular-cartilage.gif" %}}
+{{% image-center-fix "Articular Cartilage Tear" "images/the-knee/knee-articular-cartilage.gif" %}}
 
 <br>
 

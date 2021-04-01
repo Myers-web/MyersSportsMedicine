@@ -1,6 +1,6 @@
 ---
 title: "Caroline Rodgers"
-description: ""
+description: "Caroline Rodgers is a Physician's Assistant at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/caroline-rodgers.jpg"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---

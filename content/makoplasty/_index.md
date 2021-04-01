@@ -22,10 +22,10 @@ knee while sparing the healthy bone and ligaments surrounding it. Partial knee r
 
  <div class="row">
     <div class="col-sm-6">
-      {{% image-card "A unicompartmental partial knee replacement may be used when only one compartment area of the joint is damaged" "images/makoplasty/uni-knee.png" %}}
+      {{% image-card-md "A unicompartmental partial knee replacement may be used when only one compartment area of the joint is damaged" "images/makoplasty/uni-knee.png" %}}
     </div>
     <div class="col-sm-6">
-      {{% image-card "It is also possible to perform a bicompartmental partial knee replacement if two areas are damaged" "images/makoplasty/bicom-knee.png" %}}
+      {{% image-card-md "It is also possible to perform a bicompartmental partial knee replacement if two areas are damaged" "images/makoplasty/bicom-knee.png" %}}
     </div>
   </div>
 

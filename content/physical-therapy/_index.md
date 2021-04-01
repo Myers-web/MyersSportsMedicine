@@ -1,7 +1,7 @@
 ---
 title: "Georgia Sports Medicine Specialists"
 date: 2018-12-22T09:55:26-06:00
-description: "Georgia Sports Medicine Specialists specializes in orthopaedics and sports medicine rehabilitation for athlets of all caliber. GSMS is conveniently located within the same space as Myers Sports Medicine and Orthopaedic Center to provide patients with in-house rehabilitation following surgery."
+description: "Georgia Sports Medicine Specialists specializes in orthopaedics and sports medicine rehabilitation for athletes of all caliber. GSMS is conveniently located within the same space as Myers Sports Medicine and Orthopaedic Center to provide patients with in-house rehabilitation following surgery."
 pic: ""
 featuredImage: "images/featured-images/sports-min.jpg"
 ---
@@ -78,4 +78,4 @@ As orthopedic and sports medicine experts, our Doctors of Physical Therapy condu
 
 ## Referral Algorithm
 
-{{% image-center "Referral Algorithm" "images/physical-therapy/referral-algorithm.png" %}}
+{{% image-full "Referral Algorithm" "images/physical-therapy/referral-algorithm.png" %}}

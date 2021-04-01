@@ -1,7 +1,7 @@
 ---
 title: "The Shoulder"
 date: 2018-02-11T14:56:16-05:00
-description: ""
+description: "Shoulder Injuries may include tears of the rotator cuff or labrum, osteoarthritis, or frozen shoulder. This page provides information on the joint and common symptoms"
 tags: ["edu"]
 ---
 

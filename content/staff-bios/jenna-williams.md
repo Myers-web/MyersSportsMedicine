@@ -1,7 +1,7 @@
 ---
-title: "Jenna Williams, MS, LAT, ATC, OTC, Practice Manager"
+title: "Jenna Hagan, MS, LAT, ATC, OTC, Practice Manager"
 date: 2018-05-16T23:28:06-04:00
-description: ""
+description: "Jenna Hagan is the office manager at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/jenna.jpeg"
 featuredImage: "images/featured-images/sports-min.jpg"
 ---

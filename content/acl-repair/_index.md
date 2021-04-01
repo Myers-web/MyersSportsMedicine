@@ -15,7 +15,7 @@ ACL Repair is a revolutionary technique that allows patients to return to functi
 The anterior cruciate ligament (ACL) is a piece of elastic tissue within your knee joint that provides stability to your knee, especially during back-and-forth and rotational movements. Damage to the ACL is one of the most common injuries in sports medicine, especially in athletes that participate in fast-paced sports like soccer, football, and basketball (Picture 2). Patients typically describe the moment of injury as a “popping” sensation within their knee, or a sudden sensation of instability in their injured knee. When the damaged ACL goes untreated, the knee may experience decreased stability and a feeling of “giving out” during certain movements.  Injury to the ACL, depending on the severity, may require surgical intervention to fix. 
 
 <br>
-{{% image-card "ACL tear" "images/acl-repair/ACL_Tear.gif" %}}
+{{% image-card-md "ACL tear" "images/acl-repair/ACL_Tear.gif" %}}
 
 <br>
 
@@ -24,7 +24,7 @@ A reconstruction of the ACL removes the original ligament entirely and replaces 
 An ACL repair retains the original ligament and does not require tissue from another part of your body. Instead, the damaged portion of the ACL is pulled back into its original position. Because the ACL still needs time to heal and re-attach itself to the bone, the ACL may benefit from additional protection while it heals. A synthetic graft augment may be used for this purpose. 
 
 <br>
-{{% image-card "ACL Repair" "images/acl-repair/ACL_Repair.png" %}}
+{{% image-card-md "ACL Repair" "images/acl-repair/ACL_Repair.png" %}}
 
 <br>
 
