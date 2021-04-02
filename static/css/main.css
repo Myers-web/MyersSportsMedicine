@@ -126,6 +126,7 @@
 .open-sans {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+    font-size: 22px;
 }
 
 .open-sans-bold {
@@ -226,6 +227,14 @@ h1, h2 {
     font-weight: 600;
     margin-top: 0px;
     font-size: 35px;
+}
+
+h3 {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-top: 0px;
+    font-size: 20px;
 }
 
 .strong-center {
