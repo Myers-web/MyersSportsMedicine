@@ -536,6 +536,13 @@ header, footer {
     margin-bottom:5px;
 }
 
+.edu-img-hl {
+    max-height: 300px;
+    max-width: 200px;
+    width:auto;
+    margin-bottom:5px;
+}
+
 .edu-img-sm {
     max-width: 300px;
     width: 100%;

@@ -5,58 +5,61 @@ description: "Common sports injuries include strains, sprains, splints, fracture
 featuredImage: "images/featured-images/running-min-2.jpg"
 ---
 
-Many people play sports in some way or another, whether they are playing for fun in their 
-backyard or competitively on a team. Exercising by playing sports can be very beneficial 
-to your health, but sometimes these benefits to your health are outweighed by negative 
-things, such as an injury. The severity of these injuries can range from minor to very 
-serious, with some injuries requiring surgery to fully heal. These injuries may be caused 
-from poor training practices, improper equipment, flawed techniques, or may just be an 
-accident. Injuries can also occur when a person is not properly conditioned to play the 
-sport, such as not warming up or stretching muscles beforehand.
+While playing sports can be very beneficial 
+to your health, all sports carry some risk of injury. The severity of these injuries can range from minor to very 
+serious, with some more severe injuries requiring surgery to fully correct. Injury can result from poor training practices, improper equipment, flawed techniques, or simply by accident. Improper conditioning, such as insufficent warm-up or stretching of muscles before exercise, may also cause injury. Five of the most common sports-related injuries are:
 
-Five of the most common sports related injuries are:
+<h3>Sprains and Strains</h3>
+<hr>
+    <div class ="container no-gutters">
+        <div class = "col-sm-7 no-padding-left">
+            Sprains and strains are the most common type of sports injury, and can occur during almost any type of physical activity. Both types of injury may cause symptoms such as swelling, inflammation, bruising, or pain with use. 
+            <br>
+            Sprains occur when a ligament (band of connective tissue that attaches bones to other bones) tears or overstretches. Sprains may range from minor, where a ligament is slightly torn or overstretched, to severe tears where the ligament is severed completely. Sprains are most common in the wrists, ankles, and knees. 
+            <br>
+            Strains, on the other hand, are concerned with the actual muscle or the tendons that attach them to bone. Strains may also be referred to as pulled muscles, and occur when the fibers within a muscle or tendon stretch too far or tear. Like sprains, strains may range in severity.
+        </div>
+        <div class = "col-sm-5  no-padding-left">
+            {{% image-center-sm "Sprained Ankle" "images/sports-medicine/sprained-ankle.gif" %}}
+        </div>
+    </div>    
 
-{{% image-right "Sprained Ankle" "images/sports-medicine/sprained-ankle.gif" %}}
+<h3>Knee Injuries</h3> 
+<hr>
+    Every year, over five million people visit orthopedic surgeons for knee-related injuries. Mild knee injuries include iliotibial (IT) band syndrome, runner’s knee (tenderness or pain near the front of the knee cap), or tendonitis (degeneration or inflammation within a tendon). Severe injuries can involve damage or bruising to cartilage or ligaments that provide stability to the knee. The four major ligaments in the knee that are commonly injured are the posterior cruciate ligament (PCL), the medial collateral ligament (MCL), anterior cruciate ligament (ACL), and the lateral collateral ligament (LCL).
+<br>
 
-**Strains and Sprains** - These are the most common type of sports injury by far, and can 
-occur in almost any type of physical activity. A sprain occurs when a ligament (band of 
-connective tissue that attaches bones to other bones) tears or overstretches. These can 
-range from minor to complete tears where the ligament is severed. A sprain is most common 
-in wrists, ankles, or knees. A strain is also known as a pulled muscle, and occurs when 
-the fibers within a muscle or tendon stretch too far or tear. Strains can also be minor to 
-severe.
+<h3>Shin Splints</h3>
+<hr>
+    <div class ="container no-gutters">
+        <div class = "col-sm-3 no-padding-left">
+            {{% image-center-h "Shin Splints" "images/sports-medicine/shin-splints.gif" %}}
+        </div>
+        <div class = "col-sm-9 no-padding-left">
+            When pain along the shin bone (tibia) occurs, it is known as shin splint. This pain usually occurs at the front outside portion of the lower leg, but can also occur in the front portions of the foot and 
+            ankle (anterior shin splints) or where the bone meets the calf muscles at the inner edge 
+            of the bone (medial shin splints). Shin splints are common with runners, especially those that tend to run on hard surfaces such as pavement. Failing to warm up or stretch, improper running 
+            techniques, running in shoes that lack proper support, or having “flat feet” can contribute to shin splints.
+        </div>
+    </div>    
 
-**Knee Injuries** - Every year over five million people visit orthopedic surgeons for knee 
-related injuries and problems. Mild knee injuries include iliotibial band syndrome, 
-runner’s knee (tenderness or pain near the front of the knee   cap), or tendonitis 
-(degeneration or inflammation within a tendon). Severe knee injuries can involve damage or 
-bruising to cartilage or ligaments. The four major ligaments in the knee that are commonly 
-injured are the posterior cruciate ligament (PCL), the medial collateral ligament (MCL), 
-anterior cruciate ligament (ACL), and the lateral collateral ligament (LCL).
+<h3>Fractures</h3> 
+<hr>
+    <div class ="container no-gutters">
+        <div class = "col-sm-7 no-padding-left">
+            Commonly referred to as broken bones, fractures are a fairly common sports injury that occur when the solid bone is damaged. This may occur due to a specific injury, such as a fall. Such instances, where the fracture is tied to a one-time injury, are known as acute fractures. Depending on the method of injury, different types of acute fractures may occur, including oblique, comminuted, spiral, and compound fractures. 
+            <br>
+            It is also possible for repeated stress on a bone over a prolonged period of time to cause tiny cracks in the bone, known as stress fractures. These injuries typically occur due to repetitive stresses to the bone caused by activites such as long-distance running or excessive jumping. 
+            <br>
+            Most fractures are classified as emergencies, and may require surgery to completely repair. 
+        </div>
+        <div class = "col-sm-5 no-padding-left">
+            {{% image-center-md "Types of Fractures" "images/sports-medicine/types-of-fractures.gif" %}}
+        </div>
+    </div>
 
-{{% image-left "Shin Splints" "images/sports-medicine/shin-splints.gif" %}}
 
-**Shin Splints** - A shin splint is when pain along the shin bone (tibia) occurs. This pain 
-is usually at the front outside part of the lower leg, but can also occur in the foot and 
-ankle (anterior shin splints) or where the bone meets the calf muscles at the inner edge 
-of the bone (medial shin splints). Shin splints are common with runners and even more-so 
-when the runner runs on hard surfaces. Failing to warm up or stretch, improper running 
-techniques, running in shoes that lack proper support, or having “flat feet” all can 
-contribute to shin splints.
-
-**Fractures** - Commonly referred to as a broken bone, fractures are a fairly common sports 
-injury caused by a one-time injury to the bone (an acute fracture). Repeated stress on a 
-bone over time (a stress fracture) can also occur. Small cracks a complete break will 
-occur with an acute fracture. Most are classified as emergencies, and may even need 
-surgery to completely repair. A stress fracture occurs most of the time in the legs or 
-feet from sports that cause repetitive impact, such a running or jumping sport.
-
-{{% image-center-fix "Types of Fractures" "images/sports-medicine/types-of-fractures.gif" %}}
-
-**Dislocations** - These occur when force pushes the bones in a joint out of alignment. 
-Dislocations are also known as a luxation. Contact sports such as football or an activity 
-such as excessive stretching or falling can cause dislocations. A dislocation will usually 
-require medical treatment and be treated as an emergency. The dislocated bone may be able 
-to be put back in place, but the connective tissue surrounding the joint may have severe 
-damage. The most common joints that are dislocated are the fingers and hand, with the 
-shoulder being close behind. Elbows, knees, and hips can be dislocated but are less common.
+<h3>Dislocations</h3> 
+<hr>
+    Dislocations, also known as luxations, occur when excessive force pushes the bones in a joint out of alignment. Contact sports such as football or activities such as agressive stretching or falling can cause dislocations. While it may be possible for an untrained person to "pop" the dislocated bones back into place, improper technique can lead to severe damage to the connective tissue surrounding the joint. As a result, dislocations are typically considered an emergency and will usually require treatment by a medical professional to correct. 
+    The most common joints that may become dislocated are the fingers and hand, as well as the shoulder. Elbows, knees, and hips can be dislocated but are less common.
