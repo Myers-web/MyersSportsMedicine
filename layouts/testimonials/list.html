@@ -15,9 +15,10 @@
         <div class="col-md-3 text-center">
             <a data-fancybox class="video-popup" href="{{ .Params.video | absURL}}">
                 <p><img src="{{ .Param "pic" | absURL }}"></p>
-                <h2>{{ .Title }}</h2>
+                <h3>{{ .Title }}</h3>
                 <p>{{ .Description }}</p>
             </a>
+            <br>
         </div>
     {{ end }}
     </div>

@@ -4,6 +4,7 @@ date: 2018-02-11T14:52:43-05:00
 description: "The ACL is a ligament that gives stability to the knee. When the ACL is injured, it may make the knee feel unstable or like it is going to give out"
 ---
 
+
 The anterior cruciate ligament, also known as the ACL, is one of the major cruciate 
 ligaments that are located within the joints of the knee. The ACL provides stability to your 
 knees, along with preventing over-bending and over-straightening of the knee. The ligament 
@@ -11,13 +12,11 @@ is connected between the tibia and femur. A torn ACL can refer to any injury cau
 ligament. A number of different things can cause a town ACL, such as a twisting force 
 applied to the knee while the foot is firmly placed on the ground, or a direct blow to the 
 knee upon a landing.
-
 <br>
 
-{{% image-center "ACL Tear" "images/the-knee/acl-tear.gif" %}}
+{{% image-center-ns "ACL Tear" "images/the-knee/acl-tear.gif" %}}
 
 <br>
-
 ACL tears are one of the most common types of sports injuries, and can be mild to severe. 
 Sports that involve more physical contact than others, such as football or soccer are more 
 prone to causing ACL tears. ACL tears can also be received from non-contact sports related 
@@ -25,7 +24,8 @@ injuries, like landing from a jump, running, pivoting, or overextending the knee
 
 <br>
 
-## ACL Tear Symptoms
+### ACL Tear Symptoms
+<hr>
 Symptoms of an ACL tear will vary based on how severe the tear is, and whether or not more 
 injuries were received as a result of the original injury.
 

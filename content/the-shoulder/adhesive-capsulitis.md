@@ -4,16 +4,12 @@ date: 2018-02-11T15:17:33-05:00
 description: ""
 ---
 
-Adhesive capsulitis is when a person loses the ability to move their shoulder around in 
-all directions without pain. This problem is commonly referred to as a [frozen shoulder]({{< ref "frozen-shoulder.md" >}}), 
-as the shoulder usually becomes stiff and will be hard to move at all. The causes of 
-ashesive capsulitis are somewhat unknown and tend to happen randomly.
+Adhesive capsulitis of the shoulder is characterized by a reduction in shoulder range of motion and pain with movement. This condition is commonly referred to as [frozen shoulder]({{< ref "frozen-shoulder.md" >}}), as the shoulder usually becomes "frozen" in place and may become difficult to move at all. The causes of ashesive capsulitis are somewhat unknown and the condition tends to develop without a specfic mechanism of injury.
 
 <br>
 
-
-## What are the Symptoms of Adhesive Capsulitis?
-
+### What are the Symptoms of Adhesive Capsulitis?
+<hr>
 A shoulder should be able to move in all directions without any stiffness or pain. If you 
 aren’t able to do the following with your shoulder, you possibly could be suffering from 
 adhesive capsulitis.
@@ -31,8 +27,8 @@ be required to further check the problems.
 
 <br>
 
-## What are the Causes of Adhesive Capsulitis?
-
+### What are the Causes of Adhesive Capsulitis?
+<hr>
 These injuries often occur after you have been less active due to other injuries, such as 
 a torn rotator cuff, broken arm, or surgery recovery. These develop when connective 
 tissue in your should joint tightens, which restricts movement of the joint. Adults over 

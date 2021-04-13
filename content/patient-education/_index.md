@@ -11,4 +11,4 @@ of orthopaedic and [sports medicine]({{< secref "sports-medicine" >}}) condition
 
 This section has been created to educate visitors about some of the conditions and traumas 
 that Dr. Myers sees on a regular basis and provides some of the treatment options 
-available to patients.
+available to our patients.

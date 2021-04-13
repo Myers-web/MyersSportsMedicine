@@ -11,10 +11,11 @@ In human anatomy, the knee is the lower extremity joint connecting the femur and
 Since in humans the knee supports nearly the entire weight of the body, it is vulnerable 
 both to acute injury and to the development of osteoarthritis.
 
-{{% image-center-md "The Knee" "images/the-knee/knee.jpg" %}}
+{{% image-center-ns "The Knee" "images/the-knee/knee.jpg" %}}
 <br>
  
-## Function Of The Knee
+### Function Of The Knee
+<hr>
 The knee functions as a living, self-maintaining, biologic transmission, the purpose of 
 which is to accept and transfer biomechanical loads between the femur, tibia, patella, and 
 fibula. In this analogy the ligaments represent non-rigid adaptable sensate linkages within 
@@ -25,7 +26,8 @@ brakes and dampening systems, absorbing loads.
 
 <br>
 
-## Knee Anatomy
+### Knee Anatomy
+<hr>
 The knee is a complex, compound, condyloid variety of a synovial joint which hovers. It 
 actually comprises two separate joints.
 
@@ -40,4 +42,5 @@ fossa.
 
 <br>
 
-## Knee Related Articles
+### Knee Related Articles
+<hr>

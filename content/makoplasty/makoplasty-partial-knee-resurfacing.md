@@ -15,12 +15,14 @@ MAKOplasty Partial Knee Resurfacing is an advanced partial knee surgery performe
 
 <br>
 
-# What are the benefits of MAKOplasty&reg;?
+### What are the benefits of MAKOplasty&reg;?
+<hr>
 Partial knee replacement can be a challenging procedure to perform accurately on a consistent basis using manual techniques. Robotic arm assisted MAKOplasty enables consistent results and more accurate implant placement – which is an important factor in the life expectancy of implants. In an ongoing study, MAKOplasty resulted in both greater accuracy in implant placement and less pain in the first eight weeks post-surgery compared to manual partial knee replacement using Oxford&reg; implants. (1) Another study found that unicompartmental MAKOplasty patients who received RESTORIS&reg; MCK Medial Onlay implants, showed a very low failure rate of only 0.4% at two years (2), which is nine times lower than that of manual surgery. The study was conducted by four surgeons, who evaluated 201 patients (224 knees).
 
 <br>
 
-# How does MAKOplasty&reg; Work?
+### How does MAKOplasty&reg; Work?
+<hr>
 Before surgery, a CT scan is taken of the patient’s knee, and a 3D model created using the RIO system’s software. From this model, a pre-surgical plan is developed for the positioning of implants based on that patient’s unique anatomy.
 
 To ensure implants are optimally positioned and that the soft tissues of the knee are balanced for a good surgical outcome, surgeons can test and fine tune the plan before surgery by moving the leg through different ranges of motion. The RIO provides measurements and visualization, and the surgeon adjusts the plan as needed.
@@ -28,6 +30,7 @@ To ensure implants are optimally positioned and that the soft tissues of the kne
 Once the surgical plan is finalized, it is programmed into the RIO, which creates a safety zone for bone removal. While the surgeon guides the robotic arm and is in control of it at all times, the RIO ensures that bone removal stays with the safety zone of the surgical plan, providing auditory, visual and tactile feedback, stopping the robotic arm if necessary before bone can be removed outside the planned area. Once the bone preparation is complete, the implants are placed in the knee.
 
 As a knee arthroplasty procedure, MAKOplasty&reg; is typically covered by Medicare- approved and private health insurers.
+<br><br>
 
 <hr>
 

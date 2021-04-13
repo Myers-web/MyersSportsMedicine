@@ -21,14 +21,16 @@ at the same time being more stable.
 
 <br>
 
-## What is a labral tear?
+### What is a labral tear?
+<hr>
 The labrum is a thick tissue and can be injured by trauma to the shoulder joint. As a person 
 ages, the labrum becomes more brittle and the aging process can cause fraying or tears. When 
 someone has an injured shoulder, it’s possible it is a labral tear.
 
 <br>
 
-## Labral Tear Symptoms
+### Labral Tear Symptoms
+<hr>
 Labral tear symptoms depend on where the tear is located, but could include:
 * Pain with specific activities
 * An aching sensation in the shoulder joint
@@ -37,16 +39,24 @@ Labral tear symptoms depend on where the tear is located, but could include:
 
 <br>
 
-{{% image-right "Slap Lesion Bankart Tear" "images/the-shoulder/slap-lesion-bankart-tear.gif" %}}
+### Common Types of Labral Tears
+<hr>
+<div class = "row">
+    <div class = "col-sm-8">
+        **Posterior Labral Tears** - Posterior labral tears are less common, but are sometimes seen in athletes in a condition called internal impingement. This syndrome causes the [rotator cuff]({{< ref "symptoms-of-a-rotator-cuff-tear.md" >}}) and labrum to be pinched together in the back of the shoulder. 
+        <br> <br>
+        **[SLAP Tears]({{< ref "slap-tears.md" >}})** - A SLAP tear is most commonly seen in athletes that play overhead throwing sports, such as baseball or tennis. In a SLAP tear, the labrum tears at the top of the shoulder socket where the bicep tendon attaches to the shoulder. 
+        <br> <br>
+        **Bankart Lesions** - A Bankart lesion occurs when a shoulder dislocates. The labrum is torn when the shoulder out of the joint, and makes the shoulder more susceptible to future dislocations.
+    </div>
+    <div class="col-sm-4">
+        {{% image-center-sm "Slap Lesion Bankart Tear" "images/the-shoulder/slap-lesion-bankart-tear.gif" %}}
+    </div>
+</div>    
+<br>
 
-
-## Common Types of Labral Tears
-
-* **Posterior Labral Tears** - Posterior labral tears are less common, but are sometimes seen in athletes in a condition called internal impingement. This syndrome causes the [rotator cuff]({{< ref "symptoms-of-a-rotator-cuff-tear.md" >}}) and labrum to be pinched together in the back of the shoulder.
-* **[SLAP Tears]({{< ref "slap-tears.md" >}})** - A SLAP tear is most commonly seen in athletes that play overhead throwing sports, such as baseball or tennis. In a SLAP tear, the labrum tears at the top of the shoulder socket where the bicep tendon attaches to the shoulder.
-* **Bankart Lesions** - A Bankart lesion occurs when a shoulder dislocates. The labrum is torn when the shoulder out of the joint, and makes the shoulder more susceptible to future dislocations.
-
-## Labral Tear Treatment
+### Labral Tear Treatment
+<hr>
 There are different treatments for different types of labral tears, depending on the type of 
 tear that has occurred. Most types of labral tears don’t require any type of surgery, 
 although patients who have persistent symptoms may need surgery.

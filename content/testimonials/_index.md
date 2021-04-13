@@ -5,4 +5,6 @@ description: "View testimonials of patients who have recevied care at Myers Spor
 featuredImage: "images/featured-images/knee-min.jpg"
 ---
 
-Click on Image to see video testimonial.
+#### Click the images below to see video testimonials
+
+<br>
