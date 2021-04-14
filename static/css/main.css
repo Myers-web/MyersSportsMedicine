@@ -337,11 +337,11 @@ header, footer {
 
 .appointment-form {
     background-color: rgba(0, 0, 0, 0.7);
-    border-radius: 6px;
-    padding: 9%;
+    border-radius: 5px;
+    padding: 6% 12% 6%;
     text-align: center;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .appointment-form-btn {
@@ -350,7 +350,7 @@ header, footer {
 
 .form-title {
     font-size: 17px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .featured-image {
@@ -718,31 +718,31 @@ header, footer {
 }
 
 .heading-format {
-    padding-left: 2px;
-    padding-right: 2px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 
-@media only screen and (min-width: 1500px) {
+@media only screen and (max-width: 4000px) {
     .heading-format {
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: 12%;
+        padding-right: 12%;
     }
 
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (max-width: 1200px) {
     .heading-format {
-        padding-left: 7%;
-        padding-right: 7%;
+        padding-left: 3%;
+        padding-right: 3%;
     }
 
 }
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (max-width: 1000px) {
     .heading-format {
-        padding-left: 5px;
-        padding-right: 5px;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
 }
@@ -836,7 +836,7 @@ header, footer {
 }
 
 #myers-headshot {
-    height: 540px;
+    height: 500px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -847,7 +847,10 @@ header, footer {
 }
 
 #myers-about-headshot {
-    height: 450px;
+    height: auto;
+    max-height:450px;
+    max-width:350px;
+    width:100%;
     position: relative; 
 }
 
@@ -858,7 +861,7 @@ header, footer {
 }
 
 #myers-description {
-    height: 540px;
+    height: 500px;
 }
 
 #staff-photo {

@@ -1,14 +1,14 @@
 {{ with .Site.GetPage "section" "dr-myers" }}
-<div class = "container-fluid heading-format">
+<div class = "container-fluid heading-format no-gutters">
     <div class="row">
         <div class="col-sm-6 blue2" id="myers-headshot">
-         <img class="img-center drop-shadow" style="border: 3px solid white;
+         <img class=" img-center image-full drop-shadow" style="border: 3px solid white;
             border-radius: 5px;" id="myers-about-headshot" src="{{ .Param "pic" | absURL }}">
         </div>
     <div class="col-sm-6 blue2 no-gutters">
-        <div class="weak-center white-text grid-4-top-p grid-1-bottom-p" id="myers-description">
+        <div class="weak-center white-text grid-3-top-p grid-1-bottom-p" id="myers-description">
             <h1 class="open-sans white-text grid-1-bottom">{{ .Title }}</h1>
-            <div class="grid-1-bottom oswald">
+            <div class="grid-2-bottom oswald">
                 {{ .Description }}
             </div>
             <div class="text-center">

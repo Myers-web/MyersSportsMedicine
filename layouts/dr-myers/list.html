@@ -1,12 +1,15 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-<div class="row">
-    <div class="col-xs-12">
-        <img src="{{ .Param "pic" | absURL }}" class="pull-left margin-right margin-bottom drop-shadow">
+<div class="container">
+    <div class="col-sm-4 text-center">
+        <img src="{{ .Param "pic" | absURL }}" class="edu-img-sm drop-shadow" style="margin-bottom:25px;">
+    </div>   
+    <div class="col-sm-8 no-gutters">
         {{ .Content }}
+        {{ partial "page-links.html" . }}
     </div>
 </div>
-{{ partial "page-links.html" . }}
+
 {{ partial "main-bottom" . }}
 {{ end }}

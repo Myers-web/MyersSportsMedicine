@@ -1,11 +1,13 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
+<div class="container">
     <div class="col-sm-4 text-center">
-        <img id="staff-photo" class="drop-shadow"  src="{{ .Param "pic" | absURL }}">
+        <img id="staff-photo" class="drop-shadow" style="margin-bottom:25px;" src="{{ .Param "pic" | absURL }}">
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-8 no-gutters">
         {{ .Content }}
     </div>
+</div>    
 {{ partial "main-bottom" . }}
 {{ end }}

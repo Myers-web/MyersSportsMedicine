@@ -11,13 +11,13 @@
         <div class="row">
             {{ partial "about-myers" . }}
         </div>
-        <hr>
+        <br><br> 
         <div class="row">
             {{ with .Site.GetPage "section" "staff-bios" }}
             <div class="col-xs-12 ">
                 <div class="row">
                     <div class="col-xs-12 text-center">
-                        <h1>{{ .Title }}</h1>
+                        <h1>{{ .Title }}</h1> <br>
                     </div>
                 </div>
                 {{ partial "staff-bios" . }}

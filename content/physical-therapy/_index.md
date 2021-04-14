@@ -79,5 +79,4 @@ As orthopedic and sports medicine experts, our Doctors of Physical Therapy condu
 <br>
 
 ### Referral Algorithm
-
 {{% image-full "Referral Algorithm" "images/physical-therapy/referral-algorithm.png" %}}
