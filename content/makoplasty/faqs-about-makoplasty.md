@@ -8,7 +8,7 @@ tags: ["mako"]
 
 ### What is MAKOplasty&reg;?
 <hr>
-MAKOplasty&reg; [Partial Knee Resurfacing](https://patients.stryker.com/knee-replacement/procedures/mako-robotic-arm-assisted) is an innovative treatment option for adults living with early to midstage OA in the medial (inner), patellofemoral (top), or lateral (outer) compartments of the [knee]({{< secref "the-knee">}}). It is powered by the RIO&reg; Robotic Arm Interactive Orthopedic System, which allows for consistently reproducible precision in performing partial knee resurfacing.
+MAKOplasty&reg; [Partial Knee Resurfacing](https://patients.stryker.com/knee-replacement/options/mako-robotic-arm-assisted-partial-knee) is an innovative treatment option for adults living with early to midstage OA in the medial (inner), patellofemoral (top), or lateral (outer) compartments of the [knee]({{< secref "the-knee">}}). It is powered by the RIO&reg; Robotic Arm Interactive Orthopedic System, which allows for consistently reproducible precision in performing partial knee resurfacing.
 
 During the procedure, the diseased portion of the knee is resurfaced, sparing the patient’s healthy bone and surrounding tissue. An implant is then secured in the joint to allow the knee to move smoothly again. MAKOplasty&reg; Partial Knee Resurfacing can:
 
@@ -71,4 +71,4 @@ In many cases, patients are permitted to walk soon after surgery, drive a car wi
 <hr>
 All implants have a life expectancy that depends on several factors including the patient’s weight, activity level, quality of bone stock and compliance with their physician’s orders.
 
-Proper implant alignment and precise positioning during surgery are also very important factors that can improve the life expectancy of an implant. Through the use of RIO&reg;, implants can be optimally aligned and positioned to ensure the longest benefit. RESTORIS&reg; MCK implants enable the treatment of one or two compartments with OA disease. With single compartment disease, a second compartmentmay be treated in the future if OA spreads. In addition, because very little bone is actually removed during a MAKOplasty&reg; procedure, the implants can be replaced with another procedure such as a total knee replacement, if necessary.
+Proper implant alignment and precise positioning during surgery are also very important factors that can improve the life expectancy of an implant. Through the use of RIO&reg;, implants can be optimally aligned and positioned to ensure the longest benefit. RESTORIS&reg; MCK implants enable the treatment of one or two compartments with OA disease. With single compartment disease, a second compartment may be treated in the future if OA spreads. In addition, because very little bone is actually removed during a MAKOplasty&reg; procedure, the implants can be replaced with another procedure such as a total knee replacement, if necessary.

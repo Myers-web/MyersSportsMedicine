@@ -4,33 +4,23 @@ date: 2018-02-11T15:17:33-05:00
 description: ""
 ---
 
-Adhesive capsulitis of the shoulder is characterized by a reduction in shoulder range of motion and pain with movement. This condition is commonly referred to as [frozen shoulder]({{< ref "frozen-shoulder.md" >}}), as the shoulder usually becomes "frozen" in place and may become difficult to move at all. The causes of ashesive capsulitis are somewhat unknown and the condition tends to develop without a specfic mechanism of injury.
+Adhesive capsulitis of the shoulder is characterized by a reduction in shoulder range of motion and pain with movement. This condition is commonly referred to as [frozen shoulder]({{< ref "frozen-shoulder.md" >}}), as the shoulder usually becomes "frozen" in place and may become difficult to move at all. The causes of adhesive capsulitis are somewhat unknown and the condition tends to develop without a specfic mechanism of injury.
 
 <br>
 
 ### What are the Symptoms of Adhesive Capsulitis?
 <hr>
-A shoulder should be able to move in all directions without any stiffness or pain. If you 
-aren’t able to do the following with your shoulder, you possibly could be suffering from 
-adhesive capsulitis.
+A shoulder should be able to move in all directions without any stiffness or pain. However, when adhesiv capsulitis develops, the following movements may become more difficult or even painful:
 
-* Raise your arms out to the sides of your body
-* Reach up towards the sky with both arms
-* Pretend you are trying to unzip you’re the back of a dress or pull out your wallet from the back of your pants
-* Reach our straight in front of you
-
-Always consult a doctor if you think you have a medical condition such as this. You 
-doctor may be able to diagnose you just by watching you move and listening to your 
-symptoms. The doctor may apply pressure to areas of your should to see what exactly is 
-causing pain. Xray scans or magnetic resonance imaging (MRI) scans of your shoulder may 
-be required to further check the problems.
+* Raising your arms out to the sides of your body
+* Reaching up towards the sky with both arms
+* Reaching behind you, like trying to grab something out of the back seat of a car
+* Pretending you are trying to unzip you’re the back of a dress or pull out your wallet from the back of your pants
+* Reaching out straight in front of you
 
 <br>
 
 ### What are the Causes of Adhesive Capsulitis?
 <hr>
-These injuries often occur after you have been less active due to other injuries, such as 
-a torn rotator cuff, broken arm, or surgery recovery. These develop when connective 
-tissue in your should joint tightens, which restricts movement of the joint. Adults over 
-40 are more at risk than other age groups, with women being especially prone to the 
-injury.
+Adhesive capsulitis often occurs during periods of inactivity due to other injuries, such as a torn rotator cuff, broken arm, or surgery recovery. The inflammation of the shoulder joint caused by such injuries may increase the chances of developing adhesive capsulitis if it goes untreated. This inflammation may cause the connective 
+tissue in your shoulder joint to tighten, restricting movement of the joint and promoting the formation of adhesions. Age and demographic may also contribute to an increased risk of adhesive capsulitis, with adults over 40, especially women, more prone to this complication. 

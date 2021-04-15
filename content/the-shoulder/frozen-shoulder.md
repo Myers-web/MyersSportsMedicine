@@ -10,8 +10,7 @@ description: ""
     </div>
     <div class = "col-md-7">
         Frozen shoulder, also known as 
-        <a href="/the-shoulder/adhesive-capsulitis/">adhesive capsulitis</a>
-        , is characterized by pain and restriction of motion in the shoulder joint. Normally, the shoulder allows a greater range of motion than 
+        <a href="/the-shoulder/adhesive-capsulitis/">adhesive capsulitis</a>, is characterized by pain and restriction of motion in the shoulder joint. Normally, the shoulder allows a greater range of motion than 
         any other joint in the body. However, in patients with a frozen shoulder, the capsule around the shoulder joint contracts, forming bands of scar tissue (adhesions). These adhesions "freeze" the head of the humerus (upper arm bone) in place, causing pain and restricting movement.     
         The cause of frozen shoulder
         is not well understood, and the condition may develop even without a specfic mechanism of injury. 

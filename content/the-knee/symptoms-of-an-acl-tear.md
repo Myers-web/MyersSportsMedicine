@@ -5,7 +5,7 @@ description: "The ACL is a ligament that gives stability to the knee. When the A
 ---
 
 
-The anterior cruciate ligament, also known as the ACL, is one of the major ligaments located within the knee. The ligament connects the femur and tibia, providing stability to the 
+The anterior cruciate ligament, also known as the ACL, is one of the major ligaments within the knee joint. The ligament connects the femur and tibia bones, providing stability to the 
 knee and preventing over-bending and over-straightening.  An ACL tear can refer to any injury caused to the 
 ligament, from a minor sprain to a true tear. 
 <br>

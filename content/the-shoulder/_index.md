@@ -17,6 +17,7 @@ Chondrocalcinosis, Osteoarthritis, Gout, Lyme arthritis, and Ganglion Cysts are 
 <hr style="margin-bottom:0px;">
 {{% row %}}
 {{% column sm 6 %}}
+
 #### Overuse
 * Subacromial bursitis
 * Supraspinatus tendinitis
@@ -58,6 +59,7 @@ Chondrocalcinosis, Osteoarthritis, Gout, Lyme arthritis, and Ganglion Cysts are 
 ### Diagnosing Shoulder Problems
 <hr>
 The art of diagnosing shoulder problems involves correlating a patient's history and the results from a series of comprehensive shoulder exams. Understanding not only the symptoms, but the method of injury and its effect on the joint's strength, motion, and flexibility are vital to diagnosing any orthopedic condition.
+
 As a result, there are over 50 shoulder 
 exam techniques that can be performed by the examining physician without the use of x-ray, MRI, or arthrogram. 
 While the latter imaging exams may be used to confirm clinical suspicion or to justify surgical procedure, a patient’s history and a good 
