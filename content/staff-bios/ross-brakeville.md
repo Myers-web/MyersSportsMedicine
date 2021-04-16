@@ -3,7 +3,7 @@ title: "Dr. Ross Brakeville PT, DPT, STC, TPI-CFI"
 date: 2018-05-16T23:23:02-04:00
 description: "Dr. Ross Brakeville is a Doctor of Physical Therapy at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/ross.jpg"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
 **Dr. Ross Brakeville, PT, DPT, STC, TPI-CFI** is the owner of Georgia Sports Medicine 

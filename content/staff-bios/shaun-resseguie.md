@@ -3,7 +3,7 @@ title: "Shaun Resseguie"
 date: 2018-12-22T08:07:04-06:00
 description: "Shaun Resseguie is a Doctor of Physical Therapy at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/shaun-resseguie.jpg"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
 Dr. Shaun Resseguie is a Doctor of Physical Therapy and Certified Strength and Conditioning Specialist. His exercise intensive treatments are complemented by advanced manual therapy and dry needling techniques delivering comprehensive management of joint and muscle dysfunctions. Emphasis on the rehabilitation/performance continuum allows him to return athletes back to competition quickly and safely.

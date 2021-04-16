@@ -2,7 +2,7 @@
 title: "Tiffany Jackson"
 description: ""
 pic: "images/staff-bios/tiffany-jackson.jpg"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
 Born and raised in Atlanta, Tiffany obtained a Bachelors Degree at Mercer University in 

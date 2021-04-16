@@ -5,7 +5,7 @@ description: "Dr. Myers accepts Cigna Health Insurance. CIGNA is a global health
 accident, disability and other wellness benefits to groups and individuals, serving over 
 45 million people throughout the United States and around the world."
 pic: "images/insurance/cigna.jpg"
-featuredImage: "images/featured-images/running-min-2.jpg"
+featuredImage: "images/featured-images/running-min-sized.jpg"
 ---
 
 CIGNA is a global health service company, dedicated to helping people improve their 

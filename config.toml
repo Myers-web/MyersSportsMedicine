@@ -165,8 +165,8 @@ relativeurls = true
 
 
 [Params]
-    defaultImageLarge = "images/featured-images/workout-min.jpg"
-    defaultImageSmall = "images/featured-images/operating-min.jpg"
+    defaultImageLarge = "images/featured-images/workout-sized.jpg"
+    defaultImageSmall = "images/featured-images/operating-sized.jpg"
     logo = "images/logo.jpg"
     contactImg = "images/featured-images/connectwork.png"
     patientPortal = "https://www.pbomd.com/pboppv6/login.asp"

@@ -3,7 +3,7 @@ title: "Georgia Sports Medicine Specialists"
 date: 2018-12-22T09:55:26-06:00
 description: "Georgia Sports Medicine Specialists specializes in orthopaedics and sports medicine rehabilitation for athletes of all caliber. GSMS is conveniently located within the same space as Myers Sports Medicine and Orthopaedic Center to provide patients with in-house rehabilitation following surgery."
 pic: ""
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
 **Georgia Sports Medicine Specialists, LLC**, was founded in 2017 by Ross Brakeville, PT, DPT, STC, who specializes in orthopaedics and sports rehabilitation. Prior to GSMS, Dr. Brakeville opened Woodstock Physical Therapy, LLC, providing physical therapy care in Cherokee County from 2004 until selling his practice in 2016. Ross has over 30 years of experience in a variety of rehabilitation settings with extensive continuing education and training.

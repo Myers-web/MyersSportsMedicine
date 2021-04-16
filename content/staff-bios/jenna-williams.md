@@ -3,7 +3,7 @@ title: "Jenna Hagan, MS, LAT, ATC, OTC, Practice Manager"
 date: 2018-05-16T23:28:06-04:00
 description: "Jenna Hagan is the office manager at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/jenna.jpeg"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
 Jenna graduated in 2010 with a Bachelor of Science degree in Athletic Training with a minor in Health Science, from Marietta College in Marietta, Ohio. While attending Marietta College, she also played for their Division III soccer team. While working towards her degree, she covered several Division III sports including football, track and field, soccer, softball and women’s basketball. Jenna obtained her NATABOC certification and state licensure for athletic training in 2010. 

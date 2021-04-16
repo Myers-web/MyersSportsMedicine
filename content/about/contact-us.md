@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 description: "Meet the staff of Myers Sports Medicine and Orthopaedic Center"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 {{% row %}}
 <div class="col-md-6 text-center">

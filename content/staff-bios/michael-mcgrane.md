@@ -2,7 +2,7 @@
 title: "Michael Mcgrane"
 description: "Michael Mcgrane is an X-Ray specialist at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/michael-mcgrane.jpg"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
 Michael McGrane served four years active duty in The U.S. Army.  During his service, he

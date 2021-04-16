@@ -3,7 +3,7 @@ title: "Aetna"
 date: 2018-02-06T20:17:56-05:00
 description: "Dr. Myers accepts Aetna health insurance."
 pic: "images/insurance/aetna.jpg"
-featuredImage: "images/featured-images/running-min-2.jpg"
+featuredImage: "images/featured-images/running-min-sized.jpg"
 ---
 
 Dr. Myers accepts Aetna as a form of health insurance.

@@ -3,7 +3,7 @@ title: "ACL Repair"
 date: 2018-03-11T23:11:56-04:00
 description: "ACL Repair is a revolutionary technique that allows patients to return to function sooner following surgery"
 pic: "images/prp/DRAW.jpeg"
-featuredImage: "images/featured-images/running-min-2.jpg"
+featuredImage: "images/featured-images/running-min-sized.jpg"
 tags: ["newTech"]
 ---
 
