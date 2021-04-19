@@ -10,7 +10,6 @@ pic: "images/book/JENN2.png"
 [Surviving 7: The Expert's Guide to ACL Surgery: Recovery, Rehabilitation, and Prevention](http://a.co/cLuCJl0) is a must 
 read for anyone facing ACL reconstruction, get inside the approach for a positive mental and 
 physical return to activity.  With expert testimony from Dr. Thomas Myers, learn insight and tips on 
-surviving surgery from Jenna Minecci, a 7 time knee surgery survivor.  Dr. Myers and his infamous 
+surviving surgery from Jenna Minecci, a 7 time knee surgery survivor.  Dr. Myers and his 
 double bundle ACL reconstruction technique has given Jenna real stability in her knee for the first 
-time in 14 years! Use her book as a go to guide for everything regarding your ACL reconstruction 
-recovery. 
+time in 14 years! Use her book as a go to guide for everything regarding your ACL surgery recovery. 

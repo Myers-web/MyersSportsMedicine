@@ -6,7 +6,7 @@ pic: ""
 featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
-**Georgia Sports Medicine Specialists, LLC**, was founded in 2017 by Ross Brakeville, PT, DPT, STC, who specializes in orthopaedics and sports rehabilitation. Prior to GSMS, Dr. Brakeville opened Woodstock Physical Therapy, LLC, providing physical therapy care in Cherokee County from 2004 until selling his practice in 2016. Ross has over 30 years of experience in a variety of rehabilitation settings with extensive continuing education and training.
+[**Georgia Sports Medicine Specialists, LLC**](https://www.georgiasportsmedicinespecialists.com/), was founded in 2017 by Ross Brakeville, PT, DPT, STC, who specializes in orthopaedics and sports rehabilitation. Prior to GSMS, Dr. Brakeville opened Woodstock Physical Therapy, LLC, providing physical therapy care in Cherokee County from 2004 until selling his practice in 2016. Ross has over 30 years of experience in a variety of rehabilitation settings with extensive continuing education and training.
 
 <br>
 

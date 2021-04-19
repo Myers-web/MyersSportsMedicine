@@ -15,13 +15,14 @@ ACL Repair is a revolutionary technique that allows patients to return to functi
 
 <div class="row weak-center">
     <div class="col-sm-7" style="margin-bottom:10px;">
-        The anterior cruciate ligament (ACL) is a piece of elastic tissue within your knee joint that provides stability to your knee, especially during back-and-forth and rotational movements. Damage to the ACL is one of the most common injuries in sports medicine, especially in athletes that participate in fast-paced sports like soccer, football, and basketball (Picture 2). Patients typically describe the moment of injury as a “popping” sensation within their knee, or a sudden sensation of instability in their injured knee. When the damaged ACL goes untreated, the knee may experience decreased stability and a feeling of “giving out” during certain movements.  Injury to the ACL, depending on the severity, may require surgical intervention to fix.
+        The anterior cruciate ligament (ACL) is a piece of elastic tissue within your knee joint that provides stability to your knee, especially during back-and-forth and rotational movements. Damage to the ACL is one of the most common injuries in sports medicine, especially in athletes that participate in fast-paced sports like soccer, football, and basketball. Patients typically describe the moment of injury as a “popping” sensation within their knee, or a sudden feeling of instability. When the damaged ACL goes untreated, the knee may experience decreased stability and a feeling of “giving out” during certain movements.  Injury to the ACL, depending on the severity, may require surgical intervention to fix.
     </div>
     <div class="col-sm-5 no-gutters" style="margin-bottom:10px;">
       {{% image-card-md "ACL tear" "images/acl-repair/ACL_Tear.gif" %}}
     </div>
 </div>
 
+<br>
 ### What's the difference between ACL Reconstruction and Repair?
 <hr style="margin-bottom:20px;">
 <div class="row weak-center">
@@ -29,7 +30,8 @@ ACL Repair is a revolutionary technique that allows patients to return to functi
         {{% image-card-md "ACL Repair" "images/acl-repair/ACL_Repair.png" %}}
     </div>
     <div class="col-sm-7 no-gutters">
-      A reconstruction of the ACL removes the original ligament entirely and replaces it with a new piece of tissue taken from elsewhere on your body. This tissue usually comes from the tendon of your hamstring muscle or the tendon that runs over your knee cap. Once harvested from the tendon site, this tissue is bundled up to match the size and strength of the ACL.  The tissue bundle is then anchored in place where the old, damaged ACL was removed. Because this technique requires tissue from another part of a patient’s own body, patients tend to have weakness or pain at the harvest site after surgery. In severe cases of ACL injury, reconstruction may be necessary. However, for moderate or mild injuries, some surgeons may opt to repair the ACL instead. An ACL repair retains the original ligament and does not require tissue from another part of your body. Instead, the damaged portion of the ACL is pulled back into its original position. Because the ACL still needs time to heal and re-attach itself to the bone, the ACL may benefit from additional protection while it heals. A synthetic graft augment may be used for this purpose. 
+      A <b>reconstruction</b> of the ACL removes the original ligament entirely and replaces it with a new piece of tissue taken from elsewhere on your body. This tissue usually comes from the tendon of your hamstring muscle or the tendon that runs over your knee cap. Once harvested from the tendon site, this tissue is bundled up to match the size and strength of the ACL.  The tissue bundle is then anchored in place where the old, damaged ACL was removed. Because this technique requires tissue from another part of a patient’s own body, patients tend to have weakness or pain at the harvest site after surgery. In severe cases of ACL injury, reconstruction may be necessary. However, for moderate or mild injuries, some surgeons may opt to repair the ACL instead. <br>
+      <br> An ACL <b>repair</b> retains the original ligament and does not require tissue from another part of your body. Instead, the damaged portion of the ACL is pulled back into its original position. Because the ACL still needs time to heal and re-attach itself to the bone, the ACL may benefit from additional protection while it heals. A synthetic graft augment may be used for this purpose. 
     </div>
 </div>
 
