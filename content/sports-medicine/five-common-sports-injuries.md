@@ -1,7 +1,7 @@
 ---
 title: "The Five Most Common Sports Injuries"
 date: 2018-02-11T14:29:44-05:00
-description: "Common sports injuries include strains, sprains, splints, fractures, and dislocations."
+description: "Common sports injuries include strains, sprains, splints, fractures, and dislocations of the joints, such as the shoulders and knees"
 featuredImage: "images/featured-images/running-min-sized.jpg"
 ---
 

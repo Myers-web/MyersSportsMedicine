@@ -1,7 +1,7 @@
 ---
 title: "Meniscus Tears"
 date: 2018-02-11T14:47:24-05:00
-description: "The menisus is a piece of cartilage in the knee that cushions the joint. When the meniscus is torn, it may cause sensations of popping or clicking in the knee."
+description: "The meniscus is a piece of cartilage in the knee that cushions the joint. When the meniscus is torn it may cause sensations of popping or clicking in the knee"
 ---
 
 The menisci are small, “C”-shaped pieces of cartilage that act as cushions for the knee 

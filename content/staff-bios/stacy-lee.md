@@ -1,6 +1,6 @@
 ---
 title: "Stacy Lee"
-description: "Stacy Lee is an office secretary at Myers Sports Medicine and Orthopaedic Center"
+description: "Stacy Lee is an office secretary at Myers Sports Medicine and Orthopaedic Center. Stacy handles patient scheduling and patient check-in."
 pic: "images/staff-bios/stacy-lee.jpg"
 featuredImage: "images/featured-images/sports-sized.jpg"
 ---

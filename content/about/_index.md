@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Atlanta-based board-certified Orthopaedic Surgeon and Sports Medicine Expert Specializing in Shoulder and Knee Procedures. "
+description: "Dr. Myers is an Atlanta-based board-certified Orthopaedic Surgeon and Sports Medicine Expert Specializing in Shoulder and Knee Procedures. "
 featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 Our practice is a state of the art facility fully equipped with three exam suites, a complete physical therapy facility and a luxurious waiting room. A 

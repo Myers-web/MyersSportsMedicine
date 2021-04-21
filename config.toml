@@ -1,4 +1,6 @@
 baseurl = "http://localhost:1313"
+aliases = ["https://myerssportsmedicine.com",
+            "www.myerssportsmedicine.com"]
 languageCode = "en-us"
 title = "Myers Sports Medicine & Orthopaedic Center"
 
@@ -6,6 +8,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 relativeurls = true
+canonifyurls = true
 
 [[menu.main]]
     name = "Home"
@@ -137,12 +140,6 @@ relativeurls = true
     url = "sports-medicine/"
     parent = "edu"
     weight = 4
-
-[[menu.main]]
-    name = "Featured Procedures"
-    url = "procedures/"
-    parent = "edu"
-    weight = 5
 
 # Testimonials ------------------
 

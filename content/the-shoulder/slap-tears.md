@@ -1,7 +1,7 @@
 ---
 title: "Slap Tears"
 date: 2018-02-11T15:15:08-05:00
-description: ""
+description: "The most common form of labral tear in the shoulder is the SLAP tear. This tear may cause the shoulder to feel unstable, or like it is going to dislocate."
 ---
 A SLAP tear, also known as a superior labral tear, occurs when part of the shoulder joint known as the labrum is torn. The shoulder is similar to the hip in that they are both ball and socket 
 joints, but the shoulder joint is considerably more shallow and less stable as a result. The labrum helps overcome this instability by forming a "cup" that surrounds the head of the humerus and provides additional support. As a result, when the labrum is torn the shoulder may become considerably less stable. 

@@ -1,7 +1,7 @@
 ---
 title: "MAKOplasty"
 date: 2018-03-11T22:40:28-05:00
-description: "MAKOplasty is robot-assisted surgery designed to improve outcomes for patients requiring knee replacement."
+description: "MAKOplasty is robot-assisted surgery designed to improve outcomes for patients requiring knee replacement. This technique is used to treat osteoarthritis."
 pic: "images/makoplasty/rio-makoplasty.jpg"
 tags: ["mako", "newTech"]
 ---

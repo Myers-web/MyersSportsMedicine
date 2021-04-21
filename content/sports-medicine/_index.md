@@ -1,7 +1,7 @@
 ---
 title: "Sports Medicine"
 date: 2018-02-11T14:28:34-05:00
-description: "Sports medicine specialies in the diagnosis, treatment, and prevention of sports-related injuries"
+description: "Sports medicine specializes in the diagnosis, treatment, and prevention of sports-related injuries and aims to return athletes to play following treatment"
 tags: ["edu"]
 featuredImage: "images/featured-images/running-min-sized.jpg"
 pic: "images/sports-medicine/sports-medicine-img.jpg"

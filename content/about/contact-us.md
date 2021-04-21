@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-description: "Meet the staff of Myers Sports Medicine and Orthopaedic Center"
+description: "Meet the staff of Myers Sports Medicine and Orthopaedic Center, including our office staff, physician's assistant and physical therapy specialists."
 featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 {{% row %}}

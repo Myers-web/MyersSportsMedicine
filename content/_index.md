@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Myers Sports Medicine & Orthopaedic Center"
+description: "Dr. Thomas Myers is an Atlanta-Based Orthopaedic Surgeon specializing in Sports Medicine. Dr. Myers typically treats knee and shoulder injuries"
 featuredImage: ""
 ---
 Myers Sports Medicine & Orthopaedic Center (MSMOC) was 

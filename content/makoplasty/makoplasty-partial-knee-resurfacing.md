@@ -1,7 +1,7 @@
 ---
 title: "Makoplasty Partial Knee Resurfacing"
 date: 2018-03-08T12:48:14-05:00
-description: "Partial Knee resurfacing is an alternative to total knee replacement that preserves healthy knee anatomy"
+description: "Partial Knee resurfacing is an alternative to total knee replacement surgery that preserves healthy knee anatomy such as the ACL, PCL, MCL, and LCL. "
 pic: ""
 tags: ["mako"]
 ---

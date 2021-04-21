@@ -1,7 +1,7 @@
 ---
 title: "Makoplasty Total Hip Replacement"
 date: 2018-03-07T12:44:24-05:00
-description: "MAKOplasty may be used in Hip replacement surgery."
+description: "MAKOplasty is used in Hip replacement surgery. Robot guidance is used to perfect surgical technique and extend implant longevity, improving patient outcomes"
 pic: ""
 tags: ["mako"]
 ---

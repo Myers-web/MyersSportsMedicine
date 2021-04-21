@@ -1,7 +1,7 @@
 ---
 title: "Surviving 7: The Expert's Guide to ACL Surgery: Recovery, Rehabilitation, and Prevention"
 date: 2018-07-21T18:29:45-04:00
-description: "Jenna has endured a lifetime of ACL surgeries and has learned how to survive and thrive through all of the setbacks. Use her skills to make your ultimate comeback!"
+description: "Jenna has endured a lifetime of ACL surgeries and learned how to survive and thrive through all of the setbacks. Use her book to make your ultimate comeback"
 author: "Jenna Minecci"
 featuredImage: "images/featured-images/running-min-sized.jpg"
 pic: "images/book/JENN2.png"

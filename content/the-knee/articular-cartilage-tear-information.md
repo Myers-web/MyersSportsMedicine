@@ -1,7 +1,7 @@
 ---
 title: "Articular Cartilage Tear Information"
 date: 2018-02-11T14:44:03-05:00
-description: "Articular Cartilage allows for smooth interaction between bones in a joint. When cartilage is damaged, it can cause osteoarthritis"
+description: "Articular Cartilage allows for smooth interaction between bones in a joint. When cartilage is damaged, it can cause osteoarthritis or other injuries."
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Symptoms of a Rotator Cuff Tear"
 date: 2018-02-11T15:00:17-05:00
-description: ""
+description: "The rotator cuff provides stability to the shoulder as it moves. A torn rotator cuff is common in swimming, baseball, and bowling and may cause instability"
 ---
 
 <div class = "row">

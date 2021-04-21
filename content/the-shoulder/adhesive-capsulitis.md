@@ -1,7 +1,7 @@
 ---
 title: "Adhesive Capsulitis"
 date: 2018-02-11T15:17:33-05:00
-description: ""
+description: "Adhesive capsulitis occurs when the shoulder's range of motion is painful and significantly reduced due to scarring. This is commonly known as frozen shoulder"
 ---
 
 Adhesive capsulitis of the shoulder is characterized by a reduction in shoulder range of motion and pain with movement. This condition is commonly referred to as [frozen shoulder]({{< ref "frozen-shoulder.md" >}}), as the shoulder usually becomes "frozen" in place and may become difficult to move at all. The causes of adhesive capsulitis are somewhat unknown and the condition tends to develop without a specfic mechanism of injury.

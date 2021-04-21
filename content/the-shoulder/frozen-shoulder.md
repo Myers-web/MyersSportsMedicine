@@ -1,7 +1,7 @@
 ---
 title: "What is a Frozen Shoulder?"
 date: 2018-02-11T15:06:09-05:00
-description: ""
+description: "Frozen shoulder occurs due to scarring in the shoulder joint. It may occur due to shoulder injury, causing reduced range of motion and pain with movement."
 ---
 
 <div class = "row">

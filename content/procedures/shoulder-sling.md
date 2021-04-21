@@ -1,7 +1,7 @@
 ---
 title: "DonJoy UltraSling Quadrant"
 date: 2018-05-29T23:44:06-04:00
-description: "The DonJoy UltraSling Quadrant is a revolutionary shoulder brace that allows allows patients to maintain everyday function during their postoperative recovery."
+description: "The DonJoy UltraSling Quadrant is a revolutionary shoulder brace that allows allows patients to maintain everyday function during their postoperative recovery"
 featuredImage: "images/featured-images/running-min-sized.jpg"
 pic: "images/procedures/donjoy-ultrasling.jpg"
 ---

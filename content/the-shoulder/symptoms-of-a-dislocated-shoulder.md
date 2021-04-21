@@ -1,7 +1,7 @@
 ---
 title: "Symptoms of a Dislocated Shoulder"
 date: 2018-02-11T15:04:28-05:00
-description: ""
+description: "Shoulder dislocations occur when the humerus bone is forced out of place. This may cause additional damage to the shoulder and requires professional treatment"
 ---
 
 Shoulder dislocation is a relatively common injury in a wide variety of sports. 

@@ -1,7 +1,7 @@
 ---
 title: "Labral Tears"
 date: 2018-02-11T15:11:45-05:00
-description: ""
+description: "The labrum is a ring of cartilage that provides stability to the shoulder. When it is torn, it may pain with certain movements and a feeling of instability"
 ---
 
 The shoulder joint is similar to the hip as they are both ball and socket joints. However, the 

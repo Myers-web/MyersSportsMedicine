@@ -1,7 +1,7 @@
 ---
 title: "FAQs about Makoplasty"
 date: 2018-03-09T13:02:49-05:00
-description: "Frequently Asked Questions about MAKOplasty. MAKOPlasty utilizes robot assistance to improve outcomes for patients that require knee replacement surgery."
+description: "Frequently Asked Questions about MAKOplasty. Robot assistance allows for easier recovery in patients that require knee replacement due to osteoarthritis. "
 pic: ""
 tags: ["mako"]
 ---

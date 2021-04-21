@@ -1,7 +1,7 @@
 ---
 title: "ACL Animation"
 date: 2018-05-29T23:43:52-04:00
-description: "The video below demonstrates the ACL reconstruction surgical process in the knee. "
+description: "This video demonstrates the ACL reconstruction surgical process in the knee. This technique is used to fix the ACL when it has become torn or sprained"
 featuredImage: "images/featured-images/running-min-sized.jpg"
 pic: "images/procedures/acl-animation.jpg"
 ---

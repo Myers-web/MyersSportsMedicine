@@ -1,7 +1,7 @@
 ---
 title: "The Knee"
 date: 2018-02-11T14:41:18-05:00
-description: "Dr. Myers commonly treats injuries of the knee. This page provides information on the knee and some of its common injuries"
+description: "Dr. Myers commonly treats injuries of the knee. This page provides information on the knee and its anatomy, as well as some of its common injuries"
 tags: ["edu"]
 ---
 

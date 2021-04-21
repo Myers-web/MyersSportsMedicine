@@ -1,6 +1,6 @@
 ---
 title: "Michael Mcgrane"
-description: "Michael Mcgrane is an X-Ray specialist at Myers Sports Medicine and Orthopaedic Center"
+description: "Michael Mcgrane is an X-Ray specialist at Myers Sports Medicine and Orthopaedic Center. Mike has over 20 years of experience in orthopaedic radiology."
 pic: "images/staff-bios/michael-mcgrane.jpg"
 featuredImage: "images/featured-images/sports-sized.jpg"
 ---
