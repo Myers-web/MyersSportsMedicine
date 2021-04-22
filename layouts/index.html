@@ -2,7 +2,7 @@
 {{ partial "header" . }}
 {{ partial "main-top-base" . }}
 <div class="text-center">
-    {{ .Content }}
+    {{ .Content }}  
 </div>
 <div class="grid-2-top grid-1-bottom">
     {{ partial "about-myers" . }}
@@ -15,7 +15,6 @@
             <h1>Testimonials</h1>
         </div>
         {{ partial "book" . }}
-
         {{ with .Site.GetPage "section" "testimonials" }}
         <div class="text-center">
             <a class="btn-reg btn-a blue4 drop-shadow" href="{{ .URL | absURL }}">

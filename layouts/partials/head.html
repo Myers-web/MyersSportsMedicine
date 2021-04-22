@@ -26,4 +26,6 @@
     {{ range .Site.Params.custom_css -}}
       <link rel="stylesheet" href="{{ . | absURL }}">
     {{- end }}
+
+    <link rel="preload" href="/fonts/glyphicons-halflings-regular.woff2" as="font" type="font/woff2" crossorigin>
 </head>

@@ -1,9 +1,10 @@
-<main class="container" aria-role="main">
+<main class="container" aria-role="main" itemscope itemtype="https://schema.org/MedicalBusiness">
     <div class="grid-2-bottom">
         <div class="text-center">
             {{ if .IsHome }}
-                <div class="logo">
-                    <img src="{{ .Site.Params.logo | absURL }}" alt="MSMOC Logo">
+                <div class="logo" itemscope itemtype="https://schema.org/MedicalBusiness">
+                    <img src="{{ .Site.Params.logo | absURL }}" alt="MSMOC Logo" itemprop="logo">
+                  
                 </div>
             {{ end }}
             <h1 class="grid-2-top grid-1-bottom weak-center" >{{ .Title }}</h1>

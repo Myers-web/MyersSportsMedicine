@@ -2,7 +2,7 @@
 title: "PRP Injections"
 date: 2018-03-11T23:11:56-04:00
 description: "Platelet Rich Plasma injections are a revolutionary technology that uses natural healing factors to treat chronic injuries like tendinitis and epicondylitis"
-pic: "images/prp/DRAW.jpeg"
+pic: "images/prp/DRAW.jpg"
 featuredImage: "images/featured-images/running-min-sized.jpg"
 tags: ["newTech"]
 ---
@@ -33,7 +33,7 @@ Dr. Myers can perform this procedure in the office with minimal to no side effec
 <br>
   <div class="row">
     <div class="col-sm-6">
-        {{% image-card "Dr. Myers starts the procedure by drawing a small amount of blood" "images/prp/DRAW.jpeg" %}}
+        {{% image-card "Dr. Myers starts the procedure by drawing a small amount of blood" "images/prp/DRAW.jpg" %}}
     </div>
     <div class="col-sm-6">
        {{% image-card "The blood is centrifuged to separate its components and concentrate the plasma" "images/prp/centrifuge.jpg" %}}

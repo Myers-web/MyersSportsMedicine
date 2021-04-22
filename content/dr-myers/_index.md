@@ -6,7 +6,7 @@ pic: "images/dr-myers/myers-main.jpg"
 featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
-<span itemprop="name">Dr. Thomas H. Myers</span> is a board certified <span itemprop="jobTitle">orthopaedic surgeon</span> and sports medicineexpert. 
+<span itemprop="name">Dr. Thomas H. Myers</span> is a board certified <span itemprop="jobTitle">orthopaedic surgeon</span> and sports medicine expert. 
 He moved to <span itemprop="location"> Atlanta </span> to practice in 2003 after completing a year long fellowship with 
 world-renowned orthopaedic surgeon <span itemprop="colleague">Dr. James Andrews.</span>  While training with Dr. Andrews, 
 Dr. Myers assisted in the care of marquis athletes from all areas of professional and 
