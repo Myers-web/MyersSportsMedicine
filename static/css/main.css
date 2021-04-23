@@ -127,22 +127,26 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 22px;
+    font-display: swap;
 }
 
 .open-sans-bold {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
+    font-display: swap;
 }
 
 .oswald {
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
+    font-display: swap;
 }
 
 .oswald-bold {
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
     font-weight: bold;
+    font-display: swap;
 }
 
 .white-border {
