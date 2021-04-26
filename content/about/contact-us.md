@@ -34,7 +34,7 @@ Our office hours are as listed:
         </span> <br> <br>
     <h2> Location </h2> 
         <a href="https://goo.gl/maps/twBriga4J2y">3200 Downwood Cir NW #340 </a> 
-        <br>
+        <br> 
         {{% facebook %}}
 </div>
 {{% /row %}}
