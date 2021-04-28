@@ -27,7 +27,7 @@ description: "The rotator cuff provides stability to the shoulder as it moves. A
 <hr>
 Acute tears of the rotator cuff usually result from a quick, sudden, and powerful movement such as following through on a baseball pitch or a sudden thrust with a canoe paddle.
 
-##### Symptoms for acute rotator cuff tears include the following:
+#### Symptoms for acute rotator cuff tears include the following:
 * A sudden tearing/ripping sensation on the shoulder followed by severe pain
 * Pinpoint tenderness over the point of rupture
 * Limited movement due to pain or spasms

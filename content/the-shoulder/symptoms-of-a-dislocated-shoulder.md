@@ -24,7 +24,7 @@ To reduce the risk of repeated dislocations, it is recommended that patients see
 
 <br>
 
-### Dislocated Shoulder Symptoms
+## Dislocated Shoulder Symptoms
 <hr>
 * Injury is usually acute, produced by direct or indirect trauma such as a fall
 * A sudden onset of severe pain

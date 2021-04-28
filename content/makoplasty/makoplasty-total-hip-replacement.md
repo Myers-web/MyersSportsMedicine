@@ -10,13 +10,13 @@ MAKOplasty&reg; [Total Hip Replacement](https://patients.stryker.com/hip-replace
 
 <br>
 
-### Who is a Candidate for MAKOplasty&reg;?
+## Who is a Candidate for MAKOplasty&reg;?
 <hr>
 If your symptoms aren’t responding to non-surgical solutions, or your pain can no longer be controlled by medication, you may be a candidate for MAKOplasty&reg; Total Hip Replacement.
 
 <br>
 
-### A candidate for MAKOplasty&reg; Total Hip Replacement may experience the following:
+## A candidate for MAKOplasty&reg; Total Hip Replacement may experience the following:
 <hr>
 Pain while putting weight on the affected hip
 Limping to lessen the weight-bearing pressure on the affected hip
@@ -26,7 +26,7 @@ Failure to respond to non-surgical treatments or nonsteroidal anti-inflammatory 
 
 <br>
 
-### How does MAKOplasty&reg; Work?
+## How does MAKOplasty&reg; Work?
 <hr>
 If your surgeon determines that you are a good candidate for the MAKOplasty&reg; procedure, a CT Scan will be taken of your hip one to two weeks prior to surgery. This is used to create a patient specific 3-D model. A surgical plan is then created for the placement and alignment of the implants before surgery.
 

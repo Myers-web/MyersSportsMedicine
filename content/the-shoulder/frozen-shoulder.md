@@ -18,7 +18,7 @@ description: "Frozen shoulder occurs due to scarring in the shoulder joint. It m
 </div>    
 
 <br>
-### Common Symptoms of a Frozen Shoulder:
+## Common Symptoms of a Frozen Shoulder:
 <hr>
 * Limited and restricted movement of the shoulder
 * Constant, dull aching shoulder pain that does not subside
@@ -26,7 +26,7 @@ description: "Frozen shoulder occurs due to scarring in the shoulder joint. It m
 * Difficulty doing simple tasks such as tying a shoe or brushing your hair
 
 <br>
-### Causes of a Frozen Shoulder
+## Causes of a Frozen Shoulder
 <hr>
 Generally, frozen shoulders occur without an associated injury or cause. It is possible for a patient to develop a frozen shoulder after some sort of injury, but most occurences do not have a specific mechanism of injury.
 
@@ -47,7 +47,7 @@ Other conditions such as Parkinson’s or heart disease have been linked to incr
 It is not fully understood how or why frozen shoulder occurs. In many cases, the shoulder joint becomes stiff and scarred without any clear method of injury. 
 
 <br>
-### Frozen Shoulder Treatments
+## Frozen Shoulder Treatments
 <hr>
 
 <div class = "row">
@@ -70,6 +70,6 @@ It is not fully understood how or why frozen shoulder occurs. In many cases, the
 
 <br>
 
-### Frozen Shoulder Surgery
+## Frozen Shoulder Surgery
 <hr>
 Surgery for a frozen shoulder is typically unnecessary, as most frozen shoulders can be successfully treated using the aforementioned methods. However, if conservative treatments do not alleviate patients' symptoms, the surgeon may choose to perform manipulation under anesthesia. During this procedure, the surgeon moves the arm through its range of motion to break adhesions caused by the shoulder. No actual incisions are made, and it is an outpatient operation. 

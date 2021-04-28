@@ -13,7 +13,7 @@ Tthe knee supports nearly the entire weight of the body, and as a result it is p
 {{% image-center-ns "The Knee" "images/the-knee/knee.jpg" %}}
 <br>
  
-### Function Of The Knee
+## Function Of The Knee
 <hr>
 The knee functions as a living, self-maintaining, biologic transmission, designed to accept and transfer biomechanical loads between the femur, tibia, patella, and 
 fibula. In this analogy, the ligaments represent non-rigid adaptable sensate linkages, used to hold everything together within 
@@ -22,7 +22,7 @@ as mobile bearings, smoothing out interactions between all the moving parts. The
 
 <br>
 
-### Knee Anatomy
+## Knee Anatomy
 <hr>
 The knee itself is actually comprised of two joints, known as the femoro-patellar and femoro-tibial joints. 
 
@@ -36,5 +36,5 @@ The femoro-tibial joint links the femur, or thigh bone, with the tibia, the main
 
 <br>
 
-### Knee Related Articles
+## Knee Related Articles
 <hr>

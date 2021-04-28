@@ -10,7 +10,7 @@ The RIO&reg; Robotic Arm Interactive Orthopedic System features three dimensiona
 
 <br>
 
-### RIO&reg; Features:
+## RIO&reg; Features:
 <hr>
 Accurately plan implant size, orientation and alignment utilizing CT-derived 3-D modeling
 Enabling the pre-resection capture of patient-specific kinematic tracking through full flexion and extension

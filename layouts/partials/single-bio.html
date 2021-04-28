@@ -1,6 +1,6 @@
 <a href="{{ .URL | absURL }}">
     <div class ="bio-card col-center" style="border: 2px solid white">
-        <img class="bio-pic" src="{{ .Param "pic" | absURL }}" style="margin-bottom:10px">
+        <img class="bio-pic" src="{{ .Param "pic" | absURL }}" style="margin-bottom:10px" alt="{{ .Title }}">
             <p>{{ .Title }}</p>
     </div>
 </a> 

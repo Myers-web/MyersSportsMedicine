@@ -15,13 +15,13 @@ MAKOplasty Partial Knee Resurfacing is an advanced partial knee surgery performe
 
 <br>
 
-### What are the benefits of MAKOplasty&reg;?
+## What are the benefits of MAKOplasty&reg;?
 <hr>
 Partial knee replacement can be a challenging procedure to perform accurately on a consistent basis using manual techniques. Robotic arm assisted MAKOplasty enables consistent results and more accurate implant placement – which is an important factor in the life expectancy of implants. In an ongoing study, MAKOplasty resulted in both greater accuracy in implant placement and less pain in the first eight weeks post-surgery compared to manual partial knee replacement using Oxford&reg; implants. (1) Another study found that unicompartmental MAKOplasty patients who received RESTORIS&reg; MCK Medial Onlay implants, showed a very low failure rate of only 0.4% at two years (2), which is nine times lower than that of manual surgery. The study was conducted by four surgeons, who evaluated 201 patients (224 knees).
 
 <br>
 
-### How does MAKOplasty&reg; Work?
+## How does MAKOplasty&reg; Work?
 <hr>
 Before surgery, a CT scan is taken of the patient’s knee, and a 3D model created using the RIO system’s software. From this model, a pre-surgical plan is developed for the positioning of implants based on that patient’s unique anatomy.
 

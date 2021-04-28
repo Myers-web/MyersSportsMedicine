@@ -10,7 +10,7 @@ featuredImage: "images/featured-images/sports-sized.jpg"
 
 <br>
 
-### Vision
+## Vision
 <hr style="margin-bottom:10px;">
 To be a top destination site for sports medicine and orthopaedic care. 
 
@@ -22,19 +22,19 @@ Key components to a destination site include:
 
 <br>
 
-### Mission
+## Mission
 <hr style="margin-bottom:10px;">
 Based on the statement: *“I do not care how much you know until I know how much you care,”* we will provide our patients/athletes access to experts who truly care about their wellbeing. 
 
 <br>
 
-### Our Culture
+## Our Culture
 <hr style="margin-bottom:10px;">
 To be disciplined, passionate and enthusiastic in providing clinical excellence with individuals who care about each other and the experience of our patients.  Furthermore, we will strive to accurately diagnose/assess and manage sports/orthopedic injuries while making the experience of physical therapy fun, energetic and educational.  
 
 <br>
 
-### Who We Are
+## Who We Are
 <hr style="margin-bottom:10px;">
 Our professional staff includes Doctors of Physical Therapy, Physical Therapy Assistants and Athletic Trainers.  We also work directly with pediatric sports medicine physicians and orthopaedic surgeons with fellowship training in sports medicine.  All our medical professionals have extensive training in sports medicine and are recognized experts throughout the Southeast.
 
@@ -42,7 +42,7 @@ Our professional staff includes Doctors of Physical Therapy, Physical Therapy As
 
 <br>
 
-### What We Do
+## What We Do
 <hr style="margin-bottom:10px;">
 Georgia Sports Medicine Specialists provides a comprehensive approach to sports medicine and orthopaedics.  This includes: 
 
@@ -58,7 +58,7 @@ As orthopedic and sports medicine experts, our Doctors of Physical Therapy condu
 
 <br>
 
-### A Testimony To Our Practice
+## A Testimony To Our Practice
 <hr style="margin-bottom:10px;">
 * *“Dr. Brakeville and his staff do a great job with athletes both young and old.  He really understands injury patterns and the biomechanics associated with them, helping to return to the athletic field quickly but safely”* - David Marshall, MD: Pediatric sports medicine physician with Children’s Orthopedics of Atlanta
 
@@ -70,7 +70,7 @@ As orthopedic and sports medicine experts, our Doctors of Physical Therapy condu
 
 <br>
 
-### In Addition
+## In Addition
 <hr style="margin-bottom:10px;">
 * In house providers of physical therapy for Myers Sports Medicine and Orthopaedic Center
 * We are a sports medicine resource for medical professionals throughout the Metro Atlanta area
@@ -78,5 +78,5 @@ As orthopedic and sports medicine experts, our Doctors of Physical Therapy condu
 
 <br>
 
-### Referral Algorithm
+## Referral Algorithm
 {{% image-full "Referral Algorithm" "images/physical-therapy/referral-algorithm.png" %}}

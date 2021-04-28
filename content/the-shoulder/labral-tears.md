@@ -19,14 +19,14 @@ deeper. This cuff of cartilage allows the shoulder to have a wide range of movem
 
 <br>
 
-### What is a labral tear?
+## What is a labral tear?
 <hr>
 The labrum is a thick tissue and can be injured by trauma to the shoulder joint. As a person 
 ages, the labrum becomes more brittle and the aging process can cause fraying or tears. When the labrum becomes torn or frayed, it can cause pain with movements and a loss of stability in the shoulder.
 
 <br>
 
-### Labral Tear Symptoms
+## Labral Tear Symptoms
 <hr>
 
 Labral tear symptoms depend on the location of the tear, but can include:
@@ -38,7 +38,7 @@ Labral tear symptoms depend on the location of the tear, but can include:
 
 <br>
 
-### Common Types of Labral Tears
+## Common Types of Labral Tears
 <hr>
 <div class = "row">
     <div class = "col-sm-8">
@@ -54,7 +54,7 @@ Labral tear symptoms depend on the location of the tear, but can include:
 </div>    
 <br>
 
-### Labral Tear Treatment
+## Labral Tear Treatment
 <hr>
 There are different treatments for different types of labral tears, depending on the type of 
 tear that has occurred. Most types of labral tears don’t require any type of surgery, 

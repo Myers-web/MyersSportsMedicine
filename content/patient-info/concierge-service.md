@@ -4,7 +4,7 @@ description: "Myers Sports Medicine offers a Concierge Service at West Paces Off
 featuredImage: "images/featured-images/knee-sized.jpg"
 ---
 
-### Benefits
+## Benefits
 <hr>
 
 **No wait time.** <br>
@@ -27,7 +27,7 @@ immediately emailed to patient’s phone prior to discharge from the office.
 **Parking validation.**
 
 <br>
-### Why Concierge Services?
+## Why Concierge Services?
 <hr>
 Dramatic changes in our country’s health care system have created many challenges for 
 private practices. Like others, we have seen our waiting times increase as our practice 
@@ -41,7 +41,7 @@ We greatly appreciate your ongoing confidence in our doctors and the role you ha
 in our growth through your referrals.
 
 <br>
-### Cost vs. Value
+## Cost vs. Value
 <hr>
 These expedited evaluations are offered as an additional out-of-pocket cost to our 
 clients for whom “time is money”. We hope the time-savings will help you meet other 

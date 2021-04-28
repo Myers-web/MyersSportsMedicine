@@ -6,7 +6,7 @@ description: "Articular Cartilage allows for smooth interaction between bones in
 
 
 
-### What is articular cartilage?
+## What is articular cartilage?
 <hr>
 Articular cartilage, also known as hyaline cartilage, is a very smooth yet hard material 
 made up of the protein collagen. The cartilage is located on a bone’s articulating surfaces 
@@ -17,7 +17,7 @@ interaction between two bones in joints such as the knee.
 
 <br>
 
-### How does articular cartilage get injured?
+## How does articular cartilage get injured?
 <hr>
 Damage to the articular cartilage may occur as an isolated incident or may develop due to another knee injury. 
 For example, ACL (anterior cruciate ligament) injuries are commonly associated with damage 
@@ -29,7 +29,7 @@ Articular cartilage may also be damaged due to forceful impact to a joint, such 
 
 <br>
 
-### Articular Cartilage Regeneration and Repair
+## Articular Cartilage Regeneration and Repair
 <hr>
 Regeneration of articular cartilage is an ongoing area of study in the field of orthopaedics. 
 While there are currently no methods of reliably regenerating cartilage, there do exist methods of treatment. 

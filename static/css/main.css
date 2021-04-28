@@ -226,7 +226,7 @@ hr {
     color: inherit;
 }
 
-h1, h2 {
+h1,h3 {
     color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
@@ -234,13 +234,12 @@ h1, h2 {
     font-size: 35px;
 }
 
-h3 {
+h2 {
     color: black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     margin-top: 0px;
-    font-size: 20px;
-}
+    font-size: 20px;}
 
 .strong-center {
     padding-left: 15%;
@@ -275,7 +274,7 @@ h3 {
 }
 
 @media only screen and (max-width: 700px)  {
-    h1, h2 {
+    h1, h2, h3 {
         font-size: 25px;
     }
 
@@ -301,7 +300,7 @@ h3 {
 }
 
 .navbar span:hover {
-    color: black;
+    color: rgba(165, 163, 163, 0.982);
 }
 
 .navbar .dropdown-item:hover {
@@ -313,10 +312,10 @@ h3 {
 }
 
 .nav-item {
-    -moz-transition: all .4s ease-in;
-    -o-transition: all .4s ease-in;
-    -webkit-transition: all .4s ease-in;
-    transition: all .4s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    transition: all .3s ease-in;
 }
 
 .nav-item:hover {
@@ -497,23 +496,21 @@ header, footer {
     border-width: 5px;
     border-color: rgb(15, 59, 84);
     background-color: white;
-    margin-bottom: 50px;
-    min-height: 350px;
+    margin-bottom: 15px;
+    min-height: 250px;
 }
 
 .insurance-panel img {
     margin-top: 5px;
 }
 
-.insurance-header:hover {
-    background-color: rgb(10, 47, 66);
-}
-
-.insurance-header h1 {
+.insurance-header h2 {
+    margin-top:10px;
     color: white;
 }
 
-.insurance-header h1:hover {
+.insurance-header h2:hover {
+    margin-top:10px;
     color: gray;
 }
 
@@ -612,11 +609,7 @@ header, footer {
     color: rgba(205, 203, 203, 0.982);
 }
 
-.page-footer h1 {
-    color: white;
-}
-
-.page-footer h2 {
+.page-footer h1,h3 {
     color: white;
 }
 

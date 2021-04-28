@@ -18,7 +18,7 @@ injuries, like landing from a jump, running, pivoting, or overextending the knee
 
 <br>
 
-### ACL Tear Symptoms
+## ACL Tear Symptoms
 <hr>
 Symptoms of an ACL tear will vary based on how severe the tear is and whether or not additional injuries were received alongside the original injury.
 

@@ -10,7 +10,7 @@ to your health, all sports carry some risk of injury. The severity of these inju
 serious, with some more severe injuries requiring surgery to fully correct. Injury can result from poor training practices, improper equipment, flawed techniques, or simply by accident. Improper conditioning, such as insufficent warm-up or stretching of muscles before exercise, may also cause injury. Five of the most common sports-related injuries are:
 
 <br>
-<h3>Sprains and Strains</h3>
+<h2>Sprains and Strains</h2>
 <hr>
     <div class ="container no-gutters">
         <div class = "col-sm-7 no-padding-left">
@@ -25,13 +25,13 @@ serious, with some more severe injuries requiring surgery to fully correct. Inju
         </div>
     </div>    
 <br>
-<h3>Knee Injuries</h3> 
+<h2>Knee Injuries</h2> 
 <hr>
     Every year, over five million people visit orthopedic surgeons for knee-related injuries. Mild knee injuries include iliotibial (IT) band syndrome, runner’s knee (tenderness or pain near the front of the knee cap), or tendonitis (degeneration or inflammation within a tendon). Severe injuries can involve damage or bruising to cartilage or ligaments that provide stability to the knee. The four major ligaments in the knee that are commonly injured are the posterior cruciate ligament (PCL), the medial collateral ligament (MCL), anterior cruciate ligament (ACL), and the lateral collateral ligament (LCL).
 
 <br>
 
-<h3>Shin Splints</h3>
+<h2>Shin Splints</h2>
 <hr>
     <div class ="container no-gutters">
         <div class = "col-sm-3 no-padding-left">
@@ -47,7 +47,7 @@ serious, with some more severe injuries requiring surgery to fully correct. Inju
     
 <br>
 
-<h3>Fractures</h3> 
+<h2>Fractures</h2> 
 <hr>
     <div class ="container no-gutters">
         <div class = "col-sm-7 no-padding-left">
@@ -63,7 +63,7 @@ serious, with some more severe injuries requiring surgery to fully correct. Inju
 
 <br>
 
-<h3>Dislocations</h3> 
+<h2>Dislocations</h2> 
 <hr>
     Dislocations, also known as luxations, occur when excessive force pushes the bones in a joint out of alignment. Contact sports such as football or activities such as agressive stretching or falling can cause dislocations. While it may be possible for an untrained person to "pop" the dislocated bones back into place, improper technique can lead to severe damage to the connective tissue surrounding the joint. As a result, dislocations are typically considered an emergency and will usually require treatment by a medical professional to correct. 
     The most common joints that may become dislocated are the fingers and hand, as well as the shoulder. Elbows, knees, and hips can be dislocated but are less common.

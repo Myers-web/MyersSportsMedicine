@@ -13,7 +13,7 @@ Chondrocalcinosis, Osteoarthritis, Gout, Lyme arthritis, and Ganglion Cysts are 
 
 <br>
 
-### Cause of Injury/Pain
+## Cause of Injury/Pain
 <hr style="margin-bottom:0px;">
 {{% row %}}
 {{% column sm 6 %}}
@@ -56,7 +56,7 @@ Chondrocalcinosis, Osteoarthritis, Gout, Lyme arthritis, and Ganglion Cysts are 
 <br>
 
 
-### Diagnosing Shoulder Problems
+## Diagnosing Shoulder Problems
 <hr>
 The art of diagnosing shoulder problems involves correlating a patient's history and the results from a series of comprehensive shoulder exams. Understanding not only the symptoms, but the method of injury and its effect on the joint's strength, motion, and flexibility are vital to diagnosing any orthopedic condition.
 
@@ -72,5 +72,5 @@ Initiating early treatment for shoulder problems is often the best course of act
 
 <br>
 
-### Shoulder Related Articles
+## Shoulder Related Articles
 <hr>

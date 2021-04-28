@@ -10,7 +10,7 @@ tags: ["newTech"]
 
 ACL Repair is a revolutionary technique that allows patients to return to function sooner following surgery. Dr. Myers employs the use of a synthetic graft to strengthen the ACL and protect it during the recovery, improving patient outcomes and reducing the chances of re-injury.  
 <br>
-### What is an ACL? What happens when it's injured?
+## What is an ACL? What happens when it's injured?
 <hr style="margin-bottom:20px;">
 
 <div class="row weak-center">
@@ -23,7 +23,7 @@ ACL Repair is a revolutionary technique that allows patients to return to functi
 </div>
 
 <br>
-### What's the difference between ACL Reconstruction and Repair?
+## What's the difference between ACL Reconstruction and Repair?
 <hr style="margin-bottom:20px;">
 <div class="row weak-center">
     <div class="col-sm-5 ">
@@ -37,7 +37,7 @@ ACL Repair is a revolutionary technique that allows patients to return to functi
 
 <br>
 
-### What is a synthetic graft augment? How does it help my ACL heal?
+## What is a synthetic graft augment? How does it help my ACL heal?
 <hr>
 <div class = "container weak-center">
 Once repaired, the ACL needs time to heal and re-attach itself to the bone. To reduce the risk of injury during this critical healing period, a synthetic augment device, also called a synthetic graft augment, may be used to protect the ligament. When repairing an ACL, Dr, Myers uses a synthetic graft augment developed by the Marietta, Georgia-based company 

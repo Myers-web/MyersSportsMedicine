@@ -6,7 +6,7 @@ pic: "images/makoplasty/rio-makoplasty.jpg"
 tags: ["mako", "newTech"]
 ---
 
-### What is MAKOplasty&reg;?
+## What is MAKOplasty&reg;?
 <hr>
 MAKOplasty&reg; Partial Knee Resurfacing and MAKOplasty&reg; Total Hip Replacement are 
 enabled by the surgeon controlled RIO® robotic arm system, offering increased accuracy to 
@@ -14,7 +14,7 @@ optimize surgical results.
 
 <br>
 
-### MAKOplasty&reg; Partial Knee Resurfacing
+## MAKOplasty&reg; Partial Knee Resurfacing
 <hr>
 [Partial Knee Replacement](https://patients.stryker.com/knee-replacement/options/mako-robotic-arm-assisted-partial-knee) is a treatment option for adults living with early-to mid-stage 
 osteoarthritis (OA) that has not progressed to all three compartments of the knee. 
@@ -43,7 +43,7 @@ knee while sparing the healthy bone and ligaments surrounding it. Partial knee r
 
 <br>
 
-### MAKOplasty&reg; Total Hip Replacement
+## MAKOplasty&reg; Total Hip Replacement
 <hr>
 MAKOplasty&reg; Total Hip Replacement is a breakthrough solution for adults suffering 
 from painful degenerative joint disease of the hip who need a [total hip replacement](https://patients.stryker.com/hip-replacement/procedures/mako-robotic-arm-assisted). It 

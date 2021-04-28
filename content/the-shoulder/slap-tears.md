@@ -12,7 +12,7 @@ The most common form of labral tear is the SLAP tear, which stands for Superior 
 
 <br>
 
-### How do SLAP Tears Occur?
+## How do SLAP Tears Occur?
 <hr>
 SLAP tears are commonly associated with activities like lifting heavy objects, falling onto an outstretched hand, 
 or repetitive overhead actions, such as throwing a football or baseball.
@@ -23,7 +23,7 @@ heal easier because there is more of a blood supply in the area.
 
 <br>
 
-### Symptoms of a Superior Labral (SLAP) Tear
+## Symptoms of a Superior Labral (SLAP) Tear
 <hr>
 Symptoms of a SLAP tear include a painful ‘catching’ sensation when moving the shoulder, 
 usually associated with overhead movements such as throwing. Patients also commonly report pain deep within the 
@@ -31,7 +31,7 @@ shoulder or in the back of the shoulder joint.
 
 <br>
 
-### Diagnosing a SLAP Tear
+## Diagnosing a SLAP Tear
 <hr>
 Diagnosis of a SLAP tear begins by taking a patient history and performing physical examination tests. Your physician will usually ask specific questions to help indentify symptoms associated with a SLAP tear and how the injury occured.
 
@@ -39,7 +39,7 @@ Because there are a wide variety of shoulder complications, MRI scan may be used
 
 <br>
 
-### Treatment of a SLAP Tear
+## Treatment of a SLAP Tear
 <hr>
 Depending on the severity of the tear, your physician may opt for conservative treatment before resorting to surgery. Symptoms of minor tears may be improved with a regimen of phyiscal therapy and anti-inflammatory drugs. Patients must enusre that they continue physical therapy exercises following the end of their regimen to ensure the tear does not get worse. 
 

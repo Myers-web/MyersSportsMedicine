@@ -9,7 +9,7 @@ featuredImage: "images/featured-images/sports-sized.jpg"
 </div>
 
 <div class="col-md-3" itemscope itemtype="https://schema.org/MedicalBusiness">
-<h2> Hours </h2>
+<h1> Hours </h1>
 
 Our office hours are as listed:
 <span itemprop="openingHours">
@@ -24,7 +24,7 @@ Our office hours are as listed:
 </div>
 
 <div class="col-md-3" itemscope itemtype="https://schema.org/MedicalBusiness">
-    <h2> Contact </h2>
+    <h1> Contact </h1>
         <span itemprop="contactPoint">
             Call Us: (404) 352-8156  
         <span itemprop="faxNumber"> 
@@ -32,7 +32,7 @@ Our office hours are as listed:
             Fax Us: (404) 350-9405  
         </span>
         </span> <br> <br>
-    <h2> Location </h2> 
+    <h1> Location </h1> 
         <a href="https://goo.gl/maps/twBriga4J2y">3200 Downwood Cir NW #340 </a> 
         <br> 
         {{% facebook %}}

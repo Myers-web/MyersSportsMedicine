@@ -8,7 +8,7 @@ Adhesive capsulitis of the shoulder is characterized by a reduction in shoulder 
 
 <br>
 
-### What are the Symptoms of Adhesive Capsulitis?
+## What are the Symptoms of Adhesive Capsulitis?
 <hr>
 A shoulder should be able to move in all directions without any stiffness or pain. However, when adhesiv capsulitis develops, the following movements may become more difficult or even painful:
 
@@ -20,7 +20,7 @@ A shoulder should be able to move in all directions without any stiffness or pai
 
 <br>
 
-### What are the Causes of Adhesive Capsulitis?
+## What are the Causes of Adhesive Capsulitis?
 <hr>
 Adhesive capsulitis often occurs during periods of inactivity due to other injuries, such as a torn rotator cuff, broken arm, or surgery recovery. The inflammation of the shoulder joint caused by such injuries may increase the chances of developing adhesive capsulitis if it goes untreated. This inflammation may cause the connective 
 tissue in your shoulder joint to tighten, restricting movement of the joint and promoting the formation of adhesions. Age and demographic may also contribute to an increased risk of adhesive capsulitis, with adults over 40, especially women, more prone to this complication. 

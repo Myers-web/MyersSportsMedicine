@@ -8,7 +8,7 @@ The menisci are small, “C”-shaped pieces of cartilage that act as cushions f
 joint. Each knee has both a medial (inner, towards the midline of the body) and lateral (outer) meniscus, both sitting on top of the tibia (shin bone).
 <br>
 
-### How does a Meniscus Become Torn?
+## How does a Meniscus Become Torn?
 <hr>
 A meniscus tear usually occurs during movements that forcefully rotate the knee while the 
 knee is bearing weight, which results in the piece of cartilage being torn. If the foot is 
@@ -18,7 +18,7 @@ tear of the meniscus could occur. This is common in sports that require cutting 
 {{% image-center-ns "Meniscus Tear" "images/the-knee/meniscus-tear.gif" %}}
 <br>
 
-### Meniscus Tear Symptoms
+## Meniscus Tear Symptoms
 <hr>
 When a meniscus is injured or torn, mild to severe pain (especially when the knee is 
 straightened) occurs depending on how big the tear is. When a torn meniscus fragment 
@@ -30,7 +30,7 @@ meniscus injuries benefit from surgical repair.
 
 <br>
 
-### Diagnosis and Treatment of Meniscus Tears
+## Diagnosis and Treatment of Meniscus Tears
 <hr>
 When a diagnosing a possible meniscus tear, the physician takes a complete history and performs a 
 physical examination of the patient. The extent of the injury is often possible to determine using physical exam techniques that involve manipulating the knee joint in different ways. Using these techniques, the physician looks for pops, clicks, or pain with certain movements that may suggest a meniscus tear.
