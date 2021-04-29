@@ -9,9 +9,9 @@
     <title>{{.Site.Title}}</title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=1, shrink-to-fit=no' name='viewport' />
     <!-- CSS Files -->
-    <link href="{{ "css/bootstrap.min.css" | absURL }}" rel="stylesheet"  />
-    <link href="{{ "css/bootstrap-theme.min.css" | absURL }}" rel="stylesheet"  />
-    <link href="{{ "css/main.css" | absURL }}" rel="stylesheet" />
+    <link href="{{ "css/bootstrap.min.css" | absURL }}" rel="stylesheet"   />
+    <link href="{{ "css/bootstrap-theme.min.css" | absURL }}" rel="stylesheet"   />
+    <link href="{{ "css/main.min.css" | absURL }}" rel="stylesheet" />
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet"  media="print" onload="this.media='all'; this.onload=null;">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:600,800&display=swap" rel="stylesheet"  media="print" onload="this.media='all'; this.onload=null;">
@@ -26,7 +26,7 @@
     <meta property="og:image" content="static/images/dr-myers">
 
     <!-- Add fancyBox -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"  media="print" onload="this.media='all'; this.onload=null;" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" media="print" onload="this.media='all'; this.onload=null;"/>
 
     <!-- Featured Photos -->
     <style>
@@ -34,7 +34,7 @@
     </style>
 
     {{ range .Site.Params.custom_css -}}
-      <link rel="stylesheet" href="{{ . | absURL }}">
+      <link rel="stylesheet" href="{{ . | absURL }}" media="print" onload="this.media='all'; this.onload=null;">
     {{- end }}
 
     <link rel="preload" href="/fonts/glyphicons-halflings-regular.woff2" as="font" type="font/woff2" crossorigin>
