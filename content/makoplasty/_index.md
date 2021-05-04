@@ -34,7 +34,7 @@ knee while sparing the healthy bone and ligaments surrounding it. Partial knee r
     </div>
   </div>
 
-#### MAKOplasty&reg; Partial Knee Resurfacing Benefits May Include:
+### MAKOplasty&reg; Partial Knee Resurfacing Benefits May Include:
 * Preservation of healthy tissue and bone — only diseased portions are removed
 * Optimal implant positioning
 * Less pain
@@ -50,7 +50,7 @@ from painful degenerative joint disease of the hip who need a [total hip replace
 is powered by the surgeon-controlled RIO® Robotic Arm System, which enables more accurate 
 implant placement, which may reduce complications, such as implant wear and dislocation.
 
-#### MAKOplasty® Total Hip Replacement Benefits May Include:
+### MAKOplasty® Total Hip Replacement Benefits May Include:
 * Accurate placement of your hip implant, which can reduce the likelihood of hip dislocation
 * More consistency in leg length, potentially decreasing the need for a shoe lift
 * Decreased risk of impingement and dislocation, this may improve the life expectancy of the hip replacement

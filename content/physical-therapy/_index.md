@@ -77,6 +77,6 @@ As orthopedic and sports medicine experts, our Doctors of Physical Therapy condu
 * We provide physical therapy management for several medical professionals and their families
 
 <br>
-
 ## Referral Algorithm
+<hr>
 {{% image-full "Referral Algorithm" "images/physical-therapy/referral-algorithm.png" %}}

@@ -9,3 +9,4 @@ understand the specific types of treatments that are offered. Patients enjoy the
 an online past medical history form rather than spending hours filling out meaningless 
 paperwork. An electronic medical record system is used which assists in the quick 
 turnover of medical notes and referrals.
+<br><br>

@@ -27,7 +27,7 @@ description: "The rotator cuff provides stability to the shoulder as it moves. A
 <hr>
 Acute tears of the rotator cuff usually result from a quick, sudden, and powerful movement such as following through on a baseball pitch or a sudden thrust with a canoe paddle.
 
-#### Symptoms for acute rotator cuff tears include the following:
+### Symptoms of an acute rotator cuff tear may include:
 * A sudden tearing/ripping sensation on the shoulder followed by severe pain
 * Pinpoint tenderness over the point of rupture
 * Limited movement due to pain or spasms
@@ -40,7 +40,7 @@ Acute tears of the rotator cuff usually result from a quick, sudden, and powerfu
 <hr>
 Chronic rotator cuff tears develop over an extended period of time and may be caused by repetitive motion or overuse. These tears usually occur at or near the tendon due to the tendon rubbing the overlying bone, causing fraying of the tendon and potentially a larger tear if untreated.
 
-##### Symptoms for chronic rotator cuff tears include the following:
+### Symptoms of a chronic rotator cuff tear may include:
 * Usually found on the dominant side
 * Pain is worse at night; may affect sleeping
 * Usually in people age 40 and over

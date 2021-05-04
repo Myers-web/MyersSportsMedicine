@@ -32,11 +32,11 @@ Piedmont West Outpatient Surgery Center
 ## Fellowships
 <hr>
 
-#### Sports Medicine
+### <b>Sports Medicine</b>
 American Sports Medicine Institute
 Birmingham, Alabama
 
-#### Orthopaedic Trauma
+### <b>Orthopaedic Trauma</b>
 Harvard School of Medicine
 Boston, MA  
 
@@ -45,7 +45,7 @@ Boston, MA
 ## Postgraduate Training
 <hr>
 
-#### Orthopaedic Residency
+### <b>Orthopaedic Residency</b>
 Harvard School of Medicine
 Boston, MA
 

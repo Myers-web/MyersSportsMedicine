@@ -1,5 +1,5 @@
 ---
-title: "Robotic Arm Interactive Orthopedic System Rio"
+title: "Robotic Arm Interactive Orthopedic (RIO) System"
 date: 2018-03-06T12:37:49-05:00
 description: "The Robotic Arm Interactive Orthopedic System is a robot-assisted tool used by surgeons to operate more precisely and effectively, improving patient outcomes"
 pic: ""
