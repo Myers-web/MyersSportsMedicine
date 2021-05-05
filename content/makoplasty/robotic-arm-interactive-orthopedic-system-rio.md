@@ -18,3 +18,4 @@ Real-time intra-operative adjustments for correct knee kinematics and soft-tissu
 Minimally invasive and bone sparing, with minimal tissue trauma for faster recovery
 
 {{% image-center "Rio Makoplasty" "images/makoplasty/rio-makoplasty.jpg" %}}
+<br>

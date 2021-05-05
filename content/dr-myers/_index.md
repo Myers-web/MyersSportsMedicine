@@ -1,6 +1,6 @@
 ---
 title: "Meet Dr. Myers"
-description: "Dr. Thomas H. Myers is an Atlanta-based board certified orthopaedic surgeon and sports medicine expert. 
+description: "Dr. Thomas H. Myers is an Atlanta-based board-certified orthopaedic surgeon and sports medicine expert. 
 He specializes in knee and shoulder procedures including robot-assisted knee replacement surgery, ACL repair, and repairs of rotator cuff and SLAP tears. Dr. Myers believes in taking the time to properly diagnose patients and ensure they understand their condition and all of the treatment options available to them."
 pic: "images/dr-myers/myers-main.jpg"
 featuredImage: "images/featured-images/sports-sized.jpg"

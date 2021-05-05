@@ -8,21 +8,26 @@ tags: ["newTech"]
 ---
 
 
-Platelet Rich Plasma (PRP) injections are a new technology that uses the natural healing factors in blood to treat chronic injuries.
+Platelet-Rich Plasma (PRP) injections are a new technology that uses the natural healing factors in blood to treat chronic injuries.
 
-PRP injections are most commonly used for tendinitis or chronic injuries such as:
+PRP injections are most commonly used for tendinitis and chronic injuries such as:
 
 * Tennis/Golfer’s Elbow aka Lateral/Medial Epicondylitis
-* Achilles Tendonitis
+* Achilles Tendinitis
 * Plantar Fasciitis
 * Chronic Hamstring Strains
-* Runner’s Knee aka Patellar Tendonitis
-* Other uses can be discussed with the physician as indicated, however these are the most common at this time  
+* Runner’s Knee aka Patellar Tendinitis
+* Osteoarthritis
+*  Other uses can be discussed with the physician as indicated.
+
+Note that the use of Platelet-Rich Plasma to treat osteoarthritis is experimental in nature and its effectiveness is still being studied. 
+Links to recent studies on the topic are included on this page if you would like to know more. Your physician will be able to make a recommendation based on your condition to determine if PRP is right for you.
+
 <br>
 
 ## What is PRP?  
 <hr>
-Platelet Rich Plasma (PRP) is a concentration of platelets and growth factors obtained from a small amount of your own blood. When the body is injured, platelets begin the healing process and growth factors are released to recruit additional healing factors. While this is a typical injury response, some areas of the body such as tendons and ligaments do not have adequate blood supply to carry out this healing response, or may be used so often that the body is unable to iniate the response. Injuries to these areas may become chronic, as the body is incapable of healing on its own. In these cases, PRP may be used to inject a robust amount of the necessary healing factors directly to the injured site. This signals to the body that the site is injured and optimizes the area for the healing and recovery response.
+Platelet Rich Plasma (PRP) is a concentration of platelets and growth factors obtained from a small amount of your own blood. When the body is injured, platelets begin the healing process and growth factors are released to recruit additional healing factors. While this is a typical injury response, some areas of the body such as tendons and ligaments do not have adequate blood supply to carry out this healing response, or may be used so often that the body is unable to initiate the response. Injuries to these areas may become chronic, as the body is incapable of healing on its own. In these cases, PRP may be used to inject a robust amount of the necessary healing factors directly to the injured site. This signals to the body that the site is injured and optimizes the area for the healing and recovery response.
 
 <br>
 
@@ -50,6 +55,6 @@ Dr. Myers can perform this procedure in the office with minimal to no side effec
 
 ## What are the risks associated with this treatment?  
 <hr>
-PRP uses your own body’s natural properties to treat your injury. Side effects utilizing PRP systems are very uncommon.
+PRP uses your own body’s natural properties to treat your injury, without the addition of any other materials or components. Because of this, side effects from utilizing PRP are very uncommon.
 
 Please feel free to contact our office for more information about this procedure or to book an appointment at 404-352-8156.
