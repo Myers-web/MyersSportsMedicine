@@ -33,7 +33,7 @@ Our office hours are as listed:
         </span>
         </span> <br> <br>
     <h1> Location </h1> 
-        <a href="https://goo.gl/maps/twBriga4J2y">3200 Downwood Cir NW #340 </a> 
+        <a href="https://goo.gl/maps/twBriga4J2y">3200 Downwood Cir NW #340 Atlanta, GA 30327</a> 
         <br> 
         {{% facebook %}}
 </div>

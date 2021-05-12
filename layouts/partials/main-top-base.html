@@ -3,8 +3,7 @@
         <div class="text-center">
             {{ if .IsHome }}
                 <div class="logo" itemscope itemtype="https://schema.org/MedicalBusiness">
-                    <img src="{{ .Site.Params.logo | absURL }}" alt="MSMOC Logo" itemprop="logo">
-                  
+                    <img src="{{ .Site.Params.logo | absURL }}" alt="MSMOC Logo" itemprop="logo" style="width: 215px; height: 125px;">
                 </div>
             {{ end }}
             <h1 class="grid-2-top grid-1-bottom weak-center" >{{ .Title }}</h1>

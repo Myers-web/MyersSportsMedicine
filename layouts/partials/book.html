@@ -1,6 +1,8 @@
 {{ with .Site.GetPage "section" "book" }}
     <div class="text-center grid-2-bottom">
-        <img src="{{ .Param "pic" | absURL }}" class="lazyload" alt="Jenna's book cover" id="jenna-book">
+        <figure>
+            <img sizes="(max-width:500px) 250px, 450px;" srcset="/images/book/JENN2.jpg 450w, /images/book/JENN2-sm.jpg 250w" src="/images/book/JENN2.jpg" class="lazyload" alt="Jenna's book cover" id="jenna-book" style="max-width:450px;">    
+        </figure>       
     </div>
     <h2 class="text-center open-sans grid-1-bottom">{{ .Title }}</h2>
     <div class="text-center grid-1-bottom oswald">

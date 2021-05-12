@@ -163,7 +163,7 @@ canonifyurls = true
 
 [Params]
     defaultImageLarge = "images/featured-images/workout-sized.jpg"
-    defaultImageSmall = "images/featured-images/operating-sized.jpg"
-    logo = "images/logo.jpg"
+    defaultImageSmall = "images/featured-images/Operating-crop.jpg"
+    logo = "images/logo-alt.jpg"
     contactImg = "images/featured-images/connectwork.png"
     patientPortal = "https://www.pbomd.com/pboppv6/login.asp"
