@@ -38,4 +38,79 @@
     {{- end }}
 
     <link rel="preload" href="/fonts/glyphicons-halflings-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <script type ="application/ld+json">
+      {"@context": "http://schema.org/",
+        "@type": "Physician",
+        "@id": "http://myerssportsmedicine.com/", 
+        "name": "Myers Sports Medicine and Orthopaedic Center",
+        "image": [
+        "https://myerssportsmedicine.com/static/images/dr-myers/myers-main.jpg"],
+        "url": "https://myerssportsmedicine.com",
+        "knowsAbout": "Orthopaedic and Sports Medicine" ,
+        "alumni": "Johns Hopkins University School of Medicine",
+        "medicalSpeciality":"Orthopaedic and Sports Medicine",
+        "availableService": [
+        {
+          "@type": "MedicalProcedure",
+              "name": "ACL Repair",
+              "bodyLocation": "Knee",
+              "procedureType": "Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Knee Replacement",
+          "bodyLocation": "Knee",
+          "procedureType": "Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Rotator Cuff Repair",
+          "bodyLocation": "Shoulder",
+          "procedureType": "Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "PRP Injections",
+          "bodyLocation": "Knee",
+          "procedureType": "Injection"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Physical Therapy",
+          "bodyLocation": "Knee",
+          "procedureType": "Noninvasive"
+        }
+        ],
+        "openingHoursSpecification":[
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"],
+          "opens":"8AM-12PM, 1:30PM-5PM",
+          "closes":"5PM"
+        }
+        ],
+        "telephone":"404-350-9405",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3200 Downwood Circle Road NW Suite 340",
+          "addressLocality": "Atlanta",
+          "addressRegion": "GA",
+          "postalCode": "30327",
+          "addressCountry": "US"
+      },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "28",
+          "reviewCount": "28",
+          "ratingValue": "4.6",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+        }
+      </script>
 </head>
