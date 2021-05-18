@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patient Forms on Myers Sports Medicine &amp; Orthopaedic Center</title>
-    <link>https://www.myerssportsmedicine.com/patient-info/</link>
+    <link>http://myerssportsmedicine.com/patient-info/</link>
     <description>Recent content in Patient Forms on Myers Sports Medicine &amp; Orthopaedic Center</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Jan 2018 22:43:08 -0500</lastBuildDate>
     
-	<atom:link href="https://www.myerssportsmedicine.com/patient-info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://myerssportsmedicine.com/patient-info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Patient Concierge Service</title>
-      <link>https://www.myerssportsmedicine.com/patient-info/concierge-service/</link>
+      <link>http://myerssportsmedicine.com/patient-info/concierge-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.myerssportsmedicine.com/patient-info/concierge-service/</guid>
-      <description>Benefits No wait time. After patient check in and verification of insurance the patient is immediately placed in the doctor’s examination room and evaluated as soon as possible.
+      <guid>http://myerssportsmedicine.com/patient-info/concierge-service/</guid>
+      <description>Benefits  No wait time. After patient check in and verification of insurance the patient is immediately placed in the doctor’s examination room and evaluated as soon as possible.
 Pre-appointment Paperwork. Option to complete medical history questionnaire and intake forms online prior to appointment.
 Private area for in-office paperwork. Sound proof area isolated from regular waiting room available for the patient to complete online medical history and sign patient intake forms (if not completed online).</description>
     </item>

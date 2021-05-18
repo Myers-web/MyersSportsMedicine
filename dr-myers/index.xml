@@ -2,27 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meet Dr. Myers on Myers Sports Medicine &amp; Orthopaedic Center</title>
-    <link>https://www.myerssportsmedicine.com/dr-myers/</link>
+    <link>http://myerssportsmedicine.com/dr-myers/</link>
     <description>Recent content in Meet Dr. Myers on Myers Sports Medicine &amp; Orthopaedic Center</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.myerssportsmedicine.com/dr-myers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://myerssportsmedicine.com/dr-myers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dr. Myers Key Information</title>
-      <link>https://www.myerssportsmedicine.com/dr-myers/key-information/</link>
+      <link>http://myerssportsmedicine.com/dr-myers/key-information/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.myerssportsmedicine.com/dr-myers/key-information/</guid>
-      <description>Specialties Open &amp;amp; Arthroscopic Cartilage Replacement Procedures Knee and Shoulder Arthroscopy Sports Injuries – ACL Reconstruction
- Board Certification American Board of Orthopaedic Surgery
+      <guid>http://myerssportsmedicine.com/dr-myers/key-information/</guid>
+      <description>Specialties  Open &amp;amp; Arthroscopic Cartilage Replacement Procedures Knee and Shoulder Arthroscopy Sports Injuries – ACL Reconstruction
+
+Board Certification  American Board of Orthopaedic Surgery
 ABOS Subspecialty Certification in Sports Medicine
- Hospital Affiliations St. Joseph’s Hospital Atlanta Outpatient Surgery Center Piedmont West Outpatient Surgery Center
- Fellowships Sports Medicine American Sports Medicine Institute Birmingham, Alabama
+
+Hospital Affiliations  St. Joseph’s Hospital Atlanta Outpatient Surgery Center Piedmont West Outpatient Surgery Center
+
+Fellowships  Sports Medicine American Sports Medicine Institute Birmingham, Alabama
 Orthopaedic Trauma Harvard School of Medicine Boston, MA
- Postgraduate Training Orthopaedic Residency Harvard School of Medicine Boston, MA</description>
+
+Postgraduate Training  Orthopaedic Residency Harvard School of Medicine Boston, MA</description>
     </item>
     
   </channel>
