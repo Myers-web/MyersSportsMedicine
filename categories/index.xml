@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Myers Sports Medicine &amp; Orthopaedic Center</title>
-    <link>http://myerssportsmedicine.com/categories/</link>
+    <link>https://www.myerssportsmedicine.com/categories/</link>
     <description>Recent content in Categories on Myers Sports Medicine &amp; Orthopaedic Center</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://myerssportsmedicine.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.myerssportsmedicine.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
