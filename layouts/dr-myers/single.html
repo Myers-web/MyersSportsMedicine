@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-<div class="col-sm-4 text-center">
-    <img src="{{ .Param "pic" | absURL }}">
+<div class="col-sm-4 text-center ">
+    <img src="{{ .Param "pic" | absURL }}" class="drop-shadow">
 </div>
 <div class="col-sm-8">
     {{ .Content }}

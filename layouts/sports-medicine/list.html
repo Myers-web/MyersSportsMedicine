@@ -1,18 +1,19 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
-<div class="col-xs-12">
-    <div class="row">
-        <div class="col-md-6">
-            <div class="sm-pic">
-                <img src="{{ .Param "pic" | absURL }}">
+    <div class="container">
+        <div class="row">
+        <div class="col-sm-6">
+            <div class="text-center">
+                <img class="drop-shadow edu-img-lg" src="{{ .Param "pic" | absURL }}">
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-sm-6">
             {{ .Content }}
             {{ partial "page-links.html" . }}
         </div>
     </div>
+</div>
 </div>
 {{ partial "main-bottom" . }}
 {{ end }}

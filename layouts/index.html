@@ -2,24 +2,23 @@
 {{ partial "header" . }}
 {{ partial "main-top-base" . }}
 <div class="text-center">
-    {{ .Content }}
+    {{ .Content }}  
 </div>
-<div class="grid-4-top grid-4-bottom">
+<div class="grid-2-top grid-1-bottom">
     {{ partial "about-myers" . }}
 </div>
 {{ partial "main-bottom-base" . }}
 {{ partial "featured-procedures" . }}
-<div class="container" aria-role="main">
-    <div class="grid-4-top grid-4-bottom">
-        <div class="grid-2-bottom-p strong-center text-center">
+<div class="container" aria-roledescription="main">
+    <div class="grid-2-top grid-2-bottom">
+        <div class="grid-1-bottom strong-center text-center">
             <h1>Testimonials</h1>
         </div>
         {{ partial "book" . }}
-
         {{ with .Site.GetPage "section" "testimonials" }}
         <div class="text-center">
-            <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
-                Read More Testimonials
+            <a class="btn-reg btn-a blue4 drop-shadow" href="{{ .URL | absURL }}">
+               Read More Testimonials
                 <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
             </a>
         </div>

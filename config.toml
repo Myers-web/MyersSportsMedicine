@@ -1,4 +1,6 @@
-baseurl = "https://www.myerssportsmedicine.com"
+baseurl = "http://myerssportsmedicine.com"
+aliases = ["https://myerssportsmedicine.com",
+            "www.myerssportsmedicine.com"]
 languageCode = "en-us"
 title = "Myers Sports Medicine & Orthopaedic Center"
 
@@ -6,6 +8,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 enableRobotsTXT = true
 relativeurls = true
+canonifyurls = true
 
 [[menu.main]]
     name = "Home"
@@ -49,13 +52,45 @@ relativeurls = true
     name = "Physical Therapy"
     url = "physical-therapy"
     weight = 3
+    
+# Featured Procedures----------------
 
+[[menu.main]]
+    name = "Featured Procedures"
+    identifier = "featured"
+    weight = 4
+
+[[menu.main]]
+    name = "Makoplasty"
+    url = "makoplasty/"
+    parent = "featured"
+    weight = 1
+    
+[[menu.main]]
+    name = "DonJoy UltraSling Quadrant"
+    url = "/procedures/shoulder-sling/"
+    parent = "featured"
+    weight = 2
+    
+[[menu.main]]
+    name = "PRP"
+    url = "prp-injections/"
+    parent = "featured"
+    weight = 3
+    
+ [[menu.main]]
+    name = "ACL Repair"
+    url = "acl-repair/"
+    parent = "featured"
+    weight = 4   
+  
+    
 # Patient Info ----------------------
 
 [[menu.main]]
     name = "Patient Info"
     identifier = "info"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Patient Forms"
@@ -80,7 +115,7 @@ relativeurls = true
 [[menu.main]]
     name = "Patient Education"
     identifier = "edu"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Patient Education"
@@ -106,22 +141,29 @@ relativeurls = true
     parent = "edu"
     weight = 4
 
-[[menu.main]]
-    name = "Featured Procedures"
-    url = "procedures/"
-    parent = "edu"
-    weight = 5
-
 # Testimonials ------------------
 
 [[menu.main]]
     name = "Testimonials"
+    identifier = "testimonials"
+    weight = 7
+
+[[menu.main]]
+    name = "Testimonials"
+    parent = "testimonials"
     url = "testimonials/"
-    weight = 6
+    weight = 1    
+
+[[menu.main]]    
+    name = "Leave a Review"
+    url = "https://search.google.com/local/writereview?placeid=ChIJ7ykyXVoF9YgR1KaqEz1qJeU"
+    parent = "testimonials"
+    weight = 2
+
 
 [Params]
-    defaultImageLarge = "images/featured-images/workout-min.jpg"
-    defaultImageSmall = "images/featured-images/operating-min.jpg"
-    logo = "images/logo.jpg"
+    defaultImageLarge = "images/featured-images/workout-sized.jpg"
+    defaultImageSmall = "images/featured-images/Operating-crop.jpg"
+    logo = "images/logo-alt.jpg"
     contactImg = "images/featured-images/connectwork.png"
     patientPortal = "https://www.pbomd.com/pboppv6/login.asp"

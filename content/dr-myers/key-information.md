@@ -1,53 +1,64 @@
 ---
 title: "Dr. Myers Key Information"
-description: ""
+description: "Dr. Myers completed medical school at John's Hopkins, and completed residency at Harvard. He has trained in sports medicine and orthopaedic trauma."
 pic: "images/dr-myers/dr-thomas-myers.jpg"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
-# Specialties
+## Specialties
+<hr>
 Open & Arthroscopic Cartilage Replacement Procedures
 Knee and Shoulder Arthroscopy
 Sports Injuries – ACL Reconstruction
 
-<hr>
+<br>
 
-# Board Certification
+## Board Certification
+<hr>
 American Board of Orthopaedic Surgery
 
 ABOS Subspecialty Certification in Sports Medicine
 
-<hr>
+<br>
 
-# Hospital Affiliations
+## Hospital Affiliations
+<hr>
 St. Joseph’s Hospital
 Atlanta Outpatient Surgery Center
 Piedmont West Outpatient Surgery Center  
 
+<br>
+
+## Fellowships
 <hr>
 
-# Fellowships
-
-## Sports Medicine
+### <b>Sports Medicine</b>
 American Sports Medicine Institute
 Birmingham, Alabama
 
-## Orthopaedic Trauma
+### <b>Orthopaedic Trauma</b>
 Harvard School of Medicine
 Boston, MA  
 
+<br>
+
+## Postgraduate Training
 <hr>
 
-# Postgraduate Training
-
-## Orthopaedic Residency
+### <b>Orthopaedic Residency</b>
 Harvard School of Medicine
 Boston, MA
 
+<br>
+
 ## Medical School
+<hr>
 The John’s Hopkins University School of Medicine
 Baltimore, Maryland
 
-# Undergraduate Education
+<br>
+
+## Undergraduate Education
+<hr>
 University of South Dakota
 Vermillion, South Dakota

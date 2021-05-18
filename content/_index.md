@@ -1,13 +1,14 @@
 ---
 title: "Welcome to Myers Sports Medicine & Orthopaedic Center"
+description: "Dr. Thomas Myers is an Atlanta-Based Orthopaedic Surgeon specializing in Sports Medicine. Dr. Myers typically treats knee and shoulder injuries"
 featuredImage: ""
 ---
 Myers Sports Medicine & Orthopaedic Center (MSMOC) was 
-founded by Harvard educated Surgeon Thomas H. Myers. 
+founded by <span itemprop="alumniof">Harvard</span>-educated <span itemprop="occupation">Orthopaedic Surgeon</span> <span itemprop="founder"> Thomas H. Myers</span>. 
 The Center’s mission is to provide the best possible 
-treatment and outcomes for orthopaedic conditions and 
-injuries. Dr. Myers specializes in the knee & shoulder 
-as well as sports medicine. Dr. Myers believes in taking 
+treatment and outcomes for <span itemprop="knowsAbout">orthopaedic conditions and 
+injuries</span>. Dr. Myers specializes in <span itemprop="knowsAbout">the knee & shoulder 
+as well as sports medicine</span>. Dr. Myers believes in taking 
 the time to properly diagnose patients and ensure they 
 understand their condition and all of the treatment 
 options available to them. 
@@ -15,4 +16,4 @@ options available to them.
 If you are interested in meeting Dr. Myers and exploring 
 the ways that he can help you, please Contact Us to make 
 an appointment. We are conveniently located just inside 
-the Atlanta Perimeter just off of Howell Mill Road.
+the <span itemprop="areaServed location">Atlanta Perimeter just off of Howell Mill Road.</span>

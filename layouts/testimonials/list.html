@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
+<div class = "container">
 {{ partial "book" . }}
 <hr>
 <div class="col-xs-12">
@@ -13,13 +14,15 @@
     {{ end }}
         <div class="col-md-3 text-center">
             <a data-fancybox class="video-popup" href="{{ .Params.video | absURL}}">
-                <p><img src="{{ .Param "pic" | absURL }}"></p>
-                <h1>{{ .Title }}</h1>
+                <p><img src="{{ .Param "pic" | absURL }}" alt="Testimonial Patient"> </p>
+                <h2>{{ .Title }}</h2>
                 <p>{{ .Description }}</p>
             </a>
+            <br>
         </div>
     {{ end }}
     </div>
+</div>
 </div>
 {{ partial "main-bottom" . }}
 {{ end }}

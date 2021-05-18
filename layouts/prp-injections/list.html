@@ -1,0 +1,37 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="col-sm-8"> 
+    <div class= "container-fluid no-gutters">
+    {{ .Content }}
+    </div>
+    </div>
+<div class="col-sm-4 edu-container">
+    <div class = "container-fluid no-gutters">
+    <div class="row-fluid edu-header text-center">
+        <h2> PRP Research</h2>
+        <hr>
+    </div>
+    <u1 class ="list-group link-list">
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/PRP Flyer.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> PRP Informational Flyer</a></li>
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/Pure PRP for arthritis.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> PRP for Arthritis</a></li>
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/0363546509355445 - PRP for lateral epicondylitis.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> PRP for Lateral Epicondylitis</a></li>
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/0363546517750635-PRP in mouse model OA.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> PRP for Osteoarthritis in a Mouse Model </a></li>
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/3 vs 1 injection of PRP.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> 3 vs 1 injections of PRP Study </a></li>
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/PRP for rotator cuff.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> PRP for Rotator Cuff</a></li>
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/PRP randomized trial vs. HA 2021.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> PRP vs Hyaluronic Acid Randomized Study</a></li>
+        <li><a class="list-group-item" href="{{ "documents/PRPFolder/PRP vs. HA.pdf" | absURL }}">
+            <span class="glyphicon glyphicon-link"></span> PRP vs Hyaluronic Acid for Osteoarthritis</a></li>
+        </div>    
+    </u1>
+</div>
+{{ partial "main-bottom" . }}
+{{ end }}
+        

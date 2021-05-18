@@ -1,10 +1,10 @@
-<main class="container" aria-role="main">
-    <div class="grid-4-bottom">
-        <div class="strong-center text-center">
+<main class="container" aria-roledescription="main" itemscope itemtype="https://schema.org/MedicalBusiness">
+    <div class="grid-2-bottom">
+        <div class="text-center">
             {{ if .IsHome }}
-            <div class="logo">
-                <img src="{{ .Site.Params.logo | absURL }}">
-            </div>
+                <div class="logo" itemscope itemtype="https://schema.org/MedicalBusiness">
+                    <img src="{{ .Site.Params.logo | absURL }}" alt="MSMOC Logo" itemprop="logo" style="width: 215px; height: 125px;">
+                </div>
             {{ end }}
-            <h1 class="grid-4-top grid-2-bottom">{{ .Title }}</h1>
+            <h1 class="grid-2-top grid-1-bottom weak-center" >{{ .Title }}</h1>
         </div>

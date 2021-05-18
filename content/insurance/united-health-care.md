@@ -1,10 +1,10 @@
 ---
 title: "United Health Care"
 date: 2018-02-08T23:57:17-05:00
-description: "UnitedHealthcare is an operating division of UnitedHealth Group, the 
+description: "Dr. Myers accepts UnitedHealthcare health insurance. UnitedHealthcare is an operating division of UnitedHealth Group, the 
 largest single health carrier in the United States."
 pic: "images/insurance/uhc.jpg"
-featuredImage: "images/featured-images/running-min-2.jpg"
+featuredImage: "images/featured-images/running-min-sized.jpg"
 ---
 
 UnitedHealthcare is an operating division of UnitedHealth Group, the largest single 

@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top" . }}
+<div class= "container-fluid">
 <div class="col-sm-7">
     {{ .Content }}
 </div>
@@ -28,6 +29,7 @@
         <li><a class="list-group-item" href="{{ "documents/patient-education/Total_Knee_Replacements.pdf" | absURL }}">
             <span class="glyphicon glyphicon-link"></span>Knee Replacements</a></li>
     </ul>
+</div>
 </div>
 {{ partial "main-bottom" . }}
 {{ end }}

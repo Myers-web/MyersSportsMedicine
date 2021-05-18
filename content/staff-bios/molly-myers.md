@@ -1,8 +1,8 @@
 ---
 title: "Molly Myers"
-description: ""
+description: "Molly Myers is the financial manager at at Myers Sports Medicine and Orthopaedic Center"
 pic: "images/staff-bios/molly-myers.jpg"
-featuredImage: "images/featured-images/sports-min.jpg"
+featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
 Molly Myers graduated from Virginia Tech in 1995 with a Bachelor of Science degree in 

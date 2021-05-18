@@ -1,4 +1,6 @@
 <a href="{{ .URL | absURL }}">
-    <img class="bio-pic" src="{{ .Param "pic" | absURL }}">
-    <p>{{ .Title }}</p>
-</a>
+    <div class ="bio-card col-center" style="border: 2px solid #0f3b54">
+        <img class="bio-pic" src="{{ .Param "pic" | absURL }}" style="margin-top:2px;" alt="{{ .Title }}">
+            <p class="bio-font">{{ .Title }}</p>
+    </div>
+</a> 

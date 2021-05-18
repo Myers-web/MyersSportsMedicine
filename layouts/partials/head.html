@@ -1,22 +1,32 @@
 <head>
     <meta charset="utf-8" />
+    <meta name ="description" content="Myers Sports Medicine and Orthopaedic Center is an Atlanta-based clinic that specializes 
+    in treating injuries of the bones, joints, ligaments, and muscles.">
     <link rel="apple-touch-icon" sizes="76x76" href="{{ "images/apple-icon.png" | absURL }}">
     <link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Cache-Control" content="public">
     <title>{{.Site.Title}}</title>
-    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=1, shrink-to-fit=no' name='viewport' />
     <!-- CSS Files -->
     <link href="{{ "css/bootstrap.min.css" | absURL }}" rel="stylesheet" />
-    <link href="{{ "css/bootstrap-theme.min.css" | absURL }}" rel="stylesheet" />
+    <link href="{{ "css/bootstrap-theme.min.css" | absURL }}" rel="stylesheet"   />
     <link href="{{ "css/main.css" | absURL }}" rel="stylesheet" />
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:600,800" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Oswald:200" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet"  media="print" onload="this.onload=null;this.removeAttribute('media');">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:600,800&display=swap" rel="stylesheet"  media="print" onload="this.onload=null;this.removeAttribute('media');">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:200&display=swap" rel="stylesheet"  media="print" onload="this.onload=null;this.removeAttribute('media');">
 
+    <!--OpenGraph Metadata-->
+    <meta property="og:title" content="Myers Sports Medicine">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Dr. Thomas Myers is an Atlanta-Based Orthopaedic Surgeon specializing in Sports Medicine. Dr. Myers typically treats knee and shoulder injuries">
+    <meta property="og:url" content="https://www.myerssportsmedicine.com">
+    <meta property="og:image" content="static/images/dr-myers">
 
     <!-- Add fancyBox -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" media="print" onload="this.onload=null;this.removeAttribute('media');"/>
 
     <!-- Featured Photos -->
     <style>
@@ -24,6 +34,83 @@
     </style>
 
     {{ range .Site.Params.custom_css -}}
-      <link rel="stylesheet" href="{{ . | absURL }}">
+      <link rel="stylesheet" href="{{ . | absURL }}" media="print" onload="this.media='all'; this.onload=null;">
     {{- end }}
+
+    <link rel="preload" href="/fonts/glyphicons-halflings-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <script type ="application/ld+json">
+      {"@context": "http://schema.org/",
+        "@type": "Physician",
+        "@id": "http://myerssportsmedicine.com/", 
+        "name": "Myers Sports Medicine and Orthopaedic Center",
+        "image": [
+        "https://myerssportsmedicine.com/static/images/dr-myers/myers-main.jpg"],
+        "url": "https://myerssportsmedicine.com",
+        "knowsAbout": "Orthopaedic and Sports Medicine" ,
+        "alumni": "Johns Hopkins University School of Medicine",
+        "medicalSpeciality":"Orthopaedic and Sports Medicine",
+        "availableService": [
+        {
+          "@type": "MedicalProcedure",
+              "name": "ACL Repair",
+              "bodyLocation": "Knee",
+              "procedureType": "Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Knee Replacement",
+          "bodyLocation": "Knee",
+          "procedureType": "Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "Rotator Cuff Repair",
+          "bodyLocation": "Shoulder",
+          "procedureType": "Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+          "name": "PRP Injections",
+          "bodyLocation": "Knee",
+          "procedureType": "Injection"
+        },
+        {
+          "@type": "MedicalTherapy",
+          "name": "Physical Therapy",
+          "bodyLocation": "Knee",
+          "procedureType": "Noninvasive"
+        }
+        ],
+        "openingHoursSpecification":[
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"],
+          "opens":"8AM-12PM, 1:30PM-5PM",
+          "closes":"5PM"
+        }
+        ],
+        "telephone":"404-350-9405",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3200 Downwood Circle Road NW Suite 340",
+          "addressLocality": "Atlanta",
+          "addressRegion": "GA",
+          "postalCode": "30327",
+          "addressCountry": "US"
+      },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingCount": "28",
+          "reviewCount": "28",
+          "ratingValue": "4.6",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+        }
+      </script>
 </head>

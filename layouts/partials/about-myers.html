@@ -1,21 +1,25 @@
 {{ with .Site.GetPage "section" "dr-myers" }}
-<div class="row">
-    <div class="col-sm-6 blue1 no-padding-left no-padding-right" id="myers-headshot" style="background-image: url('{{ .Param "pic" | absURL }}');">
-        <!-- <img class="image-full" src="{{ .Param "pic" | absURL }}"> -->
-    </div>
-    <div class="col-sm-6 blue2">
-        <div class="weak-center white-text grid-4-top-p grid-2-bottom-p" id="myers-description">
-            <h1 class="open-sans white-text grid-2-bottom">{{ .Title }}</h1>
-            <div class="grid-2-bottom oswald">
+<div class = "container-fluid heading-format no-gutters">
+    <div class="row">
+        <div class="col-sm-6 blue2" id="myers-headshot">
+         <img class="img-center image-full drop-shadow" alt="Dr. Myers Headshot" style="border: 3px solid white;
+            border-radius: 5px;" id="myers-about-headshot" src="{{ .Param "pic" | absURL }}">
+        </div>
+    <div class="col-sm-6 blue2 no-gutters ">
+        <div class="weak-center about-format white-text grid-2-top-p grid-1-bottom-p" id="myers-description">
+            <h1 class="open-sans white-text grid-1-bottom">{{ .Title }}</h1>
+            <div class="grid-2-bottom oswald " itemscope itemtype="https://schema.org/Person">
                 {{ .Description }}
             </div>
             <div class="text-center">
-                <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
-                    Read More
-                    <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
-                </a>
+             <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
+                 Read More
+                <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
+             </a>
             </div>
         </div>
     </div>
+    </div>
 </div>
-{{ end }}
+{{ end }} 
+ 

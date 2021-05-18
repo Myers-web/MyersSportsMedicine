@@ -1,16 +1,16 @@
 ---
 title: "DonJoy UltraSling Quadrant"
 date: 2018-05-29T23:44:06-04:00
-description: ""
-featuredImage: "images/featured-images/running-min-2.jpg"
+description: "The DonJoy UltraSling Quadrant is a revolutionary shoulder brace that allows allows patients to maintain everyday function during their postoperative recovery"
+featuredImage: "images/featured-images/running-min-sized.jpg"
 pic: "images/procedures/donjoy-ultrasling.jpg"
 ---
-
-{{% video "https://www.youtube.com/embed/bWgLbvYlJlU" %}}
 
 {{% highlight-text %}}
 The Donjoy Ultrasling Quadrant is a state of the art shoulder brace designed to stabilize the upper limb after shoulder surgery.  The brace was designed by Dr. Myers for the comfort and rehabilitation of his patients.  This is one of the many innovations that Dr. Myers has contributed to the field of orthopaedic surgery.  3 years in development, the Ultrasling Quadrant has many advantages over the prior shoulder immobilizers.
 {{% /highlight-text %}}
+
+{{% video "https://www.youtube.com/embed/bWgLbvYlJlU" %}}
 
 1. **Patient comfort**  - The Ultrasling Quadrant stabilizes the arm by supporting its weight on the hip as well as suspending it from the opposite shoulder with a strap.  This improved support is more comfortable for the patient when the shoulder has been traumatized and any movement can cause pain.  The brace has an open design with straps for the upper arm and forearm only.  This leaves the elbow and arm pit open to air which cools the body and allows for better sleep.  Finally, the Quadrant has only 4 straps which are designed to allow for easy on/off with one hand use.  This allows patients to remove and put on the brace without any assistance.
 
