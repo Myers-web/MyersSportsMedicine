@@ -32,17 +32,15 @@ Acute tears of the rotator cuff usually result from a quick, sudden, and powerfu
 * Pinpoint tenderness over the point of rupture
 * Limited movement due to pain or spasms
 * Severe pain for a few days
-* If the tear is severe enough, you will not be able to raise your arm outwards without help
+* In severe cases, inability to raise arms outwards without help.
 
 <br>
 
 ## Chronic Rotator Cuff Tears
 <hr>
-Chronic rotator cuff tears develop over an extended period of time and may be caused by repetitive motion or overuse. These tears usually occur at or near the tendon due to the tendon rubbing the overlying bone, causing fraying of the tendon and potentially a larger tear if untreated.
+Chronic rotator cuff tears develop over an extended period of time and may be caused by repetitive motion or overuse. These tears usually occur at or near the tendon due to the tendon rubbing the overlying bone, causing fraying of the tendon and potentially a larger tear if untreated. Chronic tears tend to occur on the dominant side, and are more common in people aged 40 years or older. 
 
 ### Symptoms of a chronic rotator cuff tear may include:
-* Usually found on the dominant side
 * Pain is worse at night; may affect sleeping
-* Usually in people age 40 and over
 * Pain becomes gradually stronger while arm becomes gradually weaker
 * Arm is eventually unable to be lifted outwards without help
