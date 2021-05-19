@@ -2,34 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newtech on Myers Sports Medicine &amp; Orthopaedic Center</title>
-    <link>https://www.myerssportsmedicine.com/tags/newtech/</link>
+    <link>https://myerssportsmedicine.com/tags/newtech/</link>
     <description>Recent content in Newtech on Myers Sports Medicine &amp; Orthopaedic Center</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Mar 2018 22:40:28 -0500</lastBuildDate>
     
-	<atom:link href="https://www.myerssportsmedicine.com/tags/newtech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://myerssportsmedicine.com/tags/newtech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The MAKOplasty Procedure</title>
-      <link>https://www.myerssportsmedicine.com/makoplasty/</link>
+      <title>MAKOplasty</title>
+      <link>https://myerssportsmedicine.com/makoplasty/</link>
       <pubDate>Sun, 11 Mar 2018 22:40:28 -0500</pubDate>
       
-      <guid>https://www.myerssportsmedicine.com/makoplasty/</guid>
-      <description>What is MAKOplasty&amp;reg;? MAKOplasty&amp;reg; Partial Knee Resurfacing and MAKOplasty&amp;reg; Total Hip Replacement are enabled by the surgeon controlled RIO® robotic arm system, offering increased accuracy to optimize surgical results.
-MAKOplasty&amp;reg; Partial Knee Resurfacing Partial Knee Replacement is a treatment option for adults living with early-to mid-stage osteoarthritis (OA) that has not progressed to all three compartments of the knee. MAKOplasty&amp;reg; Partial Knee Resurfacing is an advanced treatment option. It is powered by the RIO® Robotic Arm Interactive Orthopedic System, which allows the surgeon to perform surgery accurately through a smaller incision as compared to manual procedures.</description>
+      <guid>https://myerssportsmedicine.com/makoplasty/</guid>
+      <description>What is MAKOplasty&amp;reg;?  MAKOplasty&amp;reg; Partial Knee Resurfacing and MAKOplasty&amp;reg; Total Hip Replacement are enabled by the surgeon controlled RIO® robotic arm system, offering increased accuracy to optimize surgical results.
+
+MAKOplasty&amp;reg; Partial Knee Resurfacing  Partial Knee Replacement is a treatment option for adults living with early-to mid-stage osteoarthritis (OA) that has not progressed to all three compartments of the knee. MAKOplasty&amp;reg; Partial Knee Resurfacing is an advanced treatment option.</description>
+    </item>
+    
+    <item>
+      <title>ACL Repair</title>
+      <link>https://myerssportsmedicine.com/acl-repair/</link>
+      <pubDate>Sun, 11 Mar 2018 23:11:56 -0400</pubDate>
+      
+      <guid>https://myerssportsmedicine.com/acl-repair/</guid>
+      <description>ACL Repair is a revolutionary technique that allows patients to return to function sooner following surgery. Dr. Myers employs the use of a synthetic graft to strengthen the ACL and protect it during the recovery, improving patient outcomes and reducing the chances of re-injury.
+What is an ACL? What happens when it&amp;rsquo;s injured? The anterior cruciate ligament (ACL) is a piece of elastic tissue within your knee joint that provides stability to your knee, especially during back-and-forth and rotational movements.</description>
     </item>
     
     <item>
       <title>PRP Injections</title>
-      <link>https://www.myerssportsmedicine.com/prp-injections/</link>
+      <link>https://myerssportsmedicine.com/prp-injections/</link>
       <pubDate>Sun, 11 Mar 2018 23:11:56 -0400</pubDate>
       
-      <guid>https://www.myerssportsmedicine.com/prp-injections/</guid>
-      <description>Dr. Thomas Myers is now offering PRP injections in the office Platelet Rich Plasma injections are a new technology that uses natural healing factors to treat chronic injuries.
-PRP injections are most commonly used for tendonitis or chronic injuries such as:
- Tennis/Golfer’s Elbow aka Lateral/Medial Epicondylitis Achilles Tendonitis Plantar Fasciitis Chronic Hamstring Strains Runner’s Knee aka Patellar Tendonitis Other uses can be discussed with the physician as indicated, however these are the most common at this time</description>
+      <guid>https://myerssportsmedicine.com/prp-injections/</guid>
+      <description>Platelet-Rich Plasma (PRP) injections are a new technology that uses the natural healing factors in blood to treat chronic injuries.
+PRP injections are most commonly used for tendinitis and chronic injuries such as:
+ Tennis/Golfer’s Elbow aka Lateral/Medial Epicondylitis Achilles Tendinitis Plantar Fasciitis Chronic Hamstring Strains Runner’s Knee aka Patellar Tendinitis Osteoarthritis Other uses can be discussed with the physician as indicated.  Note that the use of Platelet-Rich Plasma to treat osteoarthritis is experimental in nature and its effectiveness is still being studied.</description>
     </item>
     
   </channel>
