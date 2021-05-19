@@ -1,6 +1,4 @@
-baseurl = "http://myerssportsmedicine.com"
-aliases = ["https://myerssportsmedicine.com",
-            "www.myerssportsmedicine.com"]
+baseurl = "https://myerssportsmedicine.com"
 languageCode = "en-us"
 title = "Myers Sports Medicine & Orthopaedic Center"
 
