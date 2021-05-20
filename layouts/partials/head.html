@@ -39,9 +39,9 @@
 
     <link rel="preload" href="/fonts/glyphicons-halflings-regular.woff2" as="font" type="font/woff2" crossorigin>
     <script type ="application/ld+json">
-      {"@context": "http://schema.org/",
+      {"@context": "https://schema.org/",
         "@type": "Physician",
-        "@id": "http://myerssportsmedicine.com/", 
+        "@id": "https://myerssportsmedicine.com/", 
         "name": "Myers Sports Medicine and Orthopaedic Center",
         "image": [
         "https://myerssportsmedicine.com/static/images/dr-myers/myers-main.jpg"],
@@ -49,52 +49,69 @@
         "knowsAbout": "Orthopaedic and Sports Medicine" ,
         "alumni": "Johns Hopkins University School of Medicine",
         "medicalSpeciality":"Orthopaedic and Sports Medicine",
+        "hasCredential": [
+        {
+        "@type": "educationalCredentialAwarded",
+          "name":"American Board of Orthopaedic Surgery Certification"
+      },
+      {
+        "@type": "educationalCredentialAwarded",
+          "name":"ABOS Subspecialty Certification in Sports Medicine"
+      }
+      ],  
         "availableService": [
         {
           "@type": "MedicalProcedure",
-              "name": "ACL Repair",
-              "bodyLocation": "Knee",
-              "procedureType": "Surgery"
+            "name": "ACL Repair",
+            "bodyLocation": "Knee",
+            "procedureType": "Surgery"
         },
         {
           "@type": "MedicalProcedure",
-          "name": "Knee Replacement",
-          "bodyLocation": "Knee",
-          "procedureType": "Surgery"
+            "name": "Knee Replacement",
+            "bodyLocation": "Knee",
+            "procedureType": "Surgery"
         },
         {
           "@type": "MedicalProcedure",
-          "name": "Rotator Cuff Repair",
-          "bodyLocation": "Shoulder",
-          "procedureType": "Surgery"
+            "name": "Rotator Cuff Repair",
+            "bodyLocation": "Shoulder",
+            "procedureType": "Surgery"
         },
         {
           "@type": "MedicalProcedure",
-          "name": "PRP Injections",
-          "bodyLocation": "Knee",
-          "procedureType": "Injection"
+            "name": "Meniscus Repair",
+            "bodyLocation": "Knee",
+            "procedureType": "Surgery"
+        },
+        {
+          "@type": "MedicalProcedure",
+            "name": "PRP Injections",
+            "bodyLocation": "Knee",
+            "procedureType": "Injection"
         },
         {
           "@type": "MedicalTherapy",
-          "name": "Physical Therapy",
-          "bodyLocation": "Knee",
-          "procedureType": "Noninvasive"
+            "name": "Physical Therapy",
+            "bodyLocation": "Knee",
+            "procedureType": "Noninvasive"
         }
         ],
         "openingHoursSpecification":[
         {
           "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday"],
-          "opens":"8AM-12PM, 1:30PM-5PM",
-          "closes":"5PM"
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"],
+                "opens":"8AM-12:30PM, 1:30PM-5PM",
+                "closes":"5PM"    
         }
         ],
-        "telephone":"404-350-9405",
+        "telephone":"(404)-352-8156",
+        "faxNumber":"(404)-350-9405",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "3200 Downwood Circle Road NW Suite 340",
@@ -105,9 +122,9 @@
       },
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingCount": "28",
-          "reviewCount": "28",
-          "ratingValue": "4.6",
+          "ratingCount": "27",
+          "reviewCount": "27",
+          "ratingValue": "4.7",
           "bestRating": "5",
           "worstRating": "1"
         }
