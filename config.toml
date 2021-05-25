@@ -81,6 +81,12 @@ canonifyurls = true
     url = "acl-repair/"
     parent = "featured"
     weight = 4   
+
+ [[menu.main]]
+    name = "Regenerative Medicine"
+    url = "https://www.stemcellsportsmed.com/"
+    parent = "featured"
+    weight = 5
   
     
 # Patient Info ----------------------
