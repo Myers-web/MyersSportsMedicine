@@ -86,7 +86,7 @@
   }
 .about-format {
     margin-right: 15px;
-    margin-left: -20px;
+    margin-left: 15px;
 }
 @media (max-device-width:1000px) {
     .about-format {
