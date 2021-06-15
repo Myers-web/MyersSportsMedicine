@@ -86,7 +86,7 @@
   }
 .about-format {
     margin-right: 15px;
-    margin-left: -20px;
+    margin-left: 15px;
 }
 @media (max-device-width:1000px) {
     .about-format {
@@ -149,7 +149,7 @@ footer,header{background-attachment:fixed;background-position:center;-webkit-bac
 .videowrapper iframe{position:absolute;top:0;left:0;width:100%;height:100%}
 .video-popup:focus{outline:0}@media only screen and (max-width:430px){.footer-contact iframe{display:none}}.procedure-img{height:320px;background-size:100% 100%;position:relative;display:block;max-width:430px;margin-left:auto;margin-right:auto;border:5px solid #ebebeb}.procedure-content{position:absolute;height:auto;max-height:310px;max-width:430px}.procedure-content .procedure-content-hover{background-color:rgba(0,0,0,.6);height:310px;visibility:hidden}@media only screen and (max-width:768px){.procedure-content .procedure-content-hover{visibility:visible}}.procedure-content:hover .procedure-content-hover{visibility:visible}
 .img-full{max-width:600px;width:100%;height:auto;margin-bottom:5px}.img-center{margin:0;position:absolute;top:50%;left:50%;-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.img-bordered{border:3px solid #ddd;border-radius:5px}.heading-format{padding-left:0;padding-right:0}@media only screen and (max-width:4000px){.heading-format{padding-left:12%;padding-right:12%}}@media only screen and (max-width:1200px){.heading-format{padding-left:3%;padding-right:3%}}@media only screen and (max-width:1000px){.heading-format{padding-left:0;padding-right:0}}.procedure-format{padding-left:2px;padding-right:2px}@media only screen and (min-width:1025px){.procedure-format{padding-left:8%;padding-right:8%}}
-#myers-headshot{height:480px;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover!important;display:block;overflow:hidden}
+#myers-headshot{height:480px; width:100%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover!important;display:block;overflow:hidden}
 #myers-about-headshot{height:auto;max-height:420px;max-width:350px;width:100%;position:relative}
 #myers-description{height:480px}
 #staff-photo{max-width:200px}
