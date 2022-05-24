@@ -8,5 +8,10 @@
     <div class="col-sm-4 text-center">
         {{ partial "single-bio" . }}
     </div>
+{{ with .Site.GetPage "page" "staff-bios" "shaun-resseguie.md" }}
+    <div class="col-sm-4 text-center">
+        {{ partial "single-bio" . }}
+    </div>
 {{ end }}    
+{{ end }}
 </div>
