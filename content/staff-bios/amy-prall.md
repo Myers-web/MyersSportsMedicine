@@ -1,7 +1,7 @@
 ---
 title: "Amy Prall, MS, LAT, ATC"
 description: "Amy Prall is the Practice Manager for Myers Sports Medicine Orthopaedic Center."
-pic: "images/staff-bios/amy-prall.jpg"
+pic: "images/staff-bios/amy-prall1.jpg"
 featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 
