@@ -3,6 +3,9 @@
 The site is build using the hugo static site generator and runs on Github pages
 via the gh-pages branch.
 
+There's been too much time since this was started in 2018 that we can't now run the right version of hugo anymore on a mac.
+See [install.md](install.md).
+
 Run the site locally using the `startApp.sh` script.
 
 Generate a production version using the `publish_ghpages.sh` script and push it live 
