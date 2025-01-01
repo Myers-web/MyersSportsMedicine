@@ -1,0 +1,167 @@
+baseurl = "https://myerssportsmedicine.com"
+languageCode = "en-us"
+title = "Myers Sports Medicine & Orthopaedic Center"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+relativeurls = true
+canonifyurls = true
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+# About ---------------------
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 2
+
+[[menu.main]]
+    name = "About Us"
+    url = "about/"
+    parent = "about"
+    weight = 1
+
+[[menu.main]]
+    name = "Meet Dr. Myers"
+    url = "dr-myers/"
+    parent = "about"
+    weight = 2
+
+[[menu.main]]
+    name = "Staff Bios"
+    url = "staff-bios/"
+    parent = "about"
+    weight = 3
+
+[[menu.main]]
+    name = "Staff Bios"
+    url = "staff-bios/"
+    parent = "about"
+    weight = 4
+
+# Physical Therapy ------------------
+
+[[menu.main]]
+    name = "Physical Therapy"
+    url = "physical-therapy"
+    weight = 3
+    
+# Featured Procedures----------------
+
+[[menu.main]]
+    name = "Featured Procedures"
+    identifier = "featured"
+    weight = 4
+
+[[menu.main]]
+    name = "Makoplasty"
+    url = "makoplasty/"
+    parent = "featured"
+    weight = 1
+    
+[[menu.main]]
+    name = "DonJoy UltraSling Quadrant"
+    url = "/procedures/shoulder-sling/"
+    parent = "featured"
+    weight = 2
+    
+[[menu.main]]
+    name = "PRP"
+    url = "prp-injections/"
+    parent = "featured"
+    weight = 3
+    
+ [[menu.main]]
+    name = "ACL Repair"
+    url = "acl-repair/"
+    parent = "featured"
+    weight = 4   
+  
+    
+# Patient Info ----------------------
+
+[[menu.main]]
+    name = "Patient Info"
+    identifier = "info"
+    weight = 5
+
+[[menu.main]]
+    name = "Patient Forms"
+    url = "patient-info/"
+    parent = "info"
+    weight = 1
+
+[[menu.main]]
+    name = "Insurance"
+    url = "insurance/"
+    parent = "info"
+    weight = 2
+
+[[menu.main]]
+    name = "Concierge Service"
+    url = "patient-info/concierge-service/"
+    parent = "info"
+    weight = 3
+
+# Patient Education ---------------------
+
+[[menu.main]]
+    name = "Patient Education"
+    identifier = "edu"
+    weight = 6
+
+[[menu.main]]
+    name = "Patient Education"
+    url = "patient-education/"
+    parent = "edu"
+    weight = 1
+
+[[menu.main]]
+    name = "The Knee"
+    url = "the-knee/"
+    parent = "edu"
+    weight = 2
+
+[[menu.main]]
+    name = "The Shoulder"
+    url = "the-shoulder/"
+    parent = "edu"
+    weight = 3
+
+[[menu.main]]
+    name = "Sports Medicine"
+    url = "sports-medicine/"
+    parent = "edu"
+    weight = 4
+
+# Testimonials ------------------
+
+[[menu.main]]
+    name = "Testimonials"
+    identifier = "testimonials"
+    weight = 7
+
+[[menu.main]]
+    name = "Testimonials"
+    parent = "testimonials"
+    url = "testimonials/"
+    weight = 1    
+
+[[menu.main]]    
+    name = "Leave a Review"
+    url = "https://search.google.com/local/writereview?placeid=ChIJ7ykyXVoF9YgR1KaqEz1qJeU"
+    parent = "testimonials"
+    weight = 2
+
+
+[Params]
+    defaultImageLarge = "images/featured-images/workout-sized.jpg"
+    defaultImageSmall = "images/featured-images/Operating-crop.jpg"
+    logo = "images/logo-alt.jpg"
+    contactImg = "images/featured-images/connectwork.png"
+    patientPortal = "https://www.pbomd.com/pboppv6/login.asp"

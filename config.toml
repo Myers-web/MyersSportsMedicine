@@ -43,13 +43,6 @@ canonifyurls = true
     url = "staff-bios/"
     parent = "about"
     weight = 4
-
-# Physical Therapy ------------------
-
-[[menu.main]]
-    name = "Physical Therapy"
-    url = "physical-therapy"
-    weight = 3
     
 # Featured Procedures----------------
 
@@ -81,6 +74,13 @@ canonifyurls = true
     url = "acl-repair/"
     parent = "featured"
     weight = 4   
+
+# Self-Pay Pricing ------------------
+
+[[menu.main]]
+    name = "Self-Pay Pricing"
+    url = "self-pay"
+    weight = 3
   
     
 # Patient Info ----------------------
@@ -95,12 +95,6 @@ canonifyurls = true
     url = "patient-info/"
     parent = "info"
     weight = 1
-
-[[menu.main]]
-    name = "Insurance"
-    url = "insurance/"
-    parent = "info"
-    weight = 2
 
 [[menu.main]]
     name = "Concierge Service"

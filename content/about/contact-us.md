@@ -5,7 +5,7 @@ featuredImage: "images/featured-images/sports-sized.jpg"
 ---
 {{% row %}}
 <div class="col-md-6 text-center">
-    <iframe title="Google Maps Location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.85571891314!2d-84.42650679394954!3d33.84183130307276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5055a5d3229ef%3A0xe5256a3d13aaa6d4!2sMyers%20Sports%20Medicine%20%26%20Orthopaedic%20Center!5e0!3m2!1sen!2sus!4v1618842289068!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>     
+    <iframe title="Google Maps Location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d578.7245243841475!2d-84.34930162750938!3d33.90941143631635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f509342b0c60c3%3A0x4e3e2f63a8f155d0!2s5667%20Peachtree%20Dunwoody%20Rd%20%23220%2C%20Atlanta%2C%20GA%2030342!5e1!3m2!1sen!2sus!4v1735760980360!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>     
 </div>
 
 <div class="col-md-3 col-sm-6">
@@ -33,7 +33,7 @@ Our office hours are as listed:
         </span>
         </span> <br> <br>
     <h1> Location </h1> 
-        <a href="https://goo.gl/maps/twBriga4J2y">3200 Downwood Cir NW <br> #340 Atlanta, GA 30327</a> 
+        <a href="https://maps.app.goo.gl/GvHmDkoWRSmqw2hf6">5667 Peachtree Dunwoody Rd <br> #220, Atlanta, GA 30342</a> 
         <br> 
         {{% facebook %}}
 </div>

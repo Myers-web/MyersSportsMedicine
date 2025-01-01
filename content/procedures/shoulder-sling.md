@@ -18,7 +18,7 @@ The Donjoy Ultrasling Quadrant is a state of the art shoulder brace designed to 
 
 3. **Surgeon freedom** – The Quadrant allows the surgeon to position the limb freely in space after a procedure and then secure the limb in that position with an easy adjustment mechanism.  The surgeon can protect a large repair, align a fracture or position the arm to maintain shoulder stability.  This is an advantage over prior iterations of the Ultrasling line that only allowed one position of the arm.
 
-4. **Patient cost** – Despite the Ultrasling Quadrant requiring years of engineering and product development, the brace is reasonably priced and is covered by most insurance plans.
+4. **Patient cost** – Despite the Ultrasling Quadrant requiring years of engineering and product development, the brace is reasonably priced.
 
 <br>
 

@@ -8,7 +8,7 @@ featuredImage: "images/featured-images/knee-sized.jpg"
 <hr>
 
 **No wait time.** <br>
-After patient check in and verification of insurance the patient is immediately placed in 
+After patient check in, the patient is immediately placed in 
 the doctor’s examination room and evaluated as soon as possible.
 
 **Pre-appointment Paperwork.** <br>

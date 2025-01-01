@@ -1,9 +1,9 @@
 <div class="row">
-{{ with .Site.GetPage "page" "staff-bios" "amy-prall.md" }}
+<!-- {{ with .Site.GetPage "page" "staff-bios" "amy-prall.md" }}
     <div class="col-sm-3 text-center">
         {{ partial "single-bio" . }}
     </div>
-{{ end }}
+{{ end }} -->
 {{ with .Site.GetPage "page" "staff-bios" "michael-mcgrane.md" }}
     <div class="col-sm-3 text-center ">
         {{ partial "single-bio" . }}
@@ -19,21 +19,22 @@
         {{ partial "single-bio" . }}
     </div>    
 {{ end }}   
-</div> 
-<div class="row margin-top">
 {{ with .Site.GetPage "page" "staff-bios" "molly-myers.md" }}
     <div class="col-sm-3 text-center ">
         {{ partial "single-bio" . }}
     </div>
 {{ end }}
-{{ with .Site.GetPage "page" "staff-bios" "ross-brakeville.md" }}
+</div> 
+<div class="row margin-top">
+
+<!-- {{ with .Site.GetPage "page" "staff-bios" "ross-brakeville.md" }}
     <div class="col-sm-3 text-center">
         {{ partial "single-bio" . }}
     </div>
-{{ end }}
-{{ with .Site.GetPage "page" "staff-bios" "ryan-ingraffia.md" }}
+{{ end }} -->
+<!-- {{ with .Site.GetPage "page" "staff-bios" "ryan-ingraffia.md" }}
     <div class="col-sm-3 text-center ">
         {{ partial "single-bio" . }}
     </div>
-{{ end }}   
+{{ end }}    -->
 </div>
