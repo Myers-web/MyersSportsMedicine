@@ -1,7 +1,7 @@
 ---
 title: "Cash Pay Pricing"
 date: 2024-01-01T09:55:26-06:00
-description: "At Myers Sports Medicine and Orthopaedic Center, we recognize that navigating healthcare costs can be challenging. To make your care more accessible and straightforward, we proudly offer transparent self-pay pricing for our services. Self-pay rates are available exclusively for payments made in full at the time of service."
+description: "At Myers Sports Medicine and Orthopaedic Center, we recognize that navigating healthcare costs can be challenging. To make your care more accessible and straightforward, we proudly offer transparent self-pay pricing for our services. Self-pay rates are available exclusively for payments made in full at the time of service"
 pic: ""
 featuredImage: "images/featured-images/self-pay.png"
 ---
@@ -10,15 +10,15 @@ At **Myers Sports Medicine and Orthopaedic Center**, we recognize that navigatin
 
 <br>
 
-*Please note: commercial and government-sponsored insurance plans do not qualify for self-pay pricing and cannot be submitted for out-of-network reimbursement.*
+*Please note: commercial and government-sponsored insurance plans do not qualify for self-pay pricing and cannot be submitted for reimbursement.*
 
 <br>
 
-## Who Benefits from Bundled Pricing?
+## Who Benefits from Transparent Pricing?
 <hr style="margin-bottom:10px;">
 
 
-Our self-pay pricing is designed for:
+### Our self-pay pricing is designed for:
 - Self-pay patients
 - Self-insured employers
 - Health-sharing ministry members
@@ -28,11 +28,15 @@ Our self-pay pricing is designed for:
 
 ## Important Details
 <hr style="margin-bottom:10px;">
-Each surgical bundle covers treatment for a single body part and includes the surgeon’s fee, which encompasses the pre-operative appointment, surgery, and post-operative follow-up visit. For example, treatment for your right knee and left shoulder would require two (2) separate bundles. An evaluation appointment is required to determine if surgery is necessary, and the cost for this evaluation is listed below. The evaluation ensures you receive a personalized treatment plan, and if surgery is recommended, we’ll provide a detailed cost estimate tailored to your needs.
+An evaluation appointment is required to determine if surgery is necessary, and the cost for this evaluation is listed below. The evaluation ensures you receive a personalized treatment plan, and if surgery is recommended, we’ll provide a detailed cost estimate tailored to your needs.
 
 <br>
 
-The bundled pricing applies only to the surgeon’s fee. Additional costs, such as facility fees, anesthesia, or post-operative physical therapy, are separate and may be submitted to your insurance provider.
+Each surgical bundle covers treatment for a single body part and includes the surgeon’s fee, which encompasses the pre-operative appointment, surgery, and post-operative follow-up visits within 90 days of surgery.
+
+<br>
+
+The bundled pricing applies only to the surgeon’s fee. Additional costs, such as hospital fees, anesthesia, or post-operative physical therapy, are separate and may be submitted to your insurance provider.
 
 <br>
 
@@ -71,14 +75,17 @@ The bundled pricing applies only to the surgeon’s fee. Additional costs, such 
 
 ### Injections:
 - Corticosteroid Injection with Image Guidance (Single Joint): $150.00
+- Aspiration of fluid/swelling with Image Guidance (Single Joint): $200.00
 - PRP Injection with Image Guidance (Single Joint, Per Injection): $1,250.00
 - PRP Injection with Image Guidance (Bilateral, Per Injection): $2,000.00
 
 <br>
 
 ### Surgical Procedures:
-Surgical cost estimates will be provided after a surgical recommendation. Dr. Myers' surgical fees include the pre-operative office visit and post-operative follow-up care for up to 90 days post-surgery.
-Other costs related to surgery (facility fees, anesthesia, and physical therapy) may be submitted to your insurance provider.
+Surgical cost estimates will be provided after a surgical recommendation. Dr. Myers' surgical fees include the pre-operative office visit and post-operative follow-up office visits for up to **90 days post-surgery.**
+
+
+*Other costs related to surgery (facility fees, anesthesia, and physical therapy) may be submitted to your insurance provider.*
 
 <br>
 

@@ -78,9 +78,21 @@ canonifyurls = true
 # Self-Pay Pricing ------------------
 
 [[menu.main]]
-    name = "Self-Pay Pricing"
-    url = "self-pay"
+    name = "Self-Pay"
+    identifier = "self-pay"
     weight = 3
+
+[[menu.main]]
+    name = "Self-Pay Pricing"
+    parent = "self-pay"
+    url = "self-pay"
+    weight = 1
+
+[[menu.main]]
+    name = "Cash-Pay FAQs"
+    url = "cash-pay-faq"
+    parent = "self-pay"
+    weight = 2
   
     
 # Patient Info ----------------------
@@ -95,12 +107,6 @@ canonifyurls = true
     url = "patient-info/"
     parent = "info"
     weight = 1
-
-[[menu.main]]
-    name = "Concierge Service"
-    url = "patient-info/concierge-service/"
-    parent = "info"
-    weight = 3
 
 # Patient Education ---------------------
 

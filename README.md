@@ -29,3 +29,13 @@ style sheet to the remote repo.
 
 The site is using hugo 0.40.1
 
+
+
+click start button on docker if you have docker installed and site running already, or 
+docker run -v $(pwd):/MyersSportsMedicine --name ubuntu -p 1313:1313 -d -i -t ubuntu bash
+
+then run this in terminal in location of root
+docker exec -it ubuntu bash
+
+then cd into Myers folder within terminal instance of docker
+then run ./startApp.sh
