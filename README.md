@@ -39,3 +39,14 @@ docker exec -it ubuntu bash
 
 then cd into Myers folder within terminal instance of docker
 then run ./startApp.sh
+
+
+after done making changes, run the ./publish script
+then commit changes and push
+
+then copy the public folder
+switch to gh-pages branch
+paste public folder files into branch
+then commit and push
+then switch back to master
+done
