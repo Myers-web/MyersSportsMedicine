@@ -28,13 +28,9 @@ At **Myers Sports Medicine and Orthopaedic Center**, we recognize that navigatin
 
 ## Important Details
 <hr style="margin-bottom:10px;">
-An evaluation appointment is required to determine if surgery is necessary, and the cost for this evaluation is listed below. The evaluation ensures you receive a personalized treatment plan, and if surgery is recommended, we’ll provide a detailed cost estimate tailored to your needs.
+An evaluation appointment is required to determine if surgery is necessary, and the cost for this evaluation is listed below. The evaluation ensures you receive a personalized treatment plan, and if surgery is recommended, we'll provide a detailed cost estimate tailored to your needs.
 
-<br>
-
-Each surgical bundle covers treatment for a single body part and includes the surgeon’s fee, which encompasses the pre-operative appointment, surgery, and post-operative follow-up visits within 90 days of surgery.
-
-<br>
+Each surgical bundle covers treatment for a single body part and includes the surgeon's fee, which encompasses the pre-operative appointment, surgery, and post-operative follow-up visits within 90 days of surgery.
 
 The bundled pricing applies only to the surgeon’s fee. Additional costs, such as hospital fees, anesthesia, or post-operative physical therapy, are separate and may be submitted to your insurance provider.
 
