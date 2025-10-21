@@ -4,7 +4,7 @@
             <div class="procedure-content-hover">
                 <h1 class="open-sans white-text grid-2-top-p">{{ .Title }}</h1>
                 <p class="grid-1-bottom white-text weak-center">{{ .Description }}</p>
-                <a class="btn-reg btn-a blue4 white-border" href="{{ .URL | absURL }}">
+                <a class="btn-reg btn-a blue4 white-border" href="{{ .RelPermalink | absURL }}">
                     Read More
                     <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
                 </a>

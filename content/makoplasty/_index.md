@@ -7,15 +7,14 @@ tags: ["mako", "newTech"]
 ---
 
 ## What is MAKOplasty&reg;?
-<hr>
+---
+
 MAKOplasty&reg; Partial Knee Resurfacing and MAKOplasty&reg; Total Hip Replacement are 
 enabled by the surgeon controlled RIO® robotic arm system, offering increased accuracy to 
 optimize surgical results.
 
-<br>
-
 ## MAKOplasty&reg; Partial Knee Resurfacing
-<hr>
+---
 [Partial Knee Replacement](https://patients.stryker.com/knee-replacement/options/mako-robotic-arm-assisted-partial-knee) is a treatment option for adults living with early-to mid-stage 
 osteoarthritis (OA) that has not progressed to all three compartments of the knee. 
 MAKOplasty&reg; Partial Knee Resurfacing is an advanced treatment option. It is powered 
@@ -24,7 +23,6 @@ perform surgery accurately through a smaller incision as compared to manual proc
 By selectively targeting the part of the knee damaged by OA, surgeons can resurface the 
 knee while sparing the healthy bone and ligaments surrounding it. Partial knee resurfacing may be done unicompartmentally (when only one area of the joint needs resurfacing) or bicompartmentally (when two areas of the joint need to be resurfaced). Both options maintain the surrounding healthy bone and ligaments, unlike total knee replacements.
 
-<br>
  <div class="row">
     <div class="col-sm-6">
       {{% image-card-md "A unicompartmental partial knee replacement may be used when only one compartment area of the joint is damaged" "images/makoplasty/uni-knee.png" %}}
@@ -41,10 +39,9 @@ knee while sparing the healthy bone and ligaments surrounding it. Partial knee r
 * A more natural feeling knee following surgery
 * More rapid recovery and shorter hospital stay compared to traditional total knee Resurfacing surgery
 
-<br>
-
 ## MAKOplasty&reg; Total Hip Replacement
-<hr>
+---
+
 MAKOplasty&reg; Total Hip Replacement is a breakthrough solution for adults suffering 
 from painful degenerative joint disease of the hip who need a [total hip replacement](https://patients.stryker.com/hip-replacement/procedures/mako-robotic-arm-assisted). It 
 is powered by the surgeon-controlled RIO® Robotic Arm System, which enables more accurate 

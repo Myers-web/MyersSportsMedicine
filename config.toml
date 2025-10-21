@@ -37,12 +37,6 @@ canonifyurls = true
     url = "staff-bios/"
     parent = "about"
     weight = 3
-
-[[menu.main]]
-    name = "Staff Bios"
-    url = "staff-bios/"
-    parent = "about"
-    weight = 4
     
 # Featured Procedures----------------
 
@@ -158,6 +152,11 @@ canonifyurls = true
     parent = "testimonials"
     weight = 2
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [Params]
     defaultImageLarge = "images/featured-images/workout-sized.jpg"

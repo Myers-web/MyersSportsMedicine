@@ -1,4 +1,4 @@
 {{ $sec := (.Get 0) }}
 {{ with .Site.GetPage "section" $sec }}
-    {{ .URL }}
+    {{ .RelPermalink }}
 {{ end }}

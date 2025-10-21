@@ -1,20 +1,20 @@
 <!--Footer-->
 <footer class="page-footer center" style="background-image: url('{{ .Site.Params.contactImg | absURL }}');">
-    {{ with .Site.GetPage "page" "about" "contact-us.md" }}
-    <div class="footer-contact container-fluid ">
+    {{ with .Site.GetPage "/about/contact-us" }}
+    <div class="footer-contact container-fluid">
         <div class="container">
-        <div class="row text-center grid-2-top grid-1-bottom">
-            <h1 class="title">{{ .Title }}</h1>
-        </div>
-        <div class="oswald">
-            {{ .Content }}
+            <div class="row text-center grid-2-top grid-1-bottom">
+                <h1 class="title">{{ .Title }}</h1>
+            </div>
+            <div class="oswald">
+                {{ .Content }}
+            </div>
         </div>
     </div>
-</div>
     {{ end }}
     <div class="footer-copyright">
         <div class="container-fluid">
-            © 2021 Copyright: {{ .Site.Title }}
+            © 2025 Copyright: {{ .Site.Title }}
         </div>
     </div>
 </footer>

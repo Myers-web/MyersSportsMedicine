@@ -6,7 +6,7 @@
     <ul class="list-group link-list">
         {{ range .Site.Taxonomies.tags.mako }}
         <li>
-            <a class="list-group-item" href="{{ .URL | absURL }}">
+            <a class="list-group-item" href="{{ .RelPermalink | absURL }}">
                 <span>{{.Title}}</span>
             </a>
         </li>

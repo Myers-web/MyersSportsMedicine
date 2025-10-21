@@ -1,7 +1,7 @@
 <div class="contents text-center">
 {{ range .Paginator.Pages }}
         <div class="btn-reg btn-a">
-        <a href="{{ .URL | absURL }}">
+        <a href="{{ .RelPermalink | absURL }}">
             {{.Title}}
             <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
         </a>

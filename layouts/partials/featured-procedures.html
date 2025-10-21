@@ -5,11 +5,11 @@
     <div class="container procedure-format">
         <div class = "col-xs-12">
         <div class="row">
-                {{ with .Site.GetPage "page" "procedures" "acl-animation.md" }}
+                {{ with .Site.GetPage "/procedures/acl-animation" }}
                     {{ partial "featured-procedure" . }}
                 {{ end }}
 
-                {{ with .Site.GetPage "page" "procedures" "shoulder-sling.md" }}
+                {{ with .Site.GetPage "/procedures/shoulder-sling" }}
                     {{ partial "featured-procedure" . }}
                 {{ end }}  
         </div>
@@ -22,5 +22,4 @@
                 {{ end }}
         </div>
     </div>
-</div>
 </div>    

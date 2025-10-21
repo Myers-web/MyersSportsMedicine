@@ -13,7 +13,7 @@
     <ul class="list-group link-list">
         {{ range .Site.Taxonomies.tags.edu }}
         <li>
-            <a class="list-group-item" href="{{ .Page.URL | absURL }}">{{ .Page.Title }}</a>
+            <a class="list-group-item" href="{{ .Page.RelPermalink | absURL }}">{{ .Page.Title }}</a>
         </li>
         {{ end }}
     </ul>
