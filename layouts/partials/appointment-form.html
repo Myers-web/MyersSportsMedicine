@@ -1,3 +1,31 @@
+{{/* TRANSITION STATE: Appointment form replaced with practice update notice.
+     To restore: delete the notice block below and uncomment the original form.
+     Original form preserved in comment at the bottom of this file.
+     Changed: 2026-06-26 */}}
+<div class="appointment-form drop-shadow">
+    <h1 class="form-title white-text">PRACTICE UPDATE</h1>
+    <div style="padding:10px 5px;">
+        <p class="open-sans" style="color:#fff; font-size:15px; line-height:1.8; margin-bottom:14px;">
+            Our office location will close on <strong>July 31, 2026</strong>.
+            Dr. Myers remains available for <strong>telehealth consultations</strong>
+            through August 31, 2026.
+        </p>
+        <p class="open-sans" style="color:#fff; font-size:15px; line-height:1.8; margin-bottom:6px;">
+            To schedule a telehealth visit or access your records, call:
+        </p>
+        <p class="open-sans text-center" style="color:#fff; font-size:22px; font-weight:bold; margin:14px 0;">
+            <a href="tel:4043528156" style="color:#fff;">404-352-8156</a>
+        </p>
+        <p class="text-center" style="margin-top:18px;">
+            <a href="{{ "medical-records/" | absURL }}" style="color:#fff; text-decoration:underline; font-size:14px;">
+                Medical Records &amp; Patient Portal Instructions &rsaquo;
+            </a>
+        </p>
+    </div>
+</div>
+
+{{/* ORIGINAL APPOINTMENT FORM — remove comment delimiters to restore:
+
 <div class="appointment-form drop-shadow">
     <h1 class="form-title white-text">MAKE AN APPOINTMENT</h1>
     <form action="https://formspree.io/f/xlezzbvz"
@@ -18,3 +46,5 @@
         <button type="submit" class="blue4 btn-reg appointment-form-btn no-border">Submit</button>
     </form>
 </div>
+
+*/}}

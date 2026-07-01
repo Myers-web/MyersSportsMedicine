@@ -102,6 +102,12 @@ canonifyurls = true
     parent = "info"
     weight = 1
 
+[[menu.main]]
+    name = "Medical Records"
+    url = "medical-records/"
+    parent = "info"
+    weight = 2
+
 # Patient Education ---------------------
 
 [[menu.main]]

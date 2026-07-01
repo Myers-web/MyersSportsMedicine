@@ -1,12 +1,8 @@
 ---
 title: "Patient Forms"
 date: 2018-01-31T22:43:08-05:00
-description: "The following forms cover your history of injury, as well as questions about your personal health. Forms must be signed and returned to MSMOC staff"
+description: "Patient forms and records request documents for Myers Sports Medicine & Orthopaedic Center. Includes the Release of Records Request Form for portal access."
 featuredImage: "images/featured-images/knee-sized.jpg"
 ---
 
-The following forms must be filled out by all patients. Download them, print 
-them and fill them out from the comfort of your own home.
- 
-Forms must be signed in front of MSMOC staff.
- 
+The forms below are provided for patient access and administrative needs during the practice transition. For medical records access or portal credentials, please use the Release of Records Request Form or contact the office at 404-352-8156.

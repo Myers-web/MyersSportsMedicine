@@ -8,18 +8,25 @@
         <li><a class="list-group-item" href="{{ "documents/forms/Patient_Info_Form.pdf" | absURL }}"><span class="glyphicon glyphicon-link"></span>PATIENT INFORMATION FORM</a></li>
         <!-- <li><a class="list-group-item" href="{{ "documents/forms/PA_Cash_Only.pdf" | absURL }}"><span class="glyphicon glyphicon-link"></span>PATIENT ACKNOWLEDGEMENT OF CASH-ONLY POLICY</a></li> -->
         <li><a class="list-group-item" href="{{ "documents/forms/privacy_policy.pdf" | absURL }}"><span class="glyphicon glyphicon-link"></span>RECEIPT OF OUR NOTICE OF PRIVACY PRACTICES</a></li>
-        <li><a class="list-group-item" href="{{ "documents/forms/Hippa_Form.pdf" | absURL }}"><span class="glyphicon glyphicon-link"></span>HIPPA FORMS</a></li>
+        <li><a class="list-group-item" href="{{ "documents/forms/release-of-records-request.pdf" | absURL }}"><span class="glyphicon glyphicon-link"></span>RELEASE OF RECORDS REQUEST FORM</a></li>
         <li><a class="list-group-item" href="{{ "documents/forms/Good Faith Estimate Notification.pdf" | absURL }}"><span class="glyphicon glyphicon-link"></span>GOOD FAITH ESTIMATE NOTIFICATION</a></li>
         <li><a class="list-group-item" href="{{ "documents/forms/Payment_Policy.pdf" | absURL }}"><span class="glyphicon glyphicon-link"></span>PAYMENT POLICY</a></li>
     </ul>
     <div class="text-center grid-1-top">
-        <p class="oswald-bold">Please click below to complete your patient portal.</p>
+        <p class="open-sans" style="font-size:15px; color:#555; margin-bottom:8px;">
+            To request portal credentials, please complete the <strong>Release of Records Request Form</strong> above.
+            Once you have your credentials, you may use the Patient Portal link below.
+        </p>
         <div class="grid-1-top-p grid-1-bottom-p">
             <a class="btn-reg btn-a blue4 drop-shadow" href="{{ .Site.Params.patientPortal | absURL }}">
                 Patient Portal
                 <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
             </a>
         </div>
+        <p class="open-sans grid-1-top" style="font-size:14px; color:#555;">
+            Need full instructions for accessing your records?
+            <a href="{{ "medical-records/" | absURL }}">View Medical Records &amp; Patient Portal Instructions</a>
+        </p>
     </div>
 </div>
 {{ partial "main-bottom" . }}

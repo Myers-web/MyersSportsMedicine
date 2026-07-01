@@ -57,4 +57,4 @@ Dr. Myers can perform this procedure in the office with minimal to no side effec
 <hr>
 PRP uses your own body’s natural properties to treat your injury, without the addition of any other materials or components. Because of this, side effects from utilizing PRP are very uncommon.
 
-Please feel free to contact our office for more information about this procedure or to book an appointment at 404-352-8156.
+For questions about this procedure, please contact our office at 404-352-8156. Dr. Myers will be available for telehealth consultations through August 31, 2026.

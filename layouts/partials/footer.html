@@ -12,9 +12,14 @@
         </div>
     </div>
     {{ end }}
+    <div style="background-color:#0a2f42; text-align:center; padding:10px 15px;">
+        <a href="{{ "medical-records/" | absURL }}" style="color:#fff; font-size:14px; text-decoration:underline;">
+            Medical Records &amp; Patient Portal Instructions
+        </a>
+    </div>
     <div class="footer-copyright">
         <div class="container-fluid">
-            © 2025 Copyright: {{ .Site.Title }}
+            © {{ now.Year }} Copyright: {{ .Site.Title }}
         </div>
     </div>
 </footer>

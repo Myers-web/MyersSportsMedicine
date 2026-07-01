@@ -44,8 +44,8 @@ Many patients with high-deductible plans find the cash-pay model beneficial beca
 
 <br>
 
-## How do I schedule an appointment?
-Scheduling is easy. Simply call our office at (404) 352-8156, and one of our staff members will assist you. Payment for the initial evaluation is required at the time of scheduling to confirm your appointment.
+## Scheduling and Telehealth
+Our office location will close on July 31, 2026. Dr. Myers will be available for telehealth consultations through August 31, 2026. To discuss availability, please call (404) 352-8156.
 
 <br>
 

@@ -13,7 +13,3 @@ the time to properly diagnose patients and ensure they
 understand their condition and all of the treatment 
 options available to them. 
 
-If you are interested in meeting Dr. Myers and exploring 
-the ways that he can help you, please Contact Us to make 
-an appointment. We are conveniently located just inside 
-the <span itemprop="areaServed location">Atlanta Perimeter just off of Peachtree Dunwoody Rd.</span>

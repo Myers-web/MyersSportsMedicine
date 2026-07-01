@@ -48,5 +48,4 @@ clients for whom “time is money”. We hope the time-savings will help you mee
 scheduling requirements and maximize your time with our doctors by limiting the time 
 spent in the office on administrative tasks.
 
-For more information on Concierge Services, please contact us. To schedule a Concierge 
-appointment, simply make the request when you are scheduling your appointment.
+For questions, please contact our office at 404-352-8156. Please note that our office location will close on July 31, 2026; Dr. Myers remains available for telehealth consultations through August 31, 2026.

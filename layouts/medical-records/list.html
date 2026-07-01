@@ -1,0 +1,80 @@
+{{ define "main" }}
+{{ partial "header" . }}
+{{ partial "main-top" . }}
+<div class="col-xs-12" style="overflow-wrap: anywhere; word-break: break-word;">
+    <div class="open-sans">
+        {{ .Content }}
+    </div>
+
+    <!-- Key dates -->
+    <div class="grid-2-top">
+        <h2 class="oswald-bold">Important Dates</h2>
+        <hr>
+        <ul class="list-group link-list">
+            <li class="list-group-item"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>&nbsp; <strong>Last day of in-person patient care:</strong> July 15, 2026</li>
+            <li class="list-group-item"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>&nbsp; <strong>Office location closes:</strong> July 31, 2026</li>
+            <li class="list-group-item"><span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp; <strong>Telehealth consultations available through:</strong> August 31, 2026</li>
+        </ul>
+        <p class="open-sans" style="margin-top:12px; font-size:14px; color:#555;">
+            Admin staff remain available part-time after the office closes to assist with records transfers and administrative requests.
+        </p>
+    </div>
+
+    <!-- Contact -->
+    <div class="grid-2-top">
+        <h2 class="oswald-bold">Contact the Office</h2>
+        <hr>
+        <ul class="list-unstyled open-sans" style="font-size:16px; line-height:2;">
+            <li><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>&nbsp; Phone: <a href="tel:4043528156">404-352-8156</a></li>
+            <li><span class="glyphicon glyphicon-print" aria-hidden="true"></span>&nbsp; Fax: 404-350-9405</li>
+            <li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp; Email: <a href="mailto:management@myerssportsmedicine.com">management@myerssportsmedicine.com</a></li>
+        </ul>
+    </div>
+
+    <!-- Step 1: Request portal credentials via Release of Records Request Form -->
+    <div class="grid-2-top">
+        <h2 class="oswald-bold">Step 1 — Request Your Portal Credentials</h2>
+        <hr>
+        <p class="open-sans">
+            To request your unique PBOmd Patient Portal login information, download and complete the
+            Release of Records Request Form below. Return the completed form to Myers Sports Medicine
+            by fax at 404-350-9405 or by email at
+            <a href="mailto:management@myerssportsmedicine.com">management@myerssportsmedicine.com</a>.
+        </p>
+        <div class="text-center grid-1-top grid-1-bottom-p">
+            <a class="records-auth-btn" href="{{ "documents/forms/release-of-records-request.pdf" | absURL }}" target="_blank" rel="noopener">
+                Download Release of Records Request Form
+                <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Step 2: Access the patient portal once credentials are received -->
+    <div class="grid-2-top">
+        <h2 class="oswald-bold">Step 2 — Access Your Records via the Patient Portal</h2>
+        <hr>
+        <p class="open-sans">Once you have received your portal credentials, your medical records and electronic X-ray images are available through the <strong>PBOmd Patient Portal</strong>.</p>
+        <p class="open-sans" style="margin-top:10px;">
+            Once you are logged in, you can click individual visit dates to view your records and electronic X-ray images.
+            You may <strong>save or print</strong> your records and images to share with another provider.
+        </p>
+        <div class="text-center grid-1-top grid-1-bottom-p">
+            <a class="btn-reg btn-a blue4 drop-shadow" href="https://www.pbomd.com/pboppv6/login.asp" target="_blank" rel="noopener">
+                Go to Patient Portal
+                <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Cross-link back to patient forms -->
+    <div class="grid-2-top grid-2-bottom">
+        <hr>
+        <p class="open-sans text-center" style="font-size:14px; color:#555;">
+            Looking for patient intake forms?
+            <a href="{{ "patient-info/" | absURL }}">View Patient Forms</a>
+        </p>
+    </div>
+
+</div>
+{{ partial "main-bottom" . }}
+{{ end }}

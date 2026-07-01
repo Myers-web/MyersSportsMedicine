@@ -1,11 +1,25 @@
 {{ define "main" }}
 {{ partial "header" . }}
 {{ partial "main-top-base" . }}
-<div class="text-center">
-    {{ .Content }}  
+<div class="practice-alert-card">
+    <h2 class="practice-alert-title">Important Practice Update</h2>
+    <p class="practice-alert-body">Dr. Myers will be taking an extended sabbatical. Our office location will close on <strong>July 31, 2026</strong>. Dr. Myers will remain available for telehealth consultations through <strong>August 31, 2026</strong>.</p>
+    <p class="practice-alert-body">For records access or portal credentials, visit <a href="{{ "medical-records/" | absURL }}">Medical Records &amp; Patient Portal Instructions</a> or call <a href="tel:4043528156">404-352-8156</a>.</p>
+    <div class="text-center" style="margin-top:18px;">
+        <a class="btn-reg blue4 drop-shadow practice-alert-btn" href="{{ "medical-records/" | absURL }}">
+            Medical Records &amp; Records Request
+            <span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span>
+        </a>
+        <div style="margin-top:10px;">
+            <a class="btn-reg blue4 drop-shadow practice-alert-btn" href="{{ "documents/msmoc-sabbatical-letter-signed.pdf" | absURL }}" target="_blank" rel="noopener">
+                View Dr. Myers' Letter
+                <span class="glyphicon glyphicon-file" aria-hidden="true"></span>
+            </a>
+        </div>
+    </div>
 </div>
-<div class="container">
-{{ partial "commercial" . }}
+<div class="text-center">
+    {{ .Content }}
 </div>
 <div class="grid-1-top grid-1-bottom">
     {{ partial "about-myers" . }}

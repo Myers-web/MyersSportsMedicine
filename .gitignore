@@ -7,3 +7,41 @@
 # Hugo
 themes
 public
+.hugo_build.lock
+
+# ---------------------------------------------------------------------------
+# PRIVACY / PHI PROTECTION  (added for the 2026 practice-transition project)
+# Never commit patient data, exports, credentials, or audit artifacts.
+# Patient data lives OUTSIDE this repo in ../private_data and must stay there.
+# These rules are belt-and-suspenders in case any such file lands inside repo/.
+# ---------------------------------------------------------------------------
+
+# Patient data / exports (any spreadsheet or delimited export = potential PHI)
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+
+# Project working/output folders (kept as siblings of repo/, never tracked)
+private_data/
+outputs/
+vendor_exports/
+audit_packet/
+screenshots/
+
+# Credentials & secrets
+.env
+.env.*
+*.env
+credentials*
+*secret*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.gstack/
